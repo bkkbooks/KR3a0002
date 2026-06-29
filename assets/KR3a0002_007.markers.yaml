@@ -1,0 +1,1071 @@
+canonical_identifier: bkk:krp/KR3a0002/bkk/v1/markers/7
+seq: 7
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', SBCK: 荀子卷第七登仕郎守大理評事揚王霸篇第十一國者天下之制利用也過於國制􅄛字耳天下用之利者無人主者天下之利勢也利者也勢之最得道以持之則大安也大榮也積美之原也不得道以持之則大危也大累也有之不如無之如無國有國不及其綦也索爲匹夫不可得也極之時綦謂窮齊湣宋獻是也偃也爲齊閔王所滅吕氏春秋云宋康王湣與閔同齊閔王爲淖齒所殺宋獻宋君各私爲謚故與此不同此云獻國㓕之後其臣子故人主天下之利勢也然而不能自安也安之者必將道也道守之必將以故用國者義立而王信立而霸權謀立而亡三者明主之所謹擇也愼擇之所宜謹仁人之所務白也白也白明挈國以呼禮義而無以害之務皆禮義也無以害之謂不以他事害禮義也挈提舉也言提挈一國之人皆使呼召禮義言所行一不義殺一無罪而得天下仁者不爲也擽然扶持心國且若是其固也所持心持國不行不櫟讀為落石貎也其然如石之固也義不殺無罪落所與爲之者之人則舉義士也用義士謂若伊吕之比者舉皆也所與為政之人則皆所以爲布陳於國家刑法者則舉義法也夏贖刑之類也謂若周穆王訓主之所極然帥羣臣而首郷之者則舉義志也所極信率志意也主也一曰志記也舊典之有義者謂若六經也羣臣歸向之者則皆義之志謂不懐不義之意如是則下仰上以義矣是綦定也以義爲本仰魚亮反綦當爲基基本也言綦定而國定國定而天下定}
+  - {type: page-break, offset: 0, content: '', id: KR3a0002_SBCK_007-1a}
+  - {type: page-break, offset: 0, content: '', id: KR3a0002_SBCK_007-1b}
+  - {type: page-break, offset: 0, content: '', id: KR3a0002_SBCK_007-2a}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 七唐楊倞註王霸篇第十一國者天下之制利用也天下用之利者無過於國制衍字耳人主者天下之利勢也勢之最利者也得道以持之則大安也大榮也積美之源也不得道以持之則大危也大累也有之不如無之有國不如無國有也及其綦也索為匹夫不可得也綦謂窮極之時齊湣宋獻是也湣與閔同齊湣王為淖齒所殺宋獻宋君謚也為齊湣王所滅吕氏春秋云宋康王此云獻國滅之後其臣子各私為謚故與此不同也故人主天下之利勢也然而不能自安也安之者必將道也必將以道守之故用國者義立而王信立而霸權謀立而亡三者明主之所謹擇也所宜謹愼擇之仁人之所務白也白明白也挈國以呼禮義而無以害之挈提舉也言挈提一國之人皆使呼召禮義言所務皆禮義也無以害之謂不以他事害禮義也行一不義殺一無罪而得天下仁者不為也櫟然扶持心國且若是其固也櫟然落石貎其所持心持國不行不義不殺無罪落然如石之固也之所與為之者之人則舉義士也舉皆也所與為政之人則皆用義士謂若伊吕之比者也之所以為布陳於國家刑法者則舉義法也謂若周穆王訓夏贖刑之類也主之所極然帥羣臣而首嚮之者則舉義志也志意也主所極信率羣臣歸嚮之者則皆義之志意謂不懐不義之意也或曰志記也舊典之有義者謂若六經也如是則下仰上以義矣是綦定也綦當為基基本也言以義為本仰魚亮反綦定而國定國定而天下定}
+  - {type: page-break, offset: 0, content: '', id: KR3a0002_WYG_007-1b, image: WYG0695/WYG0695-0180b.png}
+  - {type: page-break, offset: 0, content: '', id: KR3a0002_WYG_007-2a, image: WYG0695/WYG0695-0181a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 荀子卷第七登仕郎守大理評事揚王霸篇第十一國者天下之制利用也過於國制衍字耳天下用之利者無人主者天下之利勢也利者也勢之最得道以持之則大安也大榮也積美之原也不得道以持之則大危也大累也有之不如無之如無國有國不及其綦也索爲匹夫不可得也極之時綦謂窮齊湣宋獻是也偃也爲齊閔王所滅吕氏春秋云宋康王湣與閔同齊閔王爲淖齒所殺宋獻宋君各私爲謚故與此不同此云獻國㓕之後其臣子故人主天下之利勢也然而不能自安也安之者必將道也道守之必將以故用國者義立而王信立而霸權謀立而亡三者明主之所謹擇也愼擇之所宜謹仁人之所務白也白也白明挈國以呼禮義而無以害之務皆禮義也無以害之謂不以他事害禮義也挈提舉也言提挈一國之人皆使呼召禮義言所行一不義殺一無罪而得天下仁者不爲也擽然扶持心國且若是其固也所持心持國不行不櫟讀為落石貎也其然如石之固也義不殺無罪落所與爲之者之人則舉義士也用義士謂若伊吕之比者舉皆也所與為政之人則皆所以爲布陳於國家刑法者則舉義法也夏贖刑之類也謂若周穆王訓主之所極然帥羣臣而首郷之者則舉義志也所極信率志意也主也一曰志記也舊典之有義者謂若六經也羣臣歸向之者則皆義之志謂不懐不義之意如是則下仰上以義矣是綦定也以義爲本仰魚亮反綦當爲基基本也言綦定而國定國定而天下定}
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3a0002_tls_007-1a.1}
+  - {type: xml-element, offset: 0, content: '', id: KR3a0002_tls_007-bkkxmlele1}
+  - {type: variant, offset: 2, length: 3, content: 篇第七, SBCK: 無置錐之地誠義乎志意加義乎身行志意又加之以}
+  - {type: page-break, offset: 2, content: '', id: KR3a0002_SBCK_007-2b}
+  - {type: variant, offset: 2, length: 3, content: 篇第七, WYG: 無置錐之地誠義乎志意加義乎身行}
+  - {type: variant, offset: 2, length: 3, content: 篇第七, krp: 無置錐之地誠義乎志意加義乎身行志意又加之以}
+  - {type: xml-element, offset: 5, content: '', id: KR3a0002_tls_007-bkkxmlele2}
+  - {type: xml-element, offset: 5, content: '', id: KR3a0002_tls_007-bkkxmlele3}
+  - {type: xml-element, offset: 5, content: '', id: KR3a0002_tls_007-bkkxmlele4}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3a0002_tls_007-1a.3}
+  - {type: variant, offset: 7, length: 0, content: '', SBCK: 誠能義乎立行皆以義行下孟反義乎身行言志意及立身箸}
+  - {type: variant, offset: 7, length: 0, content: '', WYG: 誠能義乎志意又加}
+  - {type: variant, offset: 7, length: 0, content: '', krp: 誠能義乎立行皆以義行下孟反義乎身行言志意及立身箸}
+  - {type: variant, offset: 8, length: 4, content: 門人五尺, SBCK: 言語所論􅀃皆明義也以義箸於言語謂濟}
+  - {type: variant, offset: 8, length: 4, content: 門人五尺, WYG: 以義行言志意及立身立行皆以義行下孟反著}
+  - {type: variant, offset: 8, length: 4, content: 門人五尺, krp: 言語所論說皆明義也以義箸於言語謂濟}
+  - {type: punctuation, offset: 9, content: （, id: KR3a0002_tls_007-bkkpn1}
+  - {type: punctuation, offset: 10, content: ）, id: KR3a0002_tls_007-bkkpn2}
+  - {type: punctuation, offset: 10, content: ，, id: KR3a0002_tls_007-bkkpn3}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR3a0002_tls_007-1a.4}
+  - {type: variant, offset: 13, length: 2, content: 豎子, SBCK: 日不隱乎天下名垂乎後世之日成功以義得濟乎天下謂極昭明天下莫能隱匿之之後也}
+  - {type: variant, offset: 13, length: 2, content: 豎子, WYG: ''}
+  - {type: variant, offset: 13, length: 2, content: 豎子, krp: 日不隱乎天下名垂乎後世之日成功以義得濟乎天下謂極昭明天下莫能隱匿之之後也}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3a0002_tls_007-1a.5}
+  - {type: variant, offset: 16, length: 2, content: 羞稱, SBCK: 仲尼行義既成之後不隱今亦以天下之顯諸侯誠義}
+  - {type: variant, offset: 16, length: 2, content: 羞稱, WYG: 語以義著言語謂所論說皆明義也濟之日不隠}
+  - {type: variant, offset: 16, length: 2, content: 羞稱, krp: 仲尼行義既成之後不隱今亦以天下之顯諸侯誠義}
+  - {type: variant, offset: 19, length: 0, content: '', SBCK: 志意加義乎法則度量箸之以政事案申重之以貴賤殺生使襲然終始猶一也賞罰使相掩襲無間隙終始如一也申亦重也既爲政皆以義又申重以如是則夫名聲之部發於天地之閒也豈不如日月雷霆然矣哉空言猶得不隱乎天下今若以顯諸部當爲剖謂開發也仲尼匹夫但箸日月雷霆也侯行義必如故曰以國齊義一日而白湯武是也一朝而名聲明白湯武是也齊當爲濟以一國皆取濟於義湯以亳武王以鄗皆百里之地也詩曰考卜維王宅是鎬京維􅀛正之亳湯國都鄗與鎬同武王所都京也成之武王天下爲一諸侯爲臣通達之屬莫不從服無它故焉以濟義矣是所謂義立而王也取濟於義也非有它故但德雖未至也義雖未濟也有徳義霸者亦極盡濟也但未能至然而天下之理略奏矣者略有節奏也天下之謂條理刑賞己諾信乎天下矣有諾責寜有己怨信乎天下謂諾許也已不許也禮記曰與其柯盟之比也若齊􅁊不背臣下曉然皆知其可要也其可與要約要約也皆知一堯反不欺也要政令巳陳雖覩利敗不欺其民原命三謂若伐而退之比也日之糧不降約結巳定雖覩利敗不欺其與相與衞不遂滅之爲己利之比也親與之國謂若齊􅁊許赦魯如是則兵勁城固敵國畏之國一綦明與國信之爲基也綦亦當雖末在僻陋之國威動天下}
+  - {type: page-break, offset: 19, content: '', id: KR3a0002_SBCK_007-3a}
+  - {type: page-break, offset: 19, content: '', id: KR3a0002_SBCK_007-3b}
+  - {type: variant, offset: 19, length: 0, content: '', WYG: 天下名垂乎後世以義得濟之日成功之後也言仲尼行義既成之後不行乎天下謂極昭明天下莫能隠匿之今亦以天下之顯諸侯誠義乎志意加義乎法則度量著之以政事案申重之以貴賤殺生使襲然終始猶一也申亦重也既為政皆以義又申重以賞罰使相掩襲無間隙終始如一也如是則夫名聲之部發於天地之間也豈不如日月雷霆然矣哉部當為剖謂開發也仲尼匹夫但著空言猶得不隠乎天下今若以顯諸侯行義必如日月雷霆故曰以國齊義一日而白湯武是也齊當為濟以一國皆取濟於義一朝而名聲明白湯武是也湯以亳武以鄗皆百里之地亳湯國都鄗與鎬同武王所都京也詩曰考卜維王宅是鎬京維龜正之武王成之天下為一諸侯為臣通達之屬莫不從服無它故焉以濟義矣是所謂義立而王也非有他故但取濟於義也徳雖未至也義雖未濟也霸者亦有徳義但未能至極盡濟也然而天下之理略奏矣天下之理謂條理者略有節奏也刑賞己諾信乎天下矣諾許也已不許也禮記曰與其有諾責寜有己怨信乎天下謂若齊桓不背柯盟之比也臣下曉然皆知其可要也要約也皆知其可與要約不欺也要一堯反政令己陳雖覩利敗不欺其民謂若伐原命三日之糧不降而退之比也約結已定雖覩利敗不欺其與與相親與之國謂若齊桓許赦魯衞不遂滅之為己利之比也如是則兵勁城固敵國畏之國一綦明與國信之綦亦當為基也雖在僻陋之國威動天下}
+  - {type: page-break, offset: 19, content: '', id: KR3a0002_WYG_007-2b, image: WYG0695/WYG0695-0181b.png}
+  - {type: page-break, offset: 19, content: '', id: KR3a0002_WYG_007-3a, image: WYG0695/WYG0695-0181c.png}
+  - {type: page-break, offset: 19, content: '', id: KR3a0002_WYG_007-3b, image: WYG0695/WYG0695-0181d.png}
+  - {type: variant, offset: 19, length: 0, content: '', krp: 志意加義乎法則度量箸之以政事案申重之以貴賤殺生使襲然終始猶一也賞罰使相掩襲無間隙終始如一也申亦重也既爲政皆以義又申重以如是則夫名聲之部發於天地之閒也豈不如日月雷霆然矣哉空言猶得不隱乎天下今若以顯諸部當爲剖謂開發也仲尼匹夫但箸日月雷霆也侯行義必如故曰以國齊義一日而白湯武是也一朝而名聲明白湯武是也齊當爲濟以一國皆取濟於義湯以亳武王以鄗皆百里之地也詩曰考卜維王宅是鎬京維龜正之亳湯國都鄗與鎬同武王所都京也成之武王天下爲一諸侯爲臣通達之屬莫不從服無它故焉以濟義矣是所謂義立而王也取濟於義也非有它故但德雖未至也義雖未濟也有徳義霸者亦極盡濟也但未能至然而天下之理略奏矣者略有節奏也天下之謂條理刑賞己諾信乎天下矣有諾責寜有己怨信乎天下謂諾許也已不許也禮記曰與其柯盟之比也若齊桓不背臣下曉然皆知其可要也其可與要約要約也皆知一堯反不欺也要政令巳陳雖覩利敗不欺其民原命三謂若伐而退之比也日之糧不降約結巳定雖覩利敗不欺其與相與衞不遂滅之爲己利之比也親與之國謂若齊桓許赦魯如是則兵勁城固敵國畏之國一綦明與國信之爲基也綦亦當雖末在僻陋之國威動天下}
+  - {type: punctuation, offset: 21, content: 。, id: KR3a0002_tls_007-bkkpn4}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR3a0002_tls_007-1a.6}
+  - {type: variant, offset: 22, length: 1, content: 何, SBCK: ''}
+  - {type: variant, offset: 22, length: 1, content: 何, WYG: ''}
+  - {type: variant, offset: 22, length: 1, content: 何, krp: ''}
+  - {type: punctuation, offset: 24, content: ？, id: KR3a0002_tls_007-bkkpn5}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3a0002_tls_007-1a.7}
+  - {type: variant, offset: 24, length: 223, content: 曰然彼誠可羞稱也齊桓五伯之盛者也前事則殺兄而爭國內行則姑姊妹之不嫁者七人閨門之內般樂奢汰以齊之分奉之而不足外事則詐邾襲莒并國三十五其事行也若是其險汙淫汰也彼固曷足稱乎大君子之門哉若是而不亡乃霸何也曰於乎夫齊桓公有天下之大節焉夫孰能亡之倓然見管仲之能足以託國也是天下之大知也安忘其怒出忘其讎遂立以為仲父是天下之大決也立以為仲父而貴戚莫之敢妬也與之高國之位而本朝之臣莫之敢惡也與之書社三百而富人莫之敢距也貴賤長少秩秩焉莫不從桓公而貴敬之是天下之大節也, SBCK: 如字爲}
+  - {type: variant, offset: 24, length: 11, content: 曰然彼誠可羞稱也齊桓五, WYG: ''}
+  - {type: variant, offset: 24, length: 223, content: 曰然彼誠可羞稱也齊桓五伯之盛者也前事則殺兄而爭國內行則姑姊妹之不嫁者七人閨門之內般樂奢汰以齊之分奉之而不足外事則詐邾襲莒并國三十五其事行也若是其險汙淫汰也彼固曷足稱乎大君子之門哉若是而不亡乃霸何也曰於乎夫齊桓公有天下之大節焉夫孰能亡之倓然見管仲之能足以託國也是天下之大知也安忘其怒出忘其讎遂立以為仲父是天下之大決也立以為仲父而貴戚莫之敢妬也與之高國之位而本朝之臣莫之敢惡也與之書社三百而富人莫之敢距也貴賤長少秩秩焉莫不從桓公而貴敬之是天下之大節也, krp: 如字爲}
+  - {type: punctuation, offset: 25, content: ：, id: KR3a0002_tls_007-bkkpn6}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3a0002_tls_007-1a.8}
+  - {type: punctuation, offset: 26, content: 。, id: KR3a0002_tls_007-bkkpn7}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR3a0002_tls_007-1a.9}
+  - {type: punctuation, offset: 32, content: 。, id: KR3a0002_tls_007-bkkpn8}
+  - {type: 'tls:seg', offset: 32, content: '', id: KR3a0002_tls_007-1a.10}
+  - {type: punctuation, offset: 34, content: 、, id: KR3a0002_tls_007-bkkpn9}
+  - {type: variant, offset: 36, length: 83, content: 之盛者也前事則殺兄而爭國內行則姑姊妹之不嫁者七人閨門之內般樂奢汰以齊之分奉之而不足外事則詐邾襲莒并國三十五其事行也若是其險汙淫汰也彼固曷足稱乎大君子之門哉若是而不亡乃, WYG: 讀為}
+  - {type: punctuation, offset: 40, content: ，, id: KR3a0002_tls_007-bkkpn10}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3a0002_tls_007-1a.11}
+  - {type: punctuation, offset: 48, content: ；, id: KR3a0002_tls_007-bkkpn11}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3a0002_tls_007-1a.12}
+  - {type: punctuation, offset: 60, content: ，, id: KR3a0002_tls_007-bkkpn12}
+  - {type: 'tls:seg', offset: 60, content: '', id: KR3a0002_tls_007-1a.13}
+  - {type: punctuation, offset: 64, content: ，, id: KR3a0002_tls_007-bkkpn13}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3a0002_tls_007-1a.14}
+  - {type: punctuation, offset: 68, content: ，, id: KR3a0002_tls_007-bkkpn14}
+  - {type: xml-element, offset: 68, content: '', id: KR3a0002_tls_007-bkkxmlele5}
+  - {type: xml-element, offset: 68, content: '', id: KR3a0002_tls_007-bkkxmlele6}
+  - {type: 'tls:seg', offset: 68, content: '', id: KR3a0002_tls_007-1a.15}
+  - {type: punctuation, offset: 77, content: ；, id: KR3a0002_tls_007-bkkpn15}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR3a0002_tls_007-1a.16}
+  - {type: punctuation, offset: 82, content: 、, id: KR3a0002_tls_007-bkkpn16}
+  - {type: punctuation, offset: 84, content: ，, id: KR3a0002_tls_007-bkkpn17}
+  - {type: 'tls:seg', offset: 84, content: '', id: KR3a0002_tls_007-1a.17}
+  - {type: punctuation, offset: 89, content: 。, id: KR3a0002_tls_007-bkkpn18}
+  - {type: 'tls:seg', offset: 89, content: '', id: KR3a0002_tls_007-1a.18}
+  - {type: punctuation, offset: 89, content: ─, id: KR3a0002_tls_007-bkkpn19}
+  - {type: punctuation, offset: 89, content: ─, id: KR3a0002_tls_007-bkkpn20}
+  - {type: punctuation, offset: 101, content: 。, id: KR3a0002_tls_007-bkkpn21}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR3a0002_tls_007-1a.19}
+  - {type: punctuation, offset: 113, content: ！, id: KR3a0002_tls_007-bkkpn22}
+  - {type: xml-element, offset: 113, content: '', id: KR3a0002_tls_007-bkkxmlele7}
+  - {type: xml-element, offset: 113, content: '', id: KR3a0002_tls_007-bkkxmlele8}
+  - {type: 'tls:seg', offset: 113, content: '', id: KR3a0002_tls_007-1a.20}
+  - {type: punctuation, offset: 118, content: ，, id: KR3a0002_tls_007-bkkpn23}
+  - {type: 'tls:seg', offset: 118, content: '', id: KR3a0002_tls_007-1a.21}
+  - {type: punctuation, offset: 120, content: ，, id: KR3a0002_tls_007-bkkpn24}
+  - {type: variant, offset: 120, length: 127, content: 何也曰於乎夫齊桓公有天下之大節焉夫孰能亡之倓然見管仲之能足以託國也是天下之大知也安忘其怒出忘其讎遂立以為仲父是天下之大決也立以為仲父而貴戚莫之敢妬也與之高國之位而本朝之臣莫之敢惡也與之書社三百而富人莫之敢距也貴賤長少秩秩焉莫不從桓公而貴敬之是天下之大節也, WYG: 又如字}
+  - {type: punctuation, offset: 122, content: ？, id: KR3a0002_tls_007-bkkpn25}
+  - {type: 'tls:seg', offset: 122, content: '', id: KR3a0002_tls_007-1a.22}
+  - {type: punctuation, offset: 123, content: ：, id: KR3a0002_tls_007-bkkpn26}
+  - {type: 'tls:seg', offset: 123, content: '', id: KR3a0002_tls_007-1a.23}
+  - {type: punctuation, offset: 125, content: ！, id: KR3a0002_tls_007-bkkpn27}
+  - {type: punctuation, offset: 136, content: ，, id: KR3a0002_tls_007-bkkpn28}
+  - {type: 'tls:seg', offset: 136, content: '', id: KR3a0002_tls_007-1a.24}
+  - {type: punctuation, offset: 141, content: ？, id: KR3a0002_tls_007-bkkpn29}
+  - {type: 'tls:seg', offset: 141, content: '', id: KR3a0002_tls_007-1a.25}
+  - {type: punctuation, offset: 153, content: ，, id: KR3a0002_tls_007-bkkpn30}
+  - {type: 'tls:seg', offset: 153, content: '', id: KR3a0002_tls_007-1a.26}
+  - {type: punctuation, offset: 160, content: 。, id: KR3a0002_tls_007-bkkpn31}
+  - {type: xml-element, offset: 160, content: '', id: KR3a0002_tls_007-bkkxmlele9}
+  - {type: xml-element, offset: 160, content: '', id: KR3a0002_tls_007-bkkxmlele10}
+  - {type: 'tls:seg', offset: 160, content: '', id: KR3a0002_tls_007-1a.27}
+  - {type: punctuation, offset: 164, content: ，, id: KR3a0002_tls_007-bkkpn32}
+  - {type: punctuation, offset: 164, content: （, id: KR3a0002_tls_007-bkkpn33}
+  - {type: 'tls:seg', offset: 164, content: '', id: KR3a0002_tls_007-1a.28}
+  - {type: punctuation, offset: 165, content: ）, id: KR3a0002_tls_007-bkkpn34}
+  - {type: punctuation, offset: 168, content: ，, id: KR3a0002_tls_007-bkkpn35}
+  - {type: 'tls:seg', offset: 168, content: '', id: KR3a0002_tls_007-1a.29}
+  - {type: punctuation, offset: 174, content: ，, id: KR3a0002_tls_007-bkkpn36}
+  - {type: 'tls:seg', offset: 174, content: '', id: KR3a0002_tls_007-1a.30}
+  - {type: punctuation, offset: 181, content: 。, id: KR3a0002_tls_007-bkkpn37}
+  - {type: 'tls:seg', offset: 181, content: '', id: KR3a0002_tls_007-1a.31}
+  - {type: punctuation, offset: 186, content: ，, id: KR3a0002_tls_007-bkkpn38}
+  - {type: 'tls:seg', offset: 186, content: '', id: KR3a0002_tls_007-1a.32}
+  - {type: punctuation, offset: 194, content: ；, id: KR3a0002_tls_007-bkkpn39}
+  - {type: 'tls:seg', offset: 194, content: '', id: KR3a0002_tls_007-1a.33}
+  - {type: punctuation, offset: 197, content: 、, id: KR3a0002_tls_007-bkkpn40}
+  - {type: punctuation, offset: 200, content: ，, id: KR3a0002_tls_007-bkkpn41}
+  - {type: 'tls:seg', offset: 200, content: '', id: KR3a0002_tls_007-1a.34}
+  - {type: punctuation, offset: 210, content: ；, id: KR3a0002_tls_007-bkkpn42}
+  - {type: 'tls:seg', offset: 210, content: '', id: KR3a0002_tls_007-1a.35}
+  - {type: punctuation, offset: 216, content: ，, id: KR3a0002_tls_007-bkkpn43}
+  - {type: 'tls:seg', offset: 216, content: '', id: KR3a0002_tls_007-1a.36}
+  - {type: punctuation, offset: 224, content: 。, id: KR3a0002_tls_007-bkkpn44}
+  - {type: 'tls:seg', offset: 224, content: '', id: KR3a0002_tls_007-1a.37}
+  - {type: punctuation, offset: 228, content: ，, id: KR3a0002_tls_007-bkkpn45}
+  - {type: 'tls:seg', offset: 228, content: '', id: KR3a0002_tls_007-1a.38}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR3a0002_tls_007-1a.39}
+  - {type: punctuation, offset: 240, content: ，, id: KR3a0002_tls_007-bkkpn46}
+  - {type: 'tls:seg', offset: 240, content: '', id: KR3a0002_tls_007-1a.40}
+  - {type: punctuation, offset: 247, content: 。, id: KR3a0002_tls_007-bkkpn47}
+  - {type: xml-element, offset: 247, content: '', id: KR3a0002_tls_007-bkkxmlele11}
+  - {type: xml-element, offset: 247, content: '', id: KR3a0002_tls_007-bkkxmlele12}
+  - {type: 'tls:seg', offset: 247, content: '', id: KR3a0002_tls_007-1a.41}
+  - {type: variant, offset: 249, length: 0, content: '', SBCK: 伯讀曰霸又曰䇿命晉侯爲伯也之長曰伯春秋左氏傳非本政敎也盡脩其本也雖}
+  - {type: variant, offset: 249, length: 7, content: 有一節如是則莫, WYG: ''}
+  - {type: variant, offset: 249, length: 0, content: '', krp: 伯讀曰霸又曰䇿命晉侯爲伯也之長曰伯春秋左氏傳非本政敎也盡脩其本也雖}
+  - {type: variant, offset: 250, length: 62, content: 一節如是則莫之能亡也桓公兼此數節者而盡有之夫又何可亡也其霸也宜哉非幸也數也然而仲尼之門五尺之豎子言羞稱乎五伯是何也曰然彼非平, SBCK: ''}
+  - {type: variant, offset: 250, length: 62, content: 一節如是則莫之能亡也桓公兼此數節者而盡有之夫又何可亡也其霸也宜哉非幸也數也然而仲尼之門五尺之豎子言羞稱乎五伯是何也曰然彼非平, krp: ''}
+  - {type: punctuation, offset: 254, content: ，, id: KR3a0002_tls_007-bkkpn48}
+  - {type: 'tls:seg', offset: 254, content: '', id: KR3a0002_tls_007-1a.42}
+  - {type: variant, offset: 257, length: 2, content: 能亡, WYG: 長為伯春秋左傳䇿命晉侯為伯}
+  - {type: punctuation, offset: 260, content: ；, id: KR3a0002_tls_007-bkkpn49}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3a0002_tls_007-1a.43}
+  - {type: variant, offset: 260, length: 22, content: 桓公兼此數節者而盡有之夫又何可亡也其霸也宜哉, WYG: ''}
+  - {type: punctuation, offset: 271, content: ，, id: KR3a0002_tls_007-bkkpn50}
+  - {type: 'tls:seg', offset: 271, content: '', id: KR3a0002_tls_007-1a.44}
+  - {type: punctuation, offset: 277, content: ？, id: KR3a0002_tls_007-bkkpn51}
+  - {type: 'tls:seg', offset: 277, content: '', id: KR3a0002_tls_007-1a.45}
+  - {type: 'tls:seg', offset: 280, content: '', id: KR3a0002_tls_007-1a.46}
+  - {type: punctuation, offset: 282, content: ！, id: KR3a0002_tls_007-bkkpn52}
+  - {type: 'tls:seg', offset: 282, content: '', id: KR3a0002_tls_007-1a.47}
+  - {type: variant, offset: 283, length: 29, content: 幸也數也然而仲尼之門五尺之豎子言羞稱乎五伯是何也曰然彼非平, WYG: 本}
+  - {type: punctuation, offset: 285, content: ，, id: KR3a0002_tls_007-bkkpn53}
+  - {type: 'tls:seg', offset: 285, content: '', id: KR3a0002_tls_007-1a.48}
+  - {type: punctuation, offset: 287, content: 。, id: KR3a0002_tls_007-bkkpn54}
+  - {type: xml-element, offset: 287, content: '', id: KR3a0002_tls_007-bkkxmlele13}
+  - {type: xml-element, offset: 287, content: '', id: KR3a0002_tls_007-bkkxmlele14}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR3a0002_tls_007-2a.1}
+  - {type: 'tls:seg', offset: 287, content: '', id: KR3a0002_tls_007-2a.2}
+  - {type: punctuation, offset: 293, content: ，, id: KR3a0002_tls_007-bkkpn55}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR3a0002_tls_007-2a.3}
+  - {type: 'tls:seg', offset: 298, content: '', id: KR3a0002_tls_007-2a.4}
+  - {type: punctuation, offset: 304, content: ，, id: KR3a0002_tls_007-bkkpn56}
+  - {type: 'tls:seg', offset: 304, content: '', id: KR3a0002_tls_007-2a.5}
+  - {type: punctuation, offset: 307, content: ？, id: KR3a0002_tls_007-bkkpn57}
+  - {type: xml-element, offset: 307, content: '', id: KR3a0002_tls_007-bkkxmlele15}
+  - {type: xml-element, offset: 307, content: '', id: KR3a0002_tls_007-bkkxmlele16}
+  - {type: 'tls:seg', offset: 307, content: '', id: KR3a0002_tls_007-2a.6}
+  - {type: punctuation, offset: 308, content: ：, id: KR3a0002_tls_007-bkkpn58}
+  - {type: 'tls:seg', offset: 308, content: '', id: KR3a0002_tls_007-2a.7}
+  - {type: punctuation, offset: 309, content: 。, id: KR3a0002_tls_007-bkkpn59}
+  - {type: 'tls:seg', offset: 309, content: '', id: KR3a0002_tls_007-2a.8}
+  - {type: variant, offset: 314, length: 1, content: 也, SBCK: 未}
+  - {type: variant, offset: 314, length: 0, content: '', WYG: 也雖有政教未盡修其本}
+  - {type: variant, offset: 314, length: 1, content: 也, krp: 未}
+  - {type: punctuation, offset: 315, content: ，, id: KR3a0002_tls_007-bkkpn60}
+  - {type: 'tls:seg', offset: 315, content: '', id: KR3a0002_tls_007-2a.9}
+  - {type: page-break, offset: 316, content: '', id: KR3a0002_SBCK_007-4a}
+  - {type: variant, offset: 318, length: 1, content: 高, SBCK: 髙}
+  - {type: variant, offset: 318, length: 1, content: 高, WYG: 髙也致極也不如堯舜禹湯之極崇髙}
+  - {type: variant, offset: 318, length: 1, content: 高, krp: 髙}
+  - {type: punctuation, offset: 320, content: ，, id: KR3a0002_tls_007-bkkpn61}
+  - {type: 'tls:seg', offset: 320, content: '', id: KR3a0002_tls_007-2a.10}
+  - {type: variant, offset: 320, length: 0, content: '', SBCK: 禹湯之極崇髙也致極也不如堯舜}
+  - {type: variant, offset: 320, length: 0, content: '', krp: 禹湯之極崇髙也致極也不如堯舜}
+  - {type: punctuation, offset: 325, content: ，, id: KR3a0002_tls_007-bkkpn62}
+  - {type: 'tls:seg', offset: 325, content: '', id: KR3a0002_tls_007-2a.11}
+  - {type: variant, offset: 325, length: 0, content: '', SBCK: 雜未極言其駁貫條}
+  - {type: variant, offset: 325, length: 0, content: '', WYG: 言其駁雜未極條貫}
+  - {type: variant, offset: 325, length: 0, content: '', krp: 雜未極言其駁貫條}
+  - {type: punctuation, offset: 331, content: 。, id: KR3a0002_tls_007-bkkpn63}
+  - {type: 'tls:seg', offset: 331, content: '', id: KR3a0002_tls_007-2a.12}
+  - {type: variant, offset: 331, length: 1, content: 鄉, SBCK: 能備行王道以略信之故猶能致霸未得天下歸心如文王此皆言雖未也郷方略不在用仁義也所向唯在}
+  - {type: variant, offset: 331, length: 0, content: '', WYG: 未得天下歸心如文王此皆言未能循於王道以略信之故猶能致霸也}
+  - {type: variant, offset: 331, length: 1, content: 鄉, krp: 能備行王道以略信之故猶能致霸未得天下歸心如文王此皆言雖未也郷方略不在用仁義也所向唯在}
+  - {type: punctuation, offset: 334, content: ，, id: KR3a0002_tls_007-bkkpn64}
+  - {type: 'tls:seg', offset: 334, content: '', id: KR3a0002_tls_007-2a.13}
+  - {type: variant, offset: 334, length: 0, content: '', WYG: 所向唯在方略不在用仁義也}
+  - {type: punctuation, offset: 337, content: ，, id: KR3a0002_tls_007-bkkpn65}
+  - {type: 'tls:seg', offset: 337, content: '', id: KR3a0002_tls_007-2a.14}
+  - {type: variant, offset: 337, length: 0, content: '', SBCK: 勞之術也審以佚待}
+  - {type: variant, offset: 337, length: 0, content: '', WYG: 審以佚待勞之術也}
+  - {type: variant, offset: 337, length: 0, content: '', krp: 勞之術也審以佚待}
+  - {type: punctuation, offset: 340, content: ，, id: KR3a0002_tls_007-bkkpn66}
+  - {type: variant, offset: 340, length: 2, content: 脩鬭, SBCK: 不妄耗費謹嚴畜積􅇱戰}
+  - {type: variant, offset: 340, length: 3, content: 脩鬭備, WYG: 謹嚴畜積不妄耗費修戰僃齺然上下相信}
+  - {type: variant, offset: 340, length: 2, content: 脩鬭, krp: 不妄耗費謹嚴畜積}
+  - {type: substitution, offset: 340, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
+  - {type: punctuation, offset: 343, content: ，, id: KR3a0002_tls_007-bkkpn67}
+  - {type: 'tls:seg', offset: 343, content: '', id: KR3a0002_tls_007-2a.15}
+  - {type: variant, offset: 343, length: 0, content: '', SBCK: 齺然上下相信}
+  - {type: variant, offset: 343, length: 0, content: '', krp: 戰備齺然上下相信}
+  - {type: variant, offset: 344, length: 0, content: '', SBCK: 天下莫之敢當也相向之貎齺士角反齺齒相迎也齺然上下故齊􅁊􅀳文楚莊吳闔閭越句踐是皆僻陋之國也威動天下彊殆中國危中國其彊}
+  - {type: variant, offset: 344, length: 0, content: '', WYG: 天下莫之敢當齺齒相逆也齺然上下相向之貎齺土角反故齊桓晉文楚莊吳闔閭越勾踐是皆僻陋之國也威動天下彊殆中國其彊}
+  - {type: variant, offset: 344, length: 0, content: '', krp: 天下莫之敢當也相向之貎齺士角反齺齒相迎也齺然上下故齊桓晉文楚莊吳闔閭越句踐是皆僻陋之國也威動天下彊殆中國危中國其彊}
+  - {type: variant, offset: 345, length: 4, content: 顛倒其敵, SBCK: 無它故焉略信也是所謂信立而霸也略取信而行雖未能濟義致霸也之故能挈國以呼功利人以呼召功利言所務唯功此論權謀}
+  - {type: page-break, offset: 345, content: '', id: KR3a0002_SBCK_007-4b}
+  - {type: variant, offset: 345, length: 4, content: 顛倒其敵, WYG: 危中國無他故焉略信也是所謂信立而霸也雖未能濟義畧取信而行之故能致霸也挈國以呼功利此論權謀}
+  - {type: page-break, offset: 345, content: '', id: KR3a0002_WYG_007-4a, image: WYG0695/WYG0695-0182a.png}
+  - {type: variant, offset: 345, length: 4, content: 顛倒其敵, krp: 無它故焉略信也是所謂信立而霸也略取信而行雖未能濟義致霸也之故能挈國以呼功利人以呼召功利言所務唯功此論權謀}
+  - {type: punctuation, offset: 351, content: 。, id: KR3a0002_tls_007-bkkpn68}
+  - {type: 'tls:seg', offset: 351, content: '', id: KR3a0002_tls_007-2a.16}
+  - {type: variant, offset: 351, length: 0, content: '', SBCK: 提挈一國之利貪求之也利也功役使不務張其義齊其信唯利之求開張内則不憚詐其民而求小利焉土功詐其民謂若梁伯好至之比曰宼將外則不憚詐其與而求大利焉楚靈謂若遂滅之之比也王以義討陳蔡因内不脩正其所以有然常欲人之有貨財也有土地如是則臣下百姓莫不以}
+  - {type: variant, offset: 351, length: 0, content: '', WYG: 提挈一國之人以呼召功利言所務唯功利也功役使利貪求之也不務張其義齊其信唯利之求張開内則不憚詐其民而求小利焉謂若梁伯好土功詐其民言宼將至之比也外則不憚詐其與而求大利焉謂若楚靈王以義討陳蔡因遂滅之之比也内不修正其所以有然常欲人之有有土地貨財也如是則臣下百姓莫不以}
+  - {type: variant, offset: 351, length: 0, content: '', krp: 提挈一國之利貪求之也利也功役使不務張其義齊其信唯利之求開張内則不憚詐其民而求小利焉土功詐其民謂若梁伯好至之比曰宼將外則不憚詐其與而求大利焉楚靈謂若遂滅之之比也王以義討陳蔡因内不脩正其所以有然常欲人之有貨財也有土地如是則臣下百姓莫不以}
+  - {type: variant, offset: 353, length: 0, content: '', SBCK: 待其上矣上詐其下下詐其上則是上下析也析離如是則敵國輕之故輕之也不得人心與國疑之權謀日行而國不免危削綦之而亡則滅亡其極者齊閔薛公是也也齊閔王爲五國所伐皆薛公薛公孟甞君田文齊閔王之相言之也使然故同故用彊齊非}
+  - {type: page-break, offset: 353, content: '', id: KR3a0002_SBCK_007-5a}
+  - {type: variant, offset: 353, length: 0, content: '', WYG: 待其上矣上詐其下下詐其上則是上下析也離析如是則敵國輕之不得人心故輕之也與國疑之權謀日行而國不免危削綦之而亡其極者則滅亡齊閔薛公是也薛公孟嘗君田文齊閔王之相也齊閔王為五國所伐皆薛公使然故同言之也故用彊齊非}
+  - {type: page-break, offset: 353, content: '', id: KR3a0002_WYG_007-4b, image: WYG0695/WYG0695-0182b.png}
+  - {type: variant, offset: 353, length: 0, content: '', krp: 待其上矣上詐其下下詐其上則是上下析也析離如是則敵國輕之故輕之也不得人心與國疑之權謀日行而國不免危削綦之而亡則滅亡其極者齊閔薛公是也也齊閔王爲五國所伐皆薛公薛公孟甞君田文齊閔王之相言之也使然故同故用彊齊非}
+  - {type: variant, offset: 354, length: 3, content: 勝矣彼, SBCK: 脩禮義也非}
+  - {type: variant, offset: 354, length: 2, content: 勝矣, WYG: 修禮義也非以本政教也非以一天下也綿綿常以結引馳外為務綿綿不絶貎引讀為靷靷引軸之物結引續緜於軸所以引車也齊閔薛公不修徳政但使說客引軸馳騖於他國以權詐為務也故彊南足以破楚史記齊閔王二十三年與秦敗楚重丘南割楚之淮北也西足以詘秦北足以敗燕史記閔王三十六年與韓魏攻秦至凾谷軍焉中足以舉宋閔王三十八年伐宋宋王死於温舉謂舉其國而滅之也及以燕趙起而攻之若振槁然閔王四十年燕秦楚三晉敗我於齊西振擊也槁枯葉也言當權謀强盛之時雖破敵滅國及樂毅以諸國攻之若擊枯葉之易也而身死國亡為天下大戮為天下大戮辱也春秋傳曰古者明王伐不敬取其鯨鯢而封之以為大戮也後世言惡則必稽焉後世稽考閔王為龜鏡也是無他故焉唯其不由禮義而由權謀也三者明王之所謹擇也仁人之所務白也善擇者制人不善擇者人制之善擇者用霸王不善擇者用權謀也國者天下之大器也重任也不可不善為擇所而後錯之錯險則危所處也錯讀為措不可不善為擇道然後道之塗薉則塞不可不善為擇道路而道達之薉與穢同塞謂行不通也危塞則亡所以為之善擇}
+  - {type: page-break, offset: 354, content: '', id: KR3a0002_WYG_007-5a, image: WYG0695/WYG0695-0182c.png}
+  - {type: variant, offset: 354, length: 3, content: 勝矣彼, krp: 脩禮義也非}
+  - {type: punctuation, offset: 356, content: 。, id: KR3a0002_tls_007-bkkpn69}
+  - {type: 'tls:seg', offset: 356, content: '', id: KR3a0002_tls_007-2a.17}
+  - {type: variant, offset: 357, length: 0, content: '', WYG: 國錯者非封焉之謂也非受之茆土然後為安或曰修封疆立城郭之謂也何法之道誰子之與也設問之詞既非封焉之謂問}
+  - {type: page-break, offset: 357, content: '', id: KR3a0002_WYG_007-5b, image: WYG0695/WYG0695-0182d.png}
+  - {type: variant, offset: 358, length: 5, content: 讓飾爭依乎, SBCK: 本政敎也非以一天下也緜緜常以結引馳外爲務所以引車也齊閔薛公不脩德政但使􅀃客引軸馳緜緜不絶貌引讀爲靷靷引軸之物結引謂繫於軸權詐爲務也騖於他國以故彊南足以破楚與秦敗楚於重丘南割史記齊閔王二十三年北也楚之淮西足以詘秦北足以敗燕六年與韓魏共史記閔王三十谷軍焉攻秦至函中足以舉宋於温舉謂舉其國而滅之也閔王三十八年伐宋宋王死及以燕趙起而攻之若振槁然秦楚三晉敗我閔王四十年燕破敵滅國及樂毅以諸國攻之若擊枯葉之易也於濟西振擊也槁枯葉也言當權謀彊盛之時雖而身死國亡爲天下大戮明王伐不敬取其鯨鯢而封之以爲天下大戮辱也春秋傳曰古者戮也爲大後世言惡則必稽焉王爲􅀛鏡也後世稽考閔是無它故焉唯其不由禮義而由權謀也三者明主之所以謹擇也而}
+  - {type: page-break, offset: 358, content: '', id: KR3a0002_SBCK_007-5b}
+  - {type: variant, offset: 358, length: 5, content: 讓飾爭依乎, WYG: 何法道達之求誰人付與之誰子猶誰人也愼子曰棄道術舍度量以求一人之識識天下誰子之識能足焉故道王者之法與王者之人為之則亦王道霸者之法與霸者之人為之則亦霸道亡國之法與亡國之人為之則亦亡荅辭也道皆與導同三者明主之所謹擇也而}
+  - {type: variant, offset: 358, length: 5, content: 讓飾爭依乎, krp: 本政敎也非以一天下也緜緜常以結引馳外爲務所以引車也齊閔薛公不脩德政但使說客引軸馳緜緜不絶貌引讀爲靷靷引軸之物結引謂繫於軸權詐爲務也騖於他國以故彊南足以破楚與秦敗楚於重丘南割史記齊閔王二十三年北也楚之淮西足以詘秦北足以敗燕六年與韓魏共史記閔王三十谷軍焉攻秦至函中足以舉宋於温舉謂舉其國而滅之也閔王三十八年伐宋宋王死及以燕趙起而攻之若振槁然秦楚三晉敗我閔王四十年燕破敵滅國及樂毅以諸國攻之若擊枯葉之易也於濟西振擊也槁枯葉也言當權謀彊盛之時雖而身死國亡爲天下大戮明王伐不敬取其鯨鯢而封之以爲天下大戮辱也春秋傳曰古者戮也爲大後世言惡則必稽焉王爲龜鏡也後世稽考閔是無它故焉唯其不由禮義而由權謀也三者明主之所以謹擇也而}
+  - {type: punctuation, offset: 361, content: ，, id: KR3a0002_tls_007-bkkpn70}
+  - {type: 'tls:seg', offset: 361, content: '', id: KR3a0002_tls_007-2a.18}
+  - {type: variant, offset: 364, length: 6, content: 而蹈利者也小, SBCK: ''}
+  - {type: variant, offset: 364, length: 3, content: 而蹈利, WYG: 人之所務白也荀子多重叙前語者叮嚀之也故國者重任也不以積持之則不立不以積久之法持之則傾覆也故國者世所以新}
+  - {type: variant, offset: 364, length: 6, content: 而蹈利者也小, krp: ''}
+  - {type: punctuation, offset: 369, content: ，, id: KR3a0002_tls_007-bkkpn71}
+  - {type: 'tls:seg', offset: 369, content: '', id: KR3a0002_tls_007-2a.19}
+  - {type: variant, offset: 369, length: 1, content: 小, WYG: 是憚憚非變也憚與坦同言國者但繼世之主自新耳此積久之法坦坦然無變也巢子曰有陰而逺者有坦明而功者杜伯射宣王於畝田是坦明功者據古憚與坦通改王改行也自是改一王則改其所行之事非法變也或曰國語襄王謂晉文公曰先民有言曰改玉改行玉佩玉行歩也故一朝之日也一日之人也然而厭焉有千歲之固何也設問之辭一朝之日謂今日之事明朝不同言易變也一日之人謂今日之生未保明日言壽促也厭讀為黶禮記曰見君子而後厭然揜其不善鄭注云閉藏貎言事之易變}
+  - {type: page-break, offset: 369, content: '', id: KR3a0002_WYG_007-6a, image: WYG0695/WYG0695-0183a.png}
+  - {type: variant, offset: 372, length: 1, content: 傑, SBCK: 所以務白}
+  - {type: variant, offset: 372, length: 1, content: 傑, WYG: 夀促如此此何故有黶然深藏千歲不變改之法乎曰援夫千歲之信法以持之}
+  - {type: variant, offset: 372, length: 1, content: 傑, krp: 所以務白}
+  - {type: punctuation, offset: 374, content: ，, id: KR3a0002_tls_007-bkkpn72}
+  - {type: 'tls:seg', offset: 374, content: '', id: KR3a0002_tls_007-2a.20}
+  - {type: variant, offset: 374, length: 0, content: '', SBCK: 善擇者制人不善擇者人制之善擇者用權謀也善擇者用霸王不國者天下之大器也重任也不可不善爲擇所而後錯之錯之險則危讀爲措所處也錯不可不善爲擇道然後道之涂薉則塞爲擇道路不可不善同塞謂行不通也而導逹之薉與穢危塞則亡之善擇所以爲}
+  - {type: page-break, offset: 374, content: '', id: KR3a0002_SBCK_007-6a}
+  - {type: variant, offset: 374, length: 7, content: 彼固曷足稱乎大, WYG: 安與夫千歲之信士為之也謂使百世不易可信之士為政人無百歲之壽而有千歲之信士何也又問之曰以夫千歲之法自持者是乃千歲之信士矣以禮義自持者則是千歲之士不以夀千歲也能自持則能持國故與積禮義之}
+  - {type: page-break, offset: 374, content: '', id: KR3a0002_WYG_007-6b, image: WYG0695/WYG0695-0183b.png}
+  - {type: variant, offset: 374, length: 0, content: '', krp: 善擇者制人不善擇者人制之善擇者用權謀也善擇者用霸王不國者天下之大器也重任也不可不善爲擇所而後錯之錯之險則危讀爲措所處也錯不可不善爲擇道然後道之涂薉則塞爲擇道路不可不善同塞謂行不通也而導逹之薉與穢危塞則亡之善擇所以爲}
+  - {type: variant, offset: 375, length: 7, content: 固曷足稱乎大君, SBCK: 國錯者非封焉之謂也曰脩封疆立城郭之謂也非受之茅土然後爲安一何法之道誰}
+  - {type: variant, offset: 375, length: 7, content: 固曷足稱乎大君, krp: 國錯者非封焉之謂也曰脩封疆立城郭之謂也非受之茅土然後爲安一何法之道誰}
+  - {type: variant, offset: 383, length: 0, content: '', WYG: 為}
+  - {type: variant, offset: 384, length: 30, content: 門哉彼王者則不然致賢而能以救不肖致彊而能以寬弱戰必能殆之而羞, SBCK: 與也求誰人付}
+  - {type: variant, offset: 384, length: 2, content: 門哉, WYG: 則王與端誠信全之士為之則霸與權謀傾覆之人為之則亡三者明王之所謹擇也仁人之所務白也善擇之者制人不善擇之者人制之}
+  - {type: variant, offset: 384, length: 30, content: 門哉彼王者則不然致賢而能以救不肖致彊而能以寬弱戰必能殆之而羞, krp: 與也求誰人付}
+  - {type: punctuation, offset: 386, content: ！, id: KR3a0002_tls_007-bkkpn73}
+  - {type: xml-element, offset: 386, content: '', id: KR3a0002_tls_007-bkkxmlele17}
+  - {type: xml-element, offset: 386, content: '', id: KR3a0002_tls_007-bkkxmlele18}
+  - {type: 'tls:seg', offset: 386, content: '', id: KR3a0002_tls_007-2a.21}
+  - {type: variant, offset: 387, length: 0, content: '', WYG: 持國者必不可以獨也君不可獨治也然則彊國榮辱在於取相矣身能相能如是者王謂若湯伊尹文王太公也身不能知恐懼而求能者如是者彊若燕昭樂毅也身不能不知恐懼而求能者安唯便僻左右親比己者之用如是者危削謂若楚㐮王左州侯右夏侯之比也綦之而亡宋獻之比國者巨用之則大小用之則小巨者大之極也綦大而王綦小而亡小巨分流者存小巨各半如水之分流也巨用之者先義而後利安不恤親疎不恤貴賤唯誠能之求夫是之謂巨用之小用之者先利而後義安不恤是非不治曲直唯便僻親比己者之用夫是之謂小用之巨用之者若彼小用之者若此小巨分流者亦一若彼也亦一若此也或誠能之求或親比己者之用故曰粹而王駁而霸無一焉而亡此之謂也粹全也若舜舉臯陶不仁者逺即巨用之綦大而}
+  - {type: page-break, offset: 387, content: '', id: KR3a0002_WYG_007-7a, image: WYG0695/WYG0695-0183c.png}
+  - {type: variant, offset: 389, length: 0, content: '', WYG: 也駮雜也若齊桓外任管仲内任豎刁則小巨分流者無一焉而亡無賢人若厲王專任皇甫尹氏即綦小而亡者也國無禮}
+  - {type: page-break, offset: 389, content: '', id: KR3a0002_WYG_007-7b, image: WYG0695/WYG0695-0183d.png}
+  - {type: variant, offset: 391, length: 4, content: 然致賢而, WYG: 正禮之所以正國也譬之猶衡之於輕重也猶繩墨之於曲直也猶規矩之於方圓也禮}
+  - {type: punctuation, offset: 392, content: 。, id: KR3a0002_tls_007-bkkpn74}
+  - {type: 'tls:seg', offset: 392, content: '', id: KR3a0002_tls_007-2a.22}
+  - {type: variant, offset: 396, length: 0, content: '', WYG: 正國譬衡所}
+  - {type: variant, offset: 397, length: 7, content: 救不肖致彊而能, WYG: 辨輕重繩墨所}
+  - {type: punctuation, offset: 400, content: ，, id: KR3a0002_tls_007-bkkpn75}
+  - {type: 'tls:seg', offset: 400, content: '', id: KR3a0002_tls_007-2a.23}
+  - {type: variant, offset: 405, length: 6, content: 寬弱戰必能殆, WYG: 辨曲直規矩所以定方圓也故錯}
+  - {type: punctuation, offset: 407, content: ，, id: KR3a0002_tls_007-bkkpn76}
+  - {type: 'tls:seg', offset: 407, content: '', id: KR3a0002_tls_007-2a.24}
+  - {type: variant, offset: 413, length: 2, content: 羞與, WYG: 人莫能誣也錯置也禮記曰衡誠懸不可欺以輕重䋲墨誠陳不可欺以曲直規矩誠設不可欺以方圓者也詩云如霜雪}
+  - {type: variant, offset: 416, length: 5, content: 鬭委然成文, SBCK: 誰子猶誰人也愼子曰弃道設問之辭旣非封焉之謂問}
+  - {type: variant, offset: 416, length: 1, content: 鬭, WYG: 將將如日月之光明逸詩為之則存不為之則亡此之謂也為為禮也國危則無樂君國安則無憂民亂則國危治則國安今君人者急逐樂而緩治國豈不過甚矣哉譬之是猶好聲色而恬無耳目也豈不哀哉恬安也安然無耳目雖好聲色將何用哉夫人之情目欲綦色耳欲綦聲口欲綦味鼻欲綦臭心欲綦佚臭􅂔也凡氣香亦謂之臭禮記曰皆佩容臭綦極也綦或為其傳寫誤耳佚安樂之也此五綦者人情之所必不免也養五綦者有具具謂廣大富厚治辨彊固之道無具則五綦者不可得而致也萬乘之國可謂廣大富厚矣加有治辯彊固之道焉有讀為又辯分别事若是則恬愉無患難矣然後養五綦之具具也故百樂者生於治國者也憂患者生於亂國者也急逐樂而緩治國者非知樂者也故明君者必將先治其國然後百樂得其中得於治國之中樂並音洛闇君者必將荒逐樂而緩治國故憂患不可勝校也計校必至於身死國亡然後止也豈不哀哉將以為樂乃得憂焉將以為安乃得危焉將以為福乃得死亡焉豈不哀哉於乎君人者亦可以察若言矣於乎讀為嗚呼若言如此之言謂己上之說故治國有道人主有職在知其道守其職也若夫貫日而治詳一日而曲列之貫日積日也積日而使條治詳僃一日如}
+  - {type: page-break, offset: 416, content: '', id: KR3a0002_WYG_007-8a, image: WYG0695/WYG0695-0184a.png}
+  - {type: page-break, offset: 416, content: '', id: KR3a0002_WYG_007-8b, image: WYG0695/WYG0695-0184b.png}
+  - {type: variant, offset: 416, length: 5, content: 鬭委然成文, krp: 誰子猶誰人也愼子曰弃道設問之辭旣非封焉之謂問}
+  - {type: punctuation, offset: 417, content: ，, id: KR3a0002_tls_007-bkkpn77}
+  - {type: 'tls:seg', offset: 417, content: '', id: KR3a0002_tls_007-2a.25}
+  - {type: variant, offset: 418, length: 3, content: 然成文, WYG: 曲列之無差錯也是}
+  - {type: 'tls:seg', offset: 421, content: '', id: KR3a0002_tls_007-2a.26}
+  - {type: variant, offset: 422, length: 1, content: 示, SBCK: 何法導逹}
+  - {type: variant, offset: 422, length: 1, content: 示, WYG: 所使夫百吏官人為也不足以是傷游玩安燕}
+  - {type: page-break, offset: 422, content: '', id: KR3a0002_WYG_007-9a, image: WYG0695/WYG0695-0184c.png}
+  - {type: variant, offset: 422, length: 1, content: 示, krp: 何法導逹}
+  - {type: variant, offset: 424, length: 0, content: '', WYG: 樂煩碎之事既使百吏官人為之則不足以此害人君游燕之樂也若夫論一相以兼率之使臣下百吏莫不宿道鄉方而務論謂討論選擇之也率領也宿道止於道也鄉方不迷亂也臣下皆以宿道鄉方為務不敢姦詐也是夫人主之職也論相人主之職不在窮親小事若是則一}
+  - {type: punctuation, offset: 426, content: ，, id: KR3a0002_tls_007-bkkpn78}
+  - {type: 'tls:seg', offset: 426, content: '', id: KR3a0002_tls_007-2a.27}
+  - {type: variant, offset: 426, length: 0, content: '', SBCK: 誰子之識能足焉也術舍度量以求一人之識識故道王者之法與王者之人爲之則亦王道霸者之法與霸者之人爲之則亦霸道亡國之法與亡國之人爲之則亦亡皆與導同荅辭也道三者明主之所以謹擇也}
+  - {type: page-break, offset: 426, content: '', id: KR3a0002_SBCK_007-6b}
+  - {type: variant, offset: 426, length: 0, content: '', WYG: 名配堯禹之主者守至約}
+  - {type: variant, offset: 426, length: 0, content: '', krp: 誰子之識能足焉也術舍度量以求一人之識識故道王者之法與王者之人爲之則亦王道霸者之法與霸者之人爲之則亦霸道亡國之法與亡國之人爲之則亦亡皆與導同荅辭也道三者明主之所以謹擇也}
+  - {type: variant, offset: 427, length: 1, content: 暴, SBCK: 仁人之所以務白也語者丁寜之也荀子多重敘前故國者重任也不以積持之則不立之法持之不以積乆覆也則傾故國者世所以新者也是憚憚非變也無變也隨巢子曰有隂而逺者有坦明而功者杜伯射宣王憚與坦同言國者但繼世之主自新耳此積久之法坦坦然者據古憚與坦通於􅅿田是坦明而功改王改行也之事非法變也或曰國語自是改一王則改其所行曰改王改行玉佩玉行歩也襄王謂􅀳文公曰先民有言故一朝之日也一日之人也然而厭焉有千歲之固何也一朝之日謂設問之辭言壽促也厭讀爲黶禮記曰見君子而後厭然掩其不善鄭注云今日之事明朝不同言易變也一日之人謂今日之生未保明日故有黶然深藏千歲不變改之法乎閉藏貎言事之易變人之夀促如此何曰援夫千歲之信法以持之也安與夫千歲之信士爲之也可信之士爲政謂使百世不易人無百歲之壽而有千嵗之信士何也之又問曰以夫千歲之法自持者是乃千歲之信士矣以夀千歲也能自持則能持固也以禮義自持者則是千歲之士不故與積禮義之君子爲之則王與端誠信全之士爲之則霸與權謀傾覆之人爲之則亡三者明主之所以謹擇也而仁人之所以務白也善擇之者制人不善擇之者人制之彼持國者必不可以獨也獨治也君不可然則彊固榮辱在於取相矣身能相能如是者王文王太公也謂若湯伊尹身不能知恐懼而求能者如是者彊樂毅也若燕昭身不能不知恐懼而求能者安唯便僻左右親比已者之用如是者危削侯右夏侯之比也謂若楚襄王左州綦之而亡之比宋獻國者巨用之則大小用之則小之極也巨者大綦大而王綦小而亡小巨分流者存水之分流也小巨各半如巨用之者先義而後利安不卹親䟽不卹貴賤唯誠能之求夫是之謂巨用之小用之者先利而後義安不卹是非不治曲直唯便僻親比己者之用夫是之謂小用之巨用之者若彼小用之者若此小巨分流者亦一若彼一若此也親比已者之用或誠能之求或故曰粹而王駮而霸無一焉而亡此之謂也舜舉臯陶粹全也若管仲内任堅貂即小巨分流者無一焉而亡無一賢人若不仁者逺即巨用之綦大而王者也駮雜也若齊􅁊外任即綦小而亡者也厲王專任皇甫尹氏國無禮則不正禮之所以正國也譬之猶衡之於輕重也猶繩墨之於曲直也猶規矩之於方圓也所以辨曲直規矩所以定方圓也禮能正國譬衡所以辨輕重繩墨旣錯之而人莫之能誣也懸不可欺以輕重繩錯置也禮記曰衡誠矩誠設不可欺以方圓也墨誠陳不可欺以曲直規詩曰如霜雪之將將如日月之光明詩逸爲之則存不爲則亡此之謂也禮也爲爲國危則無樂君}
+  - {type: page-break, offset: 427, content: '', id: KR3a0002_SBCK_007-7a}
+  - {type: page-break, offset: 427, content: '', id: KR3a0002_SBCK_007-7b}
+  - {type: page-break, offset: 427, content: '', id: KR3a0002_SBCK_007-8a}
+  - {type: page-break, offset: 427, content: '', id: KR3a0002_SBCK_007-8b}
+  - {type: page-break, offset: 427, content: '', id: KR3a0002_SBCK_007-9a}
+  - {type: variant, offset: 427, length: 1, content: 暴, WYG: 詳事至佚而功事任垂衣裳不下簟席之上而海内之民莫不願得以為帝王夫是之謂至約樂莫大焉人主者以官人為能者也匹夫者以自能為能者也人主得使人為之匹夫則無所移之百畝一守事業窮無所移之也百畝一夫之守事業耕稼也耕稼窮於此無所移於人若人主必窮治小事則與匹夫何異之也今以一人兼聽天下日有餘而治不足者使人為之也今以一人兼聽天下之大自稱日有餘言兼聽之日有餘也而治不足謂所治之事少而不足言不足治也使人為之故得如此尹子曰堯南撓交阯北懐幽都東西至日之所出入有餘日而不足於治者恕也韓子曰夫為人主而身察百官則日不足力不給也故先王舍己能而因法數審賞罰故治不足而日有餘上之任勢使然也日音而實反大有天下小有一}
+  - {type: page-break, offset: 427, content: '', id: KR3a0002_WYG_007-9b, image: WYG0695/WYG0695-0184d.png}
+  - {type: variant, offset: 427, length: 1, content: 暴, krp: 仁人之所以務白也語者丁寜之也荀子多重敘前故國者重任也不以積持之則不立之法持之不以積乆覆也則傾故國者世所以新者也是憚憚非變也無變也隨巢子曰有隂而逺者有坦明而功者杜伯射宣王憚與坦同言國者但繼世之主自新耳此積久之法坦坦然者據古憚與坦通於畝田是坦明而功改王改行也之事非法變也或曰國語自是改一王則改其所行曰改王改行玉佩玉行歩也襄王謂晉文公曰先民有言故一朝之日也一日之人也然而厭焉有千歲之固何也一朝之日謂設問之辭言壽促也厭讀爲黶禮記曰見君子而後厭然掩其不善鄭注云今日之事明朝不同言易變也一日之人謂今日之生未保明日故有黶然深藏千歲不變改之法乎閉藏貎言事之易變人之夀促如此何曰援夫千歲之信法以持之也安與夫千歲之信士爲之也可信之士爲政謂使百世不易人無百歲之壽而有千嵗之信士何也之又問曰以夫千歲之法自持者是乃千歲之信士矣以夀千歲也能自持則能持固也以禮義自持者則是千歲之士不故與積禮義之君子爲之則王與端誠信全之士爲之則霸與權謀傾覆之人爲之則亡三者明主之所以謹擇也而仁人之所以務白也善擇之者制人不善擇之者人制之彼持國者必不可以獨也獨治也君不可然則彊固榮辱在於取相矣身能相能如是者王文王太公也謂若湯伊尹身不能知恐懼而求能者如是者彊樂毅也若燕昭身不能不知恐懼而求能者安唯便僻左右親比已者之用如是者危削侯右夏侯之比也謂若楚襄王左州綦之而亡之比宋獻國者巨用之則大小用之則小之極也巨者大綦大而王綦小而亡小巨分流者存水之分流也小巨各半如巨用之者先義而後利安不卹親䟽不卹貴賤唯誠能之求夫是之謂巨用之小用之者先利而後義安不卹是非不治曲直唯便僻親比己者之用夫是之謂小用之巨用之者若彼小用之者若此小巨分流者亦一若彼一若此也親比已者之用或誠能之求或故曰粹而王駮而霸無一焉而亡此之謂也舜舉臯陶粹全也若管仲内任堅貂即小巨分流者無一焉而亡無一賢人若不仁者逺即巨用之綦大而王者也駮雜也若齊桓外任即綦小而亡者也厲王專任皇甫尹氏國無禮則不正禮之所以正國也譬之猶衡之於輕重也猶繩墨之於曲直也猶規矩之於方圓也所以辨曲直規矩所以定方圓也禮能正國譬衡所以辨輕重繩墨旣錯之而人莫之能誣也懸不可欺以輕重繩錯置也禮記曰衡誠矩誠設不可欺以方圓也墨誠陳不可欺以曲直規詩曰如霜雪之將將如日月之光明詩逸爲之則存不爲則亡此之謂也禮也爲爲國危則無樂君}
+  - {type: variant, offset: 429, length: 1, content: 安, WYG: 天子諸侯必}
+  - {type: variant, offset: 430, length: 2, content: 自化, SBCK: 則無憂民亂則國危治則國安今君人者急逐樂而緩治國豈不過甚}
+  - {type: variant, offset: 430, length: 2, content: 自化, krp: 則無憂民亂則國危治則國安今君人者急逐樂而緩治國豈不過甚}
+  - {type: variant, offset: 431, length: 6, content: 化矣有災繆者, WYG: 為之}
+  - {type: punctuation, offset: 433, content: ，, id: KR3a0002_tls_007-bkkpn79}
+  - {type: 'tls:seg', offset: 433, content: '', id: KR3a0002_tls_007-2a.28}
+  - {type: variant, offset: 433, length: 0, content: '', SBCK: 哉譬之是由好聲色而恬無耳目也豈不哀哉雖好聲色將何用哉恬安也安然無耳目夫人之情目欲綦色耳欲綦聲口欲綦味鼻欲綦臭心欲綦佚綦極也綦或爲甚傳寫誤耳佚安樂也臭氣也凡氣香亦謂之臭禮記曰佩容臭此五綦者人情之所必不免也養五綦者}
+  - {type: page-break, offset: 433, content: '', id: KR3a0002_SBCK_007-9b}
+  - {type: variant, offset: 433, length: 0, content: '', krp: 哉譬之是由好聲色而恬無耳目也豈不哀哉雖好聲色將何用哉恬安也安然無耳目夫人之情目欲綦色耳欲綦聲口欲綦味鼻欲綦臭心欲綦佚綦極也綦或爲甚傳寫誤耳佚安樂也臭氣也凡氣香亦謂之臭禮記曰佩容臭此五綦者人情之所必不免也養五綦者}
+  - {type: variant, offset: 434, length: 2, content: 災繆, SBCK: 具辨彊固之道也具謂廣大富厚治無其具則五綦}
+  - {type: variant, offset: 434, length: 2, content: 災繆, krp: 具辨彊固之道也具謂廣大富厚治無其具則五綦}
+  - {type: 'tls:seg', offset: 437, content: '', id: KR3a0002_tls_007-2a.29}
+  - {type: variant, offset: 437, length: 0, content: '', SBCK: 不可得而致也萬乗之國可謂廣大富厚矣加有治辨彊固之道焉辨分别事有讀爲又若是則怡愉無患難矣}
+  - {type: variant, offset: 437, length: 0, content: '', krp: 不可得而致也萬乗之國可謂廣大富厚矣加有治辨彊固之道焉辨分别事有讀爲又若是則怡愉無患難矣}
+  - {type: variant, offset: 439, length: 1, content: 誅, SBCK: 養五綦之具具也故百樂者生於治國者也憂患者生於亂國者也急逐樂而緩治國者非知樂者也故明君者必將先治其國然後百樂得其中治國得於並音落之中樂闇君者必將急逐樂而緩治國故憂患不可勝校也校計必至於身死國亡然後止也豈不哀哉將以爲樂乃得憂焉將以爲安乃得危焉將以爲福乃得死亡焉豈不哀哉於乎君人者亦可以察若言矣乎於之言謂以上之􅀃讀爲嗚呼若言如此故治國有道人主有職知在其職也其道守若夫貫日而治詳一日而曲列之積日貫日日而委曲列之無差錯也也積日而使條理詳備一是所使夫百吏官人爲也不足以是傷游玩安燕之樂使百吏官人煩碎之事旣人君游燕之樂也爲之則不足以此害若夫論一相以兼率之使臣下百吏莫不宿道郷方而務擇之也率領論謂討論選下皆以宿道向方爲務不敢姦詐也也宿道止於道也向方不迷亂也臣是夫人主之職也不在躬親小事也論相乃是人主之職若是則一天下名配堯禹之主者守至約而詳事至佚而功任事垂衣裳不下簟席之上而海内之人莫不願得以爲帝王夫是之謂至約樂莫大焉人主者以官人爲能者也匹夫者以自能爲能者也人主得使人爲之匹夫則無所移之百􅅿一守事業窮無所移之也之守事業百􅅿一夫人主必躬治小事則與匹夫何異也耕稼也耕稼窮於此無所移於人若今以一人兼聽天下日有餘而治不足者使人爲之也一人今以所治之事少而不足言不足治也使人為}
+  - {type: page-break, offset: 439, content: '', id: KR3a0002_SBCK_007-10a}
+  - {type: page-break, offset: 439, content: '', id: KR3a0002_SBCK_007-10b}
+  - {type: page-break, offset: 439, content: '', id: KR3a0002_SBCK_007-11a}
+  - {type: variant, offset: 439, length: 1, content: 誅, WYG: 可則勞苦耗悴莫甚焉耗謂精神竭耗悴顦顇也如是則雖臧獲不肯與天子易勢業臧獲奴婢也方言謂荆淮海岱}
+  - {type: variant, offset: 439, length: 1, content: 誅, krp: 養五綦之具具也故百樂者生於治國者也憂患者生於亂國者也急逐樂而緩治國者非知樂者也故明君者必將先治其國然後百樂得其中治國得於並音落之中樂闇君者必將急逐樂而緩治國故憂患不可勝校也校計必至於身死國亡然後止也豈不哀哉將以爲樂乃得憂焉將以爲安乃得危焉將以爲福乃得死亡焉豈不哀哉於乎君人者亦可以察若言矣乎於之言謂以上之說讀爲嗚呼若言如此故治國有道人主有職知在其職也其道守若夫貫日而治詳一日而曲列之積日貫日日而委曲列之無差錯也也積日而使條理詳備一是所使夫百吏官人爲也不足以是傷游玩安燕之樂使百吏官人煩碎之事旣人君游燕之樂也爲之則不足以此害若夫論一相以兼率之使臣下百吏莫不宿道郷方而務擇之也率領論謂討論選下皆以宿道向方爲務不敢姦詐也也宿道止於道也向方不迷亂也臣是夫人主之職也不在躬親小事也論相乃是人主之職若是則一天下名配堯禹之主者守至約而詳事至佚而功任事垂衣裳不下簟席之上而海内之人莫不願得以爲帝王夫是之謂至約樂莫大焉人主者以官人爲能者也匹夫者以自能爲能者也人主得使人爲之匹夫則無所移之百畝一守事業窮無所移之也之守事業百畝一夫人主必躬治小事則與匹夫何異也耕稼也耕稼窮於此無所移於人若今以一人兼聽天下日有餘而治不足者使人爲之也一人今以所治之事少而不足言不足治也使人為}
+  - {type: punctuation, offset: 441, content: 。, id: KR3a0002_tls_007-bkkpn80}
+  - {type: 'tls:seg', offset: 441, content: '', id: KR3a0002_tls_007-2a.30}
+  - {type: variant, offset: 441, length: 0, content: '', WYG: 間罵奴曰臧罵婢曰獲燕齊亡奴謂之臧亡婢謂之獲或曰取貨謂之臧擒得謂之獲皆謂有罪為奴婢者}
+  - {type: page-break, offset: 441, content: '', id: KR3a0002_WYG_007-10a, image: WYG0695/WYG0695-0185a.png}
+  - {type: variant, offset: 442, length: 0, content: '', SBCK: 得如此尸于曰兼聽天下之大自稱日有餘言兼聽之日有餘也而治不足謂治者恕也韓子曰夫爲人主而身察百官則日不足力不給也堯南橈交阯北懷幽都東西至日之所出入有餘日而不足於而日有餘上之任勢使然也日而實反故先王舍已能而因法數審賞罰故治不足大有天下小有一國諸侯天子必自爲之然後可則勞苦耗顇莫甚焉悴顦顇也耗謂精神竭如是則雖臧獲不肯與天子易埶業奴曰臧罵婢曰獲燕齊亡奴謂之臧亡臧獲奴婢也方言云荆淮海岱之間罵者故周禮其奴婢男子入于罪隷女子入于春藁勢業權埶婢謂之獲或曰取貨謂之臧擒得謂之獲皆謂有罪爲奴婢也事業以是縣天下一四海何故必自爲之人之寡以是一必自爲之言力不任之也懸天下之重一四海之大何故爲之者役夫之道也墨子之􅀃也自勞苦矣墨子之􅀃必論德使能而官施之者}
+  - {type: page-break, offset: 442, content: '', id: KR3a0002_SBCK_007-11b}
+  - {type: variant, offset: 442, length: 0, content: '', WYG: 周禮其奴婢男子入于罪𨽻女子入于舂槀勢業權勢事業也以是縣天下一四海何故必自為之以是一人之寡縣天下之重一四海之大何故必自為之言力不任之也為之者役夫之道也墨子之說也墨子之說必自勞苦論德使能而官施之者}
+  - {type: variant, offset: 442, length: 0, content: '', krp: 得如此尸于曰兼聽天下之大自稱日有餘言兼聽之日有餘也而治不足謂治者恕也韓子曰夫爲人主而身察百官則日不足力不給也堯南橈交阯北懷幽都東西至日之所出入有餘日而不足於而日有餘上之任勢使然也日而實反故先王舍已能而因法數審賞罰故治不足大有天下小有一國諸侯天子必自爲之然後可則勞苦耗顇莫甚焉悴顦顇也耗謂精神竭如是則雖臧獲不肯與天子易埶業奴曰臧罵婢曰獲燕齊亡奴謂之臧亡臧獲奴婢也方言云荆淮海岱之間罵者故周禮其奴婢男子入于罪隷女子入于春藁勢業權埶婢謂之獲或曰取貨謂之臧擒得謂之獲皆謂有罪爲奴婢也事業以是縣天下一四海何故必自爲之人之寡以是一必自爲之言力不任之也懸天下之重一四海之大何故爲之者役夫之道也墨子之說也自勞苦矣墨子之說必論德使能而官施之者}
+  - {type: variant, offset: 445, length: 1, content: 誅, SBCK: 道}
+  - {type: variant, offset: 445, length: 1, content: 誅, WYG: 道}
+  - {type: variant, offset: 445, length: 1, content: 誅, krp: 道}
+  - {type: punctuation, offset: 447, content: ，, id: KR3a0002_tls_007-bkkpn81}
+  - {type: variant, offset: 447, length: 11, content: 綦省矣文王誅四武王誅二, SBCK: 儒之所謹守也官施布職事官施謂建百傳曰農分田而耕賈分貨而販百工分事而勸士大夫分職而聽政治聽其建國諸侯之君分土而守三公緫方而議自陜以東}
+  - {type: page-break, offset: 447, content: '', id: KR3a0002_SBCK_007-12a}
+  - {type: variant, offset: 447, length: 11, content: 綦省矣文王誅四武王誅二, WYG: 儒之所謹守也官施謂建百官施布職事傳曰農分田而耕賈分貨而販百工分事而勸士大夫分職而聽聽其政治建國諸侯之君分土而守三公揔方而議揔領也議其所揔統之政自陜以東}
+  - {type: variant, offset: 447, length: 11, content: 綦省矣文王誅四武王誅二, krp: 儒之所謹守也官施布職事官施謂建百傳曰農分田而耕賈分貨而販百工分事而勸士大夫分職而聽政治聽其建國諸侯之君分土而守三公緫方而議自陜以東}
+  - {type: punctuation, offset: 450, content: 。, id: KR3a0002_tls_007-bkkpn82}
+  - {type: xml-element, offset: 450, content: '', id: KR3a0002_tls_007-bkkxmlele19}
+  - {type: xml-element, offset: 450, content: '', id: KR3a0002_tls_007-bkkxmlele20}
+  - {type: 'tls:seg', offset: 450, content: '', id: KR3a0002_tls_007-2a.31}
+  - {type: punctuation, offset: 454, content: ，, id: KR3a0002_tls_007-bkkpn83}
+  - {type: 'tls:seg', offset: 454, content: '', id: KR3a0002_tls_007-2a.32}
+  - {type: punctuation, offset: 458, content: ，, id: KR3a0002_tls_007-bkkpn84}
+  - {type: 'tls:seg', offset: 458, content: '', id: KR3a0002_tls_007-2a.33}
+  - {type: variant, offset: 460, length: 3, content: 卒業至, SBCK: 主之自緫領也議其所統之政}
+  - {type: variant, offset: 460, length: 3, content: 卒業至, WYG: 主之自陜以西召公主之三公處}
+  - {type: variant, offset: 460, length: 3, content: 卒業至, krp: 主之自緫領也議其所統之政}
+  - {type: punctuation, offset: 462, content: ，, id: KR3a0002_tls_007-bkkpn85}
+  - {type: 'tls:seg', offset: 462, content: '', id: KR3a0002_tls_007-2a.34}
+  - {type: variant, offset: 464, length: 1, content: 成, SBCK: 内是緫方而議之也陜以西邵公主之一相處則天子共己而矣讀爲拱垂拱共讀爲恭或也而已出若入若天下莫不平均莫不治辨也出若若如此德使能官施之事或曰若順也入若謂内外皆如此也謂如論是百}
+  - {type: variant, offset: 464, length: 1, content: 成, WYG: 内是揔方而議也則天子共己而已矣共讀為恭或讀為拱垂拱而已出若入若天下莫不平均莫不治辯若如此也出若入若謂内外皆如此也謂如論德使能官施之事或曰若順也是百}
+  - {type: page-break, offset: 464, content: '', id: KR3a0002_WYG_007-10b, image: WYG0695/WYG0695-0185b.png}
+  - {type: variant, offset: 464, length: 1, content: 成, krp: 内是緫方而議之也陜以西邵公主之一相處則天子共己而矣讀爲拱垂拱共讀爲恭或也而已出若入若天下莫不平均莫不治辨也出若若如此德使能官施之事或曰若順也入若謂内外皆如此也謂如論是百}
+  - {type: 'tls:seg', offset: 466, content: '', id: KR3a0002_tls_007-2a.35}
+  - {type: variant, offset: 466, length: 2, content: 則安, SBCK: 之所同也而禮法之大分也各使當其職分也禮法大分在任人百里之地可}
+  - {type: variant, offset: 466, length: 16, content: 則安以無誅矣故道豈不行矣哉文王載, WYG: 之所同也而禮法之大分也禮法大分在任人各使當其職分也}
+  - {type: variant, offset: 466, length: 2, content: 則安, krp: 之所同也而禮法之大分也各使當其職分也禮法大分在任人百里之地可}
+  - {type: punctuation, offset: 468, content: （, id: KR3a0002_tls_007-bkkpn86}
+  - {type: punctuation, offset: 469, content: ）, id: KR3a0002_tls_007-bkkpn87}
+  - {type: variant, offset: 469, length: 2, content: 無誅, SBCK: 取天下是不虚其難者在於人主之知之也可以取天下之道也所患人主不知小國取天下者非負其土地而從之之謂也地來而從我之謂也非謂他國負荷其土道足以壹人而已}
+  - {type: page-break, offset: 469, content: '', id: KR3a0002_SBCK_007-12b}
+  - {type: variant, offset: 469, length: 2, content: 無誅, krp: 取天下是不虚其難者在於人主之知之也可以取天下之道也所患人主不知小國取天下者非負其土地而從之之謂也地來而從我之謂也非謂他國負荷其土道足以壹人而已}
+  - {type: punctuation, offset: 472, content: 。, id: KR3a0002_tls_007-bkkpn88}
+  - {type: 'tls:seg', offset: 472, content: '', id: KR3a0002_tls_007-2a.36}
+  - {type: variant, offset: 473, length: 0, content: '', SBCK: 天下歸之也其}
+  - {type: variant, offset: 473, length: 0, content: '', krp: 天下歸之也其}
+  - {type: variant, offset: 474, length: 4, content: 豈不行矣, SBCK: 足以齊壹人彼其人苟壹則其土地且奚去我而適它一於我則其彼國之人苟徃}
+  - {type: variant, offset: 474, length: 4, content: 豈不行矣, krp: 足以齊壹人彼其人苟壹則其土地且奚去我而適它一於我則其彼國之人苟徃}
+  - {type: punctuation, offset: 479, content: ！, id: KR3a0002_tls_007-bkkpn89}
+  - {type: 'tls:seg', offset: 479, content: '', id: KR3a0002_tls_007-2a.37}
+  - {type: variant, offset: 479, length: 3, content: 文王載, SBCK: 土地奚故}
+  - {type: variant, offset: 479, length: 3, content: 文王載, krp: 土地奚故}
+  - {type: variant, offset: 484, length: 0, content: '', SBCK: 之}
+  - {type: variant, offset: 484, length: 0, content: '', WYG: 之}
+  - {type: variant, offset: 484, length: 0, content: '', krp: 之}
+  - {type: 'tls:seg', offset: 485, content: '', id: KR3a0002_tls_007-2a.38}
+  - {type: variant, offset: 485, length: 0, content: '', SBCK: 其等位爵服足以容天下之賢士矣道賢士有道德者也此論百里國取天下之其官職事業足以容天下之能士矣才藝也能士者循其舊法擇其善者而明用之足以順服好利之人矣法而用之則民衣食足而好利之人順服也擇舊法之善者而明用之謂擇務本厚生之賢士一焉能士官焉好利之人服焉三者具}
+  - {type: page-break, offset: 485, content: '', id: KR3a0002_SBCK_007-13a}
+  - {type: variant, offset: 485, length: 0, content: '', WYG: 可以取天下是不虚其難者在人主之知之也所患人主不知小國可以取天下之道也取天下者非負其土地而從之之謂也非謂它國負荷其土地來而從我之謂也道足以一人而已矣其道足以齊一人故天下歸之也彼其人苟一則其土地且奚去我而適他彼國之人苟一於我則其土地奚往哉故百里之地其等位爵服足以容天下之賢士矣此論百里國取天下之道賢士有道徳者也其官職事業足以容天下之能士矣能士者材藝也循其舊法擇其善者而明用之足以順服好利之人矣擇舊法之善者而明用之謂擇務本厚生之法而用之則民衣食足而好利之民順服也賢士一焉能士官焉好利之人服焉三者具}
+  - {type: page-break, offset: 485, content: '', id: KR3a0002_WYG_007-11a, image: WYG0695/WYG0695-0185c.png}
+  - {type: variant, offset: 485, length: 0, content: '', krp: 其等位爵服足以容天下之賢士矣道賢士有道德者也此論百里國取天下之其官職事業足以容天下之能士矣才藝也能士者循其舊法擇其善者而明用之足以順服好利之人矣法而用之則民衣食足而好利之人順服也擇舊法之善者而明用之謂擇務本厚生之賢士一焉能士官焉好利之人服焉三者具}
+  - {type: variant, offset: 488, length: 0, content: '', SBCK: 盡無􅚀是其外矣爲用也具謂俱故百里之地足以竭埶矣業是天下之人埶盡於此矣竭盡也有等位爵服官職事致忠信箸仁義足以竭人矣義足以盡天下之人謂皆來歸致極也箸明也言極忠信明仁也兩者合而天下取諸侯後同者先危者兩埶盡人也合謂能盡詩曰自西自東自南自北無思不服}
+  - {type: variant, offset: 488, length: 4, content: 一桀紂舍, WYG: 盡無有是其外矣具謂俱為用也故百里}
+  - {type: variant, offset: 488, length: 0, content: '', krp: 盡無􅚀是其外矣爲用也具謂俱故百里之地足以竭埶矣業是天下之人埶盡於此矣竭盡也有等位爵服官職事致忠信箸仁義足以竭人矣義足以盡天下之人謂皆來歸致極也箸明也言極忠信明仁也兩者合而天下取諸侯後同者先危者兩埶盡人也合謂能盡詩曰自西自東自南自北無思不服}
+  - {type: punctuation, offset: 489, content: ，, id: KR3a0002_tls_007-bkkpn90}
+  - {type: 'tls:seg', offset: 489, content: '', id: KR3a0002_tls_007-2a.39}
+  - {type: variant, offset: 489, length: 3, content: 桀紂舍, SBCK: 人}
+  - {type: variant, offset: 489, length: 3, content: 桀紂舍, krp: 人}
+  - {type: punctuation, offset: 490, content: 、, id: KR3a0002_tls_007-bkkpn91}
+  - {type: punctuation, offset: 493, content: ，, id: KR3a0002_tls_007-bkkpn92}
+  - {type: 'tls:seg', offset: 493, content: '', id: KR3a0002_tls_007-2a.40}
+  - {type: variant, offset: 493, length: 1, content: 厚, SBCK: 謂也故四方皆歸之其道足以齊一人羿蠭門者善服射者也羿蠭􅀩善射故射者服蠭門即蠭蒙學射}
+  - {type: page-break, offset: 493, content: '', id: KR3a0002_SBCK_007-13b}
+  - {type: variant, offset: 493, length: 2, content: 厚於, WYG: 地足以竭勢矣竭盡也}
+  - {type: variant, offset: 493, length: 1, content: 厚, krp: 謂也故四方皆歸之其道足以齊一人羿蠭門者善服射者也羿蠭蒙善射故射者服蠭門即蠭蒙學射}
+  - {type: variant, offset: 495, length: 0, content: '', SBCK: 羿音逄之蠭王良造父者善服馭者也御韓子曰字伯王良趙簡子之善御者馭與御同也樂造父周穆王之御皆聦明君子者善服人者也人服而勢從之人不服而勢去之故王者已於服人矣盡此也王者之功故人主欲得善射射逺中微則莫若羿蠭門矣細微之物射及逺中欲得善馭及速致逺則莫若使王良造父矣欲得調壹天下制秦楚則莫若聦明君子矣彊國故制之者也荀卿在齊楚秦天下其用知甚􅂤至少也用智慮其爲事不勞而功名致大甚易處而綦可樂也故明君以爲寶而愚者以爲難寶愚者以任賢明君以任賢爲也爲難夫貴爲天子富}
+  - {type: page-break, offset: 495, content: '', id: KR3a0002_SBCK_007-14a}
+  - {type: variant, offset: 495, length: 0, content: '', krp: 羿音逄之蠭王良造父者善服馭者也御韓子曰字伯王良趙簡子之善御者馭與御同也樂造父周穆王之御皆聦明君子者善服人者也人服而勢從之人不服而勢去之故王者已於服人矣盡此也王者之功故人主欲得善射射逺中微則莫若羿蠭門矣細微之物射及逺中欲得善馭及速致逺則莫若使王良造父矣欲得調壹天下制秦楚則莫若聦明君子矣彊國故制之者也荀卿在齊楚秦天下其用知甚簡至少也用智慮其爲事不勞而功名致大甚易處而綦可樂也故明君以爲寶而愚者以爲難寶愚者以任賢明君以任賢爲也爲難夫貴爲天子富}
+  - {type: variant, offset: 496, length: 0, content: '', WYG: 等位爵服官職事業是}
+  - {type: variant, offset: 498, length: 0, content: '', SBCK: 名爲聖王兼制人人莫得而制也是人情}
+  - {type: variant, offset: 498, length: 0, content: '', krp: 名爲聖王兼制人人莫得而制也是人情}
+  - {type: variant, offset: 499, length: 1, content: 勢, SBCK: 所同欲也而王者兼而有是者也重色而衣之重味而食之重財物而制之直用反重多也合天下而君之飲食甚厚聲樂甚大臺謝甚髙榭同謝與園囿甚廣臣使諸侯一天下是又人情之所同欲也而天子之禮制如是者也制如此其禮之所與之所欲也盛言盡人情制度以陳政令以挾浹洽也挾讀爲官人失要則死公侯失禮則幽記曰各􅀭其職百官要政令之要約也禮執衞侯歸之于京師寘諸深室也廢職服大刑幽囚也春秋傳曰􅀳侯四方之國有侈離之德則必滅皆謂不遵法度侈奢侈離乖離名聲若日月功績如天地天下之人應之如影嚮是又人情之所同欲也而王者兼而有是者也故人之情口好味而臭味莫美焉耳好聲而聲樂莫大焉目好色而文章致繁婦女莫衆焉形體好佚而安重閒靜莫愉焉也或閒隙愉樂也讀爲閑心好利而穀禄莫厚焉合天下之所同願兼而有之睪牢天下而制之若制子孫䇿燕太子丹謂荆軻曰秦有貪功之心非盡天下之地牢睪牢未詳睪或作畢言盡牢籠天下也新序作宰牢戰國與漢書丘嫂轑釡之轑義同皆修理斡運之意也海内之王其意不厭或曰睪讀如以薅荼蓼之薅牢人苟不狂惑戇陋者其誰能睹是}
+  - {type: page-break, offset: 499, content: '', id: KR3a0002_SBCK_007-14b}
+  - {type: page-break, offset: 499, content: '', id: KR3a0002_SBCK_007-15a}
+  - {type: variant, offset: 499, length: 1, content: 勢, krp: 所同欲也而王者兼而有是者也重色而衣之重味而食之重財物而制之直用反重多也合天下而君之飲食甚厚聲樂甚大臺謝甚髙榭同謝與園囿甚廣臣使諸侯一天下是又人情之所同欲也而天子之禮制如是者也制如此其禮之所與之所欲也盛言盡人情制度以陳政令以挾浹洽也挾讀爲官人失要則死公侯失禮則幽記曰各揚其職百官要政令之要約也禮執衞侯歸之于京師寘諸深室也廢職服大刑幽囚也春秋傳曰晉侯四方之國有侈離之德則必滅皆謂不遵法度侈奢侈離乖離名聲若日月功績如天地天下之人應之如影嚮是又人情之所同欲也而王者兼而有是者也故人之情口好味而臭味莫美焉耳好聲而聲樂莫大焉目好色而文章致繁婦女莫衆焉形體好佚而安重閒靜莫愉焉也或閒隙愉樂也讀爲閑心好利而穀禄莫厚焉合天下之所同願兼而有之睪牢天下而制之若制子孫䇿燕太子丹謂荆軻曰秦有貪功之心非盡天下之地牢睪牢未詳睪或作畢言盡牢籠天下也新序作宰牢戰國與漢書丘嫂轑釡之轑義同皆修理斡運之意也海内之王其意不厭或曰睪讀如以薅荼蓼之薅牢人苟不狂惑戇陋者其誰能睹是}
+  - {type: 'tls:seg', offset: 500, content: '', id: KR3a0002_tls_007-2a.41}
+  - {type: variant, offset: 500, length: 16, content: 而不得以匹夫老故善用之則百里之國, WYG: 盡於此矣致忠信著仁義}
+  - {type: variant, offset: 502, length: 8, content: 得以匹夫老故善用, SBCK: 樂也哉欲是}
+  - {type: page-break, offset: 502, content: '', id: KR3a0002_SBCK_007-15b}
+  - {type: variant, offset: 502, length: 8, content: 得以匹夫老故善用, krp: 樂也哉欲是}
+  - {type: punctuation, offset: 507, content: 。, id: KR3a0002_tls_007-bkkpn93}
+  - {type: xml-element, offset: 507, content: '', id: KR3a0002_tls_007-bkkxmlele21}
+  - {type: xml-element, offset: 507, content: '', id: KR3a0002_tls_007-bkkxmlele22}
+  - {type: 'tls:seg', offset: 507, content: '', id: KR3a0002_tls_007-2a.42}
+  - {type: punctuation, offset: 511, content: ，, id: KR3a0002_tls_007-bkkpn94}
+  - {type: 'tls:seg', offset: 511, content: '', id: KR3a0002_tls_007-2a.43}
+  - {type: variant, offset: 511, length: 3, content: 則百里, SBCK: 主並肩而存能建是}
+  - {type: variant, offset: 511, length: 3, content: 則百里, krp: 主並肩而存能建是}
+  - {type: variant, offset: 515, length: 6, content: 國足以獨立矣, SBCK: 士}
+  - {type: variant, offset: 515, length: 6, content: 國足以獨立矣, krp: 士}
+  - {type: variant, offset: 518, length: 1, content: 獨, WYG: 竭}
+  - {type: variant, offset: 519, length: 1, content: 立, WYG: 人}
+  - {type: punctuation, offset: 521, content: ；, id: KR3a0002_tls_007-bkkpn95}
+  - {type: 'tls:seg', offset: 521, content: '', id: KR3a0002_tls_007-2a.44}
+  - {type: variant, offset: 521, length: 0, content: '', WYG: 致極也著明也言極忠信明仁義足以盡天下之人謂皆來歸矣兩者合而天下取諸侯後同者先危兩者合謂能盡勢盡人也詩曰自西自東自南自北無思}
+  - {type: page-break, offset: 521, content: '', id: KR3a0002_WYG_007-11b, image: WYG0695/WYG0695-0185d.png}
+  - {type: variant, offset: 522, length: 6, content: 善用之則楚六, SBCK: 世絶}
+  - {type: variant, offset: 522, length: 0, content: '', WYG: 服一人之謂也其道足以齊一人故四方皆歸之羿蠭門者}
+  - {type: variant, offset: 522, length: 6, content: 善用之則楚六, krp: 世絶}
+  - {type: variant, offset: 523, length: 1, content: 用, WYG: 服射者也蠭門即蠭䝉學射於羿羿蠭蒙善射故射者服}
+  - {type: punctuation, offset: 525, content: ，, id: KR3a0002_tls_007-bkkpn96}
+  - {type: 'tls:seg', offset: 525, content: '', id: KR3a0002_tls_007-2a.45}
+  - {type: variant, offset: 525, length: 5, content: 則楚六千里, WYG: 蠭音逄王良造父者善服馭者也王良趙簡子之馭韓子曰字伯樂造父周穆王之馭皆善御者也馭與御同聦明君子者善服人者也人服}
+  - {type: variant, offset: 529, length: 1, content: 里, SBCK: 歲}
+  - {type: variant, offset: 529, length: 1, content: 里, krp: 歲}
+  - {type: variant, offset: 531, length: 1, content: 為, SBCK: 不}
+  - {type: variant, offset: 531, length: 2, content: 為讎, WYG: 勢從之}
+  - {type: variant, offset: 531, length: 1, content: 為, krp: 不}
+  - {type: variant, offset: 532, length: 1, content: 讎, SBCK: 合}
+  - {type: variant, offset: 532, length: 1, content: 讎, krp: 合}
+  - {type: variant, offset: 533, length: 1, content: 人, SBCK: 何}
+  - {type: variant, offset: 533, length: 1, content: 人, krp: 何}
+  - {type: variant, offset: 534, length: 1, content: 役, SBCK: 也}
+  - {type: variant, offset: 534, length: 1, content: 役, WYG: 不服而勢去之故王者已於服人矣王者之功盡此也}
+  - {type: variant, offset: 534, length: 1, content: 役, krp: 也}
+  - {type: punctuation, offset: 535, content: 。, id: KR3a0002_tls_007-bkkpn97}
+  - {type: 'tls:seg', offset: 535, content: '', id: KR3a0002_tls_007-2a.46}
+  - {type: variant, offset: 535, length: 1, content: 故, SBCK: 曰}
+  - {type: variant, offset: 535, length: 1, content: 故, krp: 曰}
+  - {type: variant, offset: 538, length: 0, content: '', WYG: 欲得善射射逺中微則莫若羿蠭門矣射及逺中細微之物欲得善馭及速致逺則莫若王良造父矣欲調一天下制秦楚則莫若聦明君子矣荀卿在齊楚秦天下彊國故制之者也其用知甚簡用智慮至少也其為事}
+  - {type: page-break, offset: 538, content: '', id: KR3a0002_WYG_007-12a, image: WYG0695/WYG0695-0186a.png}
+  - {type: variant, offset: 539, length: 3, content: 務得道, SBCK: 公人臣不忠也人主則外賢}
+  - {type: variant, offset: 539, length: 1, content: 務, WYG: 勞而功名致大甚易處而綦可樂也故明君以為寶而愚者以為難明君以任賢為寶愚者以任賢為難也夫貴為天子富有天下名為聖王兼制人人莫}
+  - {type: variant, offset: 539, length: 3, content: 務得道, krp: 公人臣不忠也人主則外賢}
+  - {type: variant, offset: 541, length: 1, content: 道, WYG: ''}
+  - {type: 'tls:seg', offset: 542, content: '', id: KR3a0002_tls_007-2a.47}
+  - {type: variant, offset: 543, length: 4, content: 廣有其埶, SBCK: 偏舉人臣則爭職而妒賢}
+  - {type: variant, offset: 543, length: 0, content: '', WYG: 制也是人情之所同欲也而王者兼而有是者也重色而衣之重味而食之重財物而制之重多也直用反合天下而君之飲食甚厚聲樂甚大臺謝甚髙謝與榭同園囿甚}
+  - {type: variant, offset: 543, length: 4, content: 廣有其埶, krp: 偏舉人臣則爭職而妒賢}
+  - {type: variant, offset: 544, length: 0, content: '', WYG: 臣使諸侯一天下是又人情之所同欲也而天子之禮制如是者也禮之與制如此其盛言盡人情之所欲也制度以陳政令以挾挾讀為浹洽也官人失要則死公侯失禮則幽要政令之要約也禮記曰各揚其職百官廢質服大刑幽囚也春秋傳曰晉侯執衛侯歸之于京師寘諸深室也四方之國}
+  - {type: page-break, offset: 544, content: '', id: KR3a0002_WYG_007-12b, image: WYG0695/WYG0695-0186b.png}
+  - {type: variant, offset: 545, length: 0, content: '', WYG: 侈離之徳則必滅侈奢侈離乖離皆謂不遵法度名聲若日月功積如天地天下之人應之如影嚮是又人情之所同欲也而王者兼而有是者也故人之情口好味而臭味莫美焉耳好聲而聲樂莫大焉目好色而文章致繁婦女莫衆焉形體好佚而安重間靜莫愉焉間隙也或讀為閑愉樂也心好利而穀禄莫厚焉合天下之所同願兼而有之睪牢天下而制之若制子孫睪牢未詳睪或作畢言盡牢籠天下也新序作宰牢戰國䇿燕太子丹謂荆軻曰秦有貪功之心非盡天下之地牢海内之王}
+  - {type: page-break, offset: 545, content: '', id: KR3a0002_WYG_007-13a, image: WYG0695/WYG0695-0186c.png}
+  - {type: variant, offset: 546, length: 1, content: 埶, WYG: 意不厭或曰睪讀如以薅荼蓼之薅牢與漢書立㛐轇羮同皆修理斡運之意也人苟不狂惑戇陋者其誰能睹是而不樂也哉欲是之主並肩而存能建是之士不世絶千歲而不合何也曰人主不公人臣不忠也人主則外賢而偏舉人臣則爭職而妬賢}
+  - {type: substitution, offset: 546, original: 埶, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3237}}
+  - {type: punctuation, offset: 547, content: ，, id: KR3a0002_tls_007-bkkpn98}
+  - {type: 'tls:seg', offset: 547, content: '', id: KR3a0002_tls_007-2a.48}
+  - {type: variant, offset: 551, length: 1, content: 危, SBCK: 不合之故}
+  - {type: variant, offset: 551, length: 1, content: 危, WYG: 不合之故}
+  - {type: variant, offset: 551, length: 1, content: 危, krp: 不合之故}
+  - {type: punctuation, offset: 553, content: 。, id: KR3a0002_tls_007-bkkpn99}
+  - {type: xml-element, offset: 553, content: '', id: KR3a0002_tls_007-bkkxmlele23}
+  - {type: xml-element, offset: 553, content: '', id: KR3a0002_tls_007-bkkxmlele24}
+  - {type: 'tls:seg', offset: 553, content: '', id: KR3a0002_tls_007-3a.1}
+  - {type: 'tls:seg', offset: 553, content: '', id: KR3a0002_tls_007-3a.2}
+  - {type: variant, offset: 553, length: 6, content: 持寵處位終身, SBCK: 偏黨而舉所愛也外賢䟽賢也偏舉人主胡}
+  - {type: variant, offset: 553, length: 6, content: 持寵處位終身, WYG: 外賢疎賢也偏舉偏黨而舉所愛也人主胡}
+  - {type: variant, offset: 553, length: 6, content: 持寵處位終身, krp: 偏黨而舉所愛也外賢䟽賢也偏舉人主胡}
+  - {type: 'tls:seg', offset: 557, content: '', id: KR3a0002_tls_007-3a.3}
+  - {type: variant, offset: 560, length: 1, content: 厭, SBCK: 廣焉無䘏親䟽無偏貴賤唯誠能}
+  - {type: variant, offset: 560, length: 1, content: 厭, WYG: 廣焉無恤親疎無偏貴賤唯誠能}
+  - {type: variant, offset: 560, length: 1, content: 厭, krp: 廣焉無䘏親䟽無偏貴賤唯誠能}
+  - {type: variant, offset: 562, length: 5, content: 術主尊貴之, SBCK: 求爲曠誠能實能也廣焉開泰貌或曰讀若是}
+  - {type: variant, offset: 562, length: 5, content: 術主尊貴之, WYG: 求廣焉開泰貎或讀為曠誠能實能也若是}
+  - {type: variant, offset: 562, length: 5, content: 術主尊貴之, krp: 求爲曠誠能實能也廣焉開泰貌或曰讀若是}
+  - {type: punctuation, offset: 563, content: ：, id: KR3a0002_tls_007-bkkpn100}
+  - {type: 'tls:seg', offset: 563, content: '', id: KR3a0002_tls_007-3a.4}
+  - {type: punctuation, offset: 567, content: ，, id: KR3a0002_tls_007-bkkpn101}
+  - {type: 'tls:seg', offset: 567, content: '', id: KR3a0002_tls_007-3a.5}
+  - {type: variant, offset: 568, length: 83, content: 恭敬而僔主信愛之則謹慎而嗛主專任之則拘守而詳主安近之則慎比而不邪主䟽遠之則全一而不倍主損絀之則恐懼而不怨貴而不為夸信而不忘處謙任重而不敢專財利至則言善而不及也必將盡辭, SBCK: 人臣輕職業}
+  - {type: variant, offset: 568, length: 83, content: 恭敬而僔主信愛之則謹慎而嗛主專任之則拘守而詳主安近之則慎比而不邪主䟽遠之則全一而不倍主損絀之則恐懼而不怨貴而不為夸信而不忘處謙任重而不敢專財利至則言善而不及也必將盡辭, WYG: 人臣輕職業}
+  - {type: variant, offset: 568, length: 83, content: 恭敬而僔主信愛之則謹慎而嗛主專任之則拘守而詳主安近之則慎比而不邪主䟽遠之則全一而不倍主損絀之則恐懼而不怨貴而不為夸信而不忘處謙任重而不敢專財利至則言善而不及也必將盡辭, krp: 人臣輕職業}
+  - {type: punctuation, offset: 572, content: ；, id: KR3a0002_tls_007-bkkpn102}
+  - {type: 'tls:seg', offset: 572, content: '', id: KR3a0002_tls_007-3a.6}
+  - {type: punctuation, offset: 576, content: ，, id: KR3a0002_tls_007-bkkpn103}
+  - {type: 'tls:seg', offset: 576, content: '', id: KR3a0002_tls_007-3a.7}
+  - {type: punctuation, offset: 581, content: ；, id: KR3a0002_tls_007-bkkpn104}
+  - {type: 'tls:seg', offset: 581, content: '', id: KR3a0002_tls_007-3a.8}
+  - {type: punctuation, offset: 585, content: ，, id: KR3a0002_tls_007-bkkpn105}
+  - {type: 'tls:seg', offset: 585, content: '', id: KR3a0002_tls_007-3a.9}
+  - {type: punctuation, offset: 590, content: ；, id: KR3a0002_tls_007-bkkpn106}
+  - {type: 'tls:seg', offset: 590, content: '', id: KR3a0002_tls_007-3a.10}
+  - {type: punctuation, offset: 594, content: ，, id: KR3a0002_tls_007-bkkpn107}
+  - {type: 'tls:seg', offset: 594, content: '', id: KR3a0002_tls_007-3a.11}
+  - {type: punctuation, offset: 600, content: ；, id: KR3a0002_tls_007-bkkpn108}
+  - {type: 'tls:seg', offset: 600, content: '', id: KR3a0002_tls_007-3a.12}
+  - {type: substitution, offset: 601, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
+  - {type: punctuation, offset: 604, content: ，, id: KR3a0002_tls_007-bkkpn109}
+  - {type: 'tls:seg', offset: 604, content: '', id: KR3a0002_tls_007-3a.13}
+  - {type: punctuation, offset: 610, content: ；, id: KR3a0002_tls_007-bkkpn110}
+  - {type: 'tls:seg', offset: 610, content: '', id: KR3a0002_tls_007-3a.14}
+  - {type: punctuation, offset: 614, content: ，, id: KR3a0002_tls_007-bkkpn111}
+  - {type: 'tls:seg', offset: 614, content: '', id: KR3a0002_tls_007-3a.15}
+  - {type: punctuation, offset: 620, content: 。, id: KR3a0002_tls_007-bkkpn112}
+  - {type: xml-element, offset: 620, content: '', id: KR3a0002_tls_007-bkkxmlele25}
+  - {type: xml-element, offset: 620, content: '', id: KR3a0002_tls_007-bkkxmlele26}
+  - {type: 'tls:seg', offset: 620, content: '', id: KR3a0002_tls_007-3a.16}
+  - {type: punctuation, offset: 625, content: ，, id: KR3a0002_tls_007-bkkpn113}
+  - {type: 'tls:seg', offset: 625, content: '', id: KR3a0002_tls_007-3a.17}
+  - {type: punctuation, offset: 631, content: ，, id: KR3a0002_tls_007-bkkpn114}
+  - {type: 'tls:seg', offset: 631, content: '', id: KR3a0002_tls_007-3a.18}
+  - {type: punctuation, offset: 637, content: ，, id: KR3a0002_tls_007-bkkpn115}
+  - {type: 'tls:seg', offset: 637, content: '', id: KR3a0002_tls_007-3a.19}
+  - {type: 'tls:seg', offset: 640, content: '', id: KR3a0002_tls_007-3a.20}
+  - {type: punctuation, offset: 641, content: （, id: KR3a0002_tls_007-bkkpn116}
+  - {type: punctuation, offset: 642, content: ）, id: KR3a0002_tls_007-bkkpn117}
+  - {type: punctuation, offset: 647, content: ，, id: KR3a0002_tls_007-bkkpn118}
+  - {type: 'tls:seg', offset: 647, content: '', id: KR3a0002_tls_007-3a.21}
+  - {type: variant, offset: 652, length: 126, content: 之義然後受福事至則和而理禍事至則靜而理富則施廣貧則用節可貴可賤也可富可貧也可殺而不可使為姦也是持寵處位不厭之術也雖在貧窮徒處之埶亦取象於是矣夫是之謂吉人詩曰媚茲一人應侯順德永言孝思昭哉嗣服此之謂也求善處大重理任大事擅寵於萬乘之國必無後患之術莫若好同之援, SBCK: ''}
+  - {type: variant, offset: 652, length: 126, content: 之義然後受福事至則和而理禍事至則靜而理富則施廣貧則用節可貴可賤也可富可貧也可殺而不可使為姦也是持寵處位不厭之術也雖在貧窮徒處之埶亦取象於是矣夫是之謂吉人詩曰媚茲一人應侯順德永言孝思昭哉嗣服此之謂也求善處大重理任大事擅寵於萬乘之國必無後患之術莫若好同之援, WYG: ''}
+  - {type: variant, offset: 652, length: 126, content: 之義然後受福事至則和而理禍事至則靜而理富則施廣貧則用節可貴可賤也可富可貧也可殺而不可使為姦也是持寵處位不厭之術也雖在貧窮徒處之埶亦取象於是矣夫是之謂吉人詩曰媚茲一人應侯順德永言孝思昭哉嗣服此之謂也求善處大重理任大事擅寵於萬乘之國必無後患之術莫若好同之援, krp: ''}
+  - {type: 'tls:seg', offset: 654, content: '', id: KR3a0002_tls_007-3a.22}
+  - {type: punctuation, offset: 657, content: 。, id: KR3a0002_tls_007-bkkpn119}
+  - {type: 'tls:seg', offset: 657, content: '', id: KR3a0002_tls_007-3a.23}
+  - {type: punctuation, offset: 664, content: ，, id: KR3a0002_tls_007-bkkpn120}
+  - {type: 'tls:seg', offset: 664, content: '', id: KR3a0002_tls_007-3a.24}
+  - {type: punctuation, offset: 671, content: ；, id: KR3a0002_tls_007-bkkpn121}
+  - {type: 'tls:seg', offset: 671, content: '', id: KR3a0002_tls_007-3a.25}
+  - {type: punctuation, offset: 675, content: ，, id: KR3a0002_tls_007-bkkpn122}
+  - {type: 'tls:seg', offset: 675, content: '', id: KR3a0002_tls_007-3a.26}
+  - {type: punctuation, offset: 679, content: ；, id: KR3a0002_tls_007-bkkpn123}
+  - {type: 'tls:seg', offset: 679, content: '', id: KR3a0002_tls_007-3a.27}
+  - {type: punctuation, offset: 684, content: ，, id: KR3a0002_tls_007-bkkpn124}
+  - {type: 'tls:seg', offset: 684, content: '', id: KR3a0002_tls_007-3a.28}
+  - {type: punctuation, offset: 689, content: ，, id: KR3a0002_tls_007-bkkpn125}
+  - {type: 'tls:seg', offset: 689, content: '', id: KR3a0002_tls_007-3a.29}
+  - {type: punctuation, offset: 698, content: 。, id: KR3a0002_tls_007-bkkpn126}
+  - {type: xml-element, offset: 698, content: '', id: KR3a0002_tls_007-bkkxmlele27}
+  - {type: xml-element, offset: 698, content: '', id: KR3a0002_tls_007-bkkxmlele28}
+  - {type: 'tls:seg', offset: 698, content: '', id: KR3a0002_tls_007-3a.30}
+  - {type: punctuation, offset: 708, content: 。, id: KR3a0002_tls_007-bkkpn127}
+  - {type: 'tls:seg', offset: 708, content: '', id: KR3a0002_tls_007-3a.31}
+  - {type: substitution, offset: 715, original: 埶, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3237}}
+  - {type: punctuation, offset: 716, content: ，, id: KR3a0002_tls_007-bkkpn128}
+  - {type: 'tls:seg', offset: 716, content: '', id: KR3a0002_tls_007-3a.32}
+  - {type: punctuation, offset: 722, content: ；, id: KR3a0002_tls_007-bkkpn129}
+  - {type: 'tls:seg', offset: 722, content: '', id: KR3a0002_tls_007-3a.33}
+  - {type: punctuation, offset: 728, content: 。, id: KR3a0002_tls_007-bkkpn130}
+  - {type: 'tls:seg', offset: 728, content: '', id: KR3a0002_tls_007-3a.34}
+  - {type: punctuation, offset: 728, content: 《, id: KR3a0002_tls_007-bkkpn131}
+  - {type: punctuation, offset: 729, content: 》, id: KR3a0002_tls_007-bkkpn132}
+  - {type: punctuation, offset: 730, content: ：, id: KR3a0002_tls_007-bkkpn133}
+  - {type: 'tls:seg', offset: 730, content: '', id: KR3a0002_tls_007-3a.35}
+  - {type: punctuation, offset: 730, content: 「, id: KR3a0002_tls_007-bkkpn134}
+  - {type: punctuation, offset: 734, content: ，, id: KR3a0002_tls_007-bkkpn135}
+  - {type: 'tls:seg', offset: 734, content: '', id: KR3a0002_tls_007-3a.36}
+  - {type: punctuation, offset: 738, content: 。, id: KR3a0002_tls_007-bkkpn136}
+  - {type: 'tls:seg', offset: 738, content: '', id: KR3a0002_tls_007-3a.37}
+  - {type: punctuation, offset: 742, content: ，, id: KR3a0002_tls_007-bkkpn137}
+  - {type: 'tls:seg', offset: 742, content: '', id: KR3a0002_tls_007-3a.38}
+  - {type: punctuation, offset: 746, content: 。, id: KR3a0002_tls_007-bkkpn138}
+  - {type: punctuation, offset: 746, content: 」, id: KR3a0002_tls_007-bkkpn139}
+  - {type: 'tls:seg', offset: 746, content: '', id: KR3a0002_tls_007-3a.39}
+  - {type: punctuation, offset: 750, content: 。, id: KR3a0002_tls_007-bkkpn140}
+  - {type: xml-element, offset: 750, content: '', id: KR3a0002_tls_007-bkkxmlele29}
+  - {type: xml-element, offset: 750, content: '', id: KR3a0002_tls_007-bkkxmlele30}
+  - {type: 'tls:seg', offset: 750, content: '', id: KR3a0002_tls_007-4a.1}
+  - {type: 'tls:seg', offset: 750, content: '', id: KR3a0002_tls_007-4a.2}
+  - {type: punctuation, offset: 755, content: ，, id: KR3a0002_tls_007-bkkpn141}
+  - {type: punctuation, offset: 755, content: （, id: KR3a0002_tls_007-bkkpn142}
+  - {type: 'tls:seg', offset: 755, content: '', id: KR3a0002_tls_007-4a.3}
+  - {type: punctuation, offset: 756, content: ）, id: KR3a0002_tls_007-bkkpn143}
+  - {type: punctuation, offset: 759, content: ，, id: KR3a0002_tls_007-bkkpn144}
+  - {type: 'tls:seg', offset: 759, content: '', id: KR3a0002_tls_007-4a.4}
+  - {type: punctuation, offset: 766, content: ，, id: KR3a0002_tls_007-bkkpn145}
+  - {type: 'tls:seg', offset: 766, content: '', id: KR3a0002_tls_007-4a.5}
+  - {type: punctuation, offset: 772, content: ：, id: KR3a0002_tls_007-bkkpn146}
+  - {type: 'tls:seg', offset: 772, content: '', id: KR3a0002_tls_007-4a.6}
+  - {type: punctuation, offset: 777, content: ，, id: KR3a0002_tls_007-bkkpn147}
+  - {type: 'tls:seg', offset: 777, content: '', id: KR3a0002_tls_007-4a.7}
+  - {type: variant, offset: 779, length: 37, content: 博施除怨而無妨害人能耐任之則慎行此道也而不耐任且恐失寵則莫若早同之推賢讓能, SBCK: ''}
+  - {type: variant, offset: 779, length: 37, content: 博施除怨而無妨害人能耐任之則慎行此道也而不耐任且恐失寵則莫若早同之推賢讓能, WYG: ''}
+  - {type: variant, offset: 779, length: 37, content: 博施除怨而無妨害人能耐任之則慎行此道也而不耐任且恐失寵則莫若早同之推賢讓能, krp: ''}
+  - {type: punctuation, offset: 781, content: ，, id: KR3a0002_tls_007-bkkpn148}
+  - {type: 'tls:seg', offset: 781, content: '', id: KR3a0002_tls_007-4a.8}
+  - {type: punctuation, offset: 788, content: 。, id: KR3a0002_tls_007-bkkpn149}
+  - {type: punctuation, offset: 788, content: （, id: KR3a0002_tls_007-bkkpn150}
+  - {type: xml-element, offset: 788, content: '', id: KR3a0002_tls_007-bkkxmlele31}
+  - {type: xml-element, offset: 788, content: '', id: KR3a0002_tls_007-bkkxmlele32}
+  - {type: 'tls:seg', offset: 788, content: '', id: KR3a0002_tls_007-4a.9}
+  - {type: punctuation, offset: 789, content: ）, id: KR3a0002_tls_007-bkkpn151}
+  - {type: punctuation, offset: 792, content: ，, id: KR3a0002_tls_007-bkkpn152}
+  - {type: 'tls:seg', offset: 792, content: '', id: KR3a0002_tls_007-4a.10}
+  - {type: punctuation, offset: 798, content: 。, id: KR3a0002_tls_007-bkkpn153}
+  - {type: 'tls:seg', offset: 798, content: '', id: KR3a0002_tls_007-4a.11}
+  - {type: punctuation, offset: 802, content: ，, id: KR3a0002_tls_007-bkkpn154}
+  - {type: 'tls:seg', offset: 802, content: '', id: KR3a0002_tls_007-4a.12}
+  - {type: punctuation, offset: 806, content: ，, id: KR3a0002_tls_007-bkkpn155}
+  - {type: 'tls:seg', offset: 806, content: '', id: KR3a0002_tls_007-4a.13}
+  - {type: punctuation, offset: 812, content: ，, id: KR3a0002_tls_007-bkkpn156}
+  - {type: 'tls:seg', offset: 812, content: '', id: KR3a0002_tls_007-4a.14}
+  - {type: 'tls:seg', offset: 816, content: '', id: KR3a0002_tls_007-4a.15}
+  - {type: punctuation, offset: 821, content: 。, id: KR3a0002_tls_007-bkkpn157}
+  - {type: 'tls:seg', offset: 821, content: '', id: KR3a0002_tls_007-4a.16}
+  - {type: punctuation, offset: 823, content: ，, id: KR3a0002_tls_007-bkkpn158}
+  - {type: 'tls:seg', offset: 823, content: '', id: KR3a0002_tls_007-4a.17}
+  - {type: variant, offset: 823, length: 0, content: '', SBCK: 則禹舜還至王業還起復還功壹天下名配舜禹物由}
+  - {type: variant, offset: 823, length: 0, content: '', WYG: 則禹舜還至王業還起還復功一天下名配禹舜物由}
+  - {type: page-break, offset: 823, content: '', id: KR3a0002_WYG_007-13b, image: WYG0695/WYG0695-0186d.png}
+  - {type: variant, offset: 823, length: 0, content: '', krp: 則禹舜還至王業還起復還功壹天下名配舜禹物由}
+  - {type: variant, offset: 824, length: 1, content: 寵, SBCK: 可樂如是其美焉者乎嗚呼君人者亦可以察若言矣此之言也可以察如揚朱哭衢涂曰此夫過舉蹞歩而覺跌千里者夫哀哭之於墨子與墨子弟揚朱戰國時人後衢涂歧路也秦俗以兩爲衢或曰四達謂之衢覺知也半歩曰子禽滑釐辨論其􅀃在愛已不㧞一毛以利天下與墨子相反里者乎故甚哀而哭之易曰差以毫釐謬以千里也蹞跌差也言此歧路第過舉半􅇍}
+  - {type: page-break, offset: 824, content: '', id: KR3a0002_SBCK_007-16a}
+  - {type: variant, offset: 824, length: 1, content: 寵, WYG: 可樂如是其美焉者乎嗚呼君人者亦可以察若言矣可以察如此之言也楊朱哭衢塗曰此夫過舉蹞歩而覺跌千里者夫哀哭之楊朱戰國時人後於墨子與墨子弟子禽滑釐辯論其說在愛己不㧞一毛以利天下與墨相反衢塗岐路也秦俗以兩為衢或曰四達謂之衢覺知也半歩曰蹞跌差也言此岐路第過舉半歩}
+  - {type: variant, offset: 824, length: 1, content: 寵, krp: 可樂如是其美焉者乎嗚呼君人者亦可以察若言矣此之言也可以察如揚朱哭衢涂曰此夫過舉蹞歩而覺跌千里者夫哀哭之於墨子與墨子弟揚朱戰國時人後衢涂歧路也秦俗以兩爲衢或曰四達謂之衢覺知也半歩曰子禽滑釐辨論其說在愛已不㧞一毛以利天下與墨子相反里者乎故甚哀而哭之易曰差以毫釐謬以千里也蹞跌差也言此歧路第過舉半步}
+  - {type: variant, offset: 826, length: 0, content: '', SBCK: 知差而哭況跌千此亦榮辱安危存亡之衢已此其爲可哀甚於衢涂滅亡故可哀甚於衢涂也此謂求誠能之士也不求則嗚呼哀哉君人者千歲而不覺也不知求誠能之士嘆君人者千嵗而無國而不有治法無國而不有亂法無國而不有賢士無國而不有罷士昭曰病也無行而罷周禮以嘉國語曰罷士無伍罷女無家韋之使善者也石平罷民謂平無國而不有愿民無國而不有悍民無國而不有美俗無國而不有惡俗兩者並行而國在上偏而國安在下偏而國危多罷士少愿民多悍民少之類下偏反是上偏偏行上事也謂治法多亂法少賢士上一而王下一而亡行也一謂令故其法治其佐賢其民愿其俗美而四者齊夫是之謂上一如是則不戰而勝不攻而得甲兵不勞而天下服故湯以亳武王以鄗鎬同鄗與皆百里之地也天下爲一諸侯爲臣通逹之屬莫不從服無它故焉四者齊也所闕也齊謂無桀紂即序於有天下之勢索爲匹夫而不可得也有天下即序於次序爲天子也之埶謂就王者之是無它故焉四者並亡也故百王之法不同若是所歸者一也上莫不致愛其下而制之以禮上之於下如保赤子政令制度所以接下之人百姓有不理者如豪末則雖孤獨鰥寡}
+  - {type: page-break, offset: 826, content: '', id: KR3a0002_SBCK_007-16b}
+  - {type: page-break, offset: 826, content: '', id: KR3a0002_SBCK_007-17a}
+  - {type: page-break, offset: 826, content: '', id: KR3a0002_SBCK_007-17b}
+  - {type: variant, offset: 826, length: 0, content: '', WYG: 知差而哭况跌千里者乎故甚哀而哭之易曰差以毫釐謬以千里也此亦榮辱安危存亡之衢已此其為可哀甚於衢塗此謂求誠能之士也不求則滅亡故可哀甚於衢塗也嗚呼哀哉君人者千歲而不覺也嘆君人者千嵗而不知求誠能之士無國而不有治法無國而不有亂法無國而不有賢士無國而不有罷士國語曰罷士無伍罷女無家韋昭曰病也無行而罷周禮以嘉石平罷民謂平之使善者也無國而不有愿民無國而不有悍民無國而不有美俗無國而不有惡俗兩者並行而國在上偏而國安在下偏而國危上偏偏行上事也謂治法多亂法少賢士多罷士少愿民多悍民少之類下偏反是上一而王下一而亡一謂令行也故其治法其佐賢其民愿其俗美而四者齊夫是之謂上一如是則不戰而勝不攻而得用兵不勞而天下服故湯以亳武王以鄗鄗與鎬同皆百里之地也天下為一諸侯為臣通達之屬莫不服從無他故焉四者齊也齊謂無所闕也桀紂即序於有天下之勢索為匹夫而不可得也即序於有天下之勢謂就王者之次序為天子是無他故焉四者並亡也故百王之法不同若是所歸者一也上莫不致愛其下而制之以禮上之於下如保赤子政令制度所以接下之人百姓有不理者如豪末則雖孤獨鰥寡}
+  - {type: page-break, offset: 826, content: '', id: KR3a0002_WYG_007-14a, image: WYG0695/WYG0695-0187a.png}
+  - {type: page-break, offset: 826, content: '', id: KR3a0002_WYG_007-14b, image: WYG0695/WYG0695-0187b.png}
+  - {type: variant, offset: 826, length: 0, content: '', krp: 知差而哭況跌千此亦榮辱安危存亡之衢已此其爲可哀甚於衢涂滅亡故可哀甚於衢涂也此謂求誠能之士也不求則嗚呼哀哉君人者千歲而不覺也不知求誠能之士嘆君人者千嵗而無國而不有治法無國而不有亂法無國而不有賢士無國而不有罷士昭曰病也無行而罷周禮以嘉國語曰罷士無伍罷女無家韋之使善者也石平罷民謂平無國而不有愿民無國而不有悍民無國而不有美俗無國而不有惡俗兩者並行而國在上偏而國安在下偏而國危多罷士少愿民多悍民少之類下偏反是上偏偏行上事也謂治法多亂法少賢士上一而王下一而亡行也一謂令故其法治其佐賢其民愿其俗美而四者齊夫是之謂上一如是則不戰而勝不攻而得甲兵不勞而天下服故湯以亳武王以鄗鎬同鄗與皆百里之地也天下爲一諸侯爲臣通逹之屬莫不從服無它故焉四者齊也所闕也齊謂無桀紂即序於有天下之勢索爲匹夫而不可得也有天下即序於次序爲天子也之埶謂就王者之是無它故焉四者並亡也故百王之法不同若是所歸者一也上莫不致愛其下而制之以禮上之於下如保赤子政令制度所以接下之人百姓有不理者如豪末則雖孤獨鰥寡}
+  - {type: variant, offset: 827, length: 3, content: 榮失寵, SBCK: 不加焉豪末不以尤愛之孝經曰不敢侮於鰥寡而況於士民乎不理加於孤獨鰥寡也四者人所輕賤故聖王故下之親上歡如父母可殺而不可使不順君臣上下貴賤長幼至于庶人莫不以是爲隆正親上爲隆正也是謂親上也皆以然後皆内自省以謹於分其上愛敬踰越也故不敢是百王之所以同也而禮法之樞要也民之道而得民也是百王之同用愛然後農分田而耕賈分貨而販百工分事而勸士大夫分職而聽建國諸侯之君分土而守三公緫方而議}
+  - {type: page-break, offset: 827, content: '', id: KR3a0002_SBCK_007-18a}
+  - {type: variant, offset: 827, length: 3, content: 榮失寵, WYG: 不加焉不以豪末不理加於孤獨鰥寡也四者人所輕賤故聖王尤愛之孝經曰不敢侮於鰥寡而况於上民乎故下之親上歡如父母可殺而不可使不順君臣上下貴賤長㓜至於庶人莫不以是為隆正是謂親上也皆以親上為隆正也然後皆内自省以謹於分愛敬其上故不敢踰越也是百王之所以同也而禮法之樞要也是百王之同用愛民之道而得民也然後農分田而耕賈分貨而販百工分事而勸士大夫分職而聽建國諸侯之君分土而守三公揔方而議}
+  - {type: page-break, offset: 827, content: '', id: KR3a0002_WYG_007-15a, image: WYG0695/WYG0695-0187c.png}
+  - {type: variant, offset: 827, length: 3, content: 榮失寵, krp: 不加焉豪末不以尤愛之孝經曰不敢侮於鰥寡而況於士民乎不理加於孤獨鰥寡也四者人所輕賤故聖王故下之親上歡如父母可殺而不可使不順君臣上下貴賤長幼至于庶人莫不以是爲隆正親上爲隆正也是謂親上也皆以然後皆内自省以謹於分其上愛敬踰越也故不敢是百王之所以同也而禮法之樞要也民之道而得民也是百王之同用愛然後農分田而耕賈分貨而販百工分事而勸士大夫分職而聽建國諸侯之君分土而守三公緫方而議}
+  - {type: punctuation, offset: 828, content: ，, id: KR3a0002_tls_007-bkkpn159}
+  - {type: 'tls:seg', offset: 828, content: '', id: KR3a0002_tls_007-4a.18}
+  - {type: variant, offset: 831, length: 0, content: '', SBCK: 天子共已而止矣岀若入若天下莫不平均莫不治辨是百王之所同而禮法之大分也勸勉餘並已解上也亦謂致愛其下故皆若夫貫日而治平權物而稱用制物使稱於用稱尺證反貫日積日也使條理平正權使衣服有制宫室有度人徒有數喪祭械用皆有等宜以是用挾於萬物皆有等宜言等差皆得其宜也挾讀爲人徒謂胥徒給傜伇者也械用器用也浹尺寸㝷丈莫得不循乎制度數量然後行則是官人使吏之事也不足數於大君子之前吏數閱數也大君子謂人君也官人列官之人使吏所使役之故君人者立隆政本朝而當也當丁浪反隆政所隆之政所使要百事者誠仁人也綱紀者謂相也主百事之要約則身佚而國治功大而名美上可以王下可以霸立隆政本朝而不當所使要百事者非仁人也則身勞而國亂功廢而名辱社稷}
+  - {type: page-break, offset: 831, content: '', id: KR3a0002_SBCK_007-18b}
+  - {type: variant, offset: 831, length: 0, content: '', WYG: 天子共己而止矣若出若入天下莫不平均莫不治辯是百王之所同而禮法之大分也亦謂致愛其下故皆勸勉餘並已解上也若夫貫日而治平權物而稱用貫日積日也使條理平正權制物使稱於用稱尺正反使衣服有制宫室有度人徒有數喪祭械用皆有等宜以是用挾於萬物人徒謂胥徒給徭役者也械用噐用也皆有等宜言等差皆得其宜也挾讀為浹尺寸㝷丈莫得不循乎制數度量然後行則是官人使吏之事也不足數於大君子之前官人列官之人使吏所使役之吏數閲數也大君子謂人君也故君人者立隆政本朝而當隆政所隆之政也當丁浪反所使要百事者誠仁人也主百事之要約綱紀者謂相也則身佚而國治功大而名美上可以王下可以霸立隆正本朝而不當所使要百事者非仁人也則身勞而國亂功廢而名辱社稷}
+  - {type: page-break, offset: 831, content: '', id: KR3a0002_WYG_007-15b, image: WYG0695/WYG0695-0187d.png}
+  - {type: page-break, offset: 831, content: '', id: KR3a0002_WYG_007-16a, image: WYG0695/WYG0695-0188a.png}
+  - {type: variant, offset: 831, length: 0, content: '', krp: 天子共已而止矣岀若入若天下莫不平均莫不治辨是百王之所同而禮法之大分也勸勉餘並已解上也亦謂致愛其下故皆若夫貫日而治平權物而稱用制物使稱於用稱尺證反貫日積日也使條理平正權使衣服有制宫室有度人徒有數喪祭械用皆有等宜以是用挾於萬物皆有等宜言等差皆得其宜也挾讀爲人徒謂胥徒給傜伇者也械用器用也浹尺寸㝷丈莫得不循乎制度數量然後行則是官人使吏之事也不足數於大君子之前吏數閱數也大君子謂人君也官人列官之人使吏所使役之故君人者立隆政本朝而當也當丁浪反隆政所隆之政所使要百事者誠仁人也綱紀者謂相也主百事之要約則身佚而國治功大而名美上可以王下可以霸立隆政本朝而不當所使要百事者非仁人也則身勞而國亂功廢而名辱社稷}
+  - {type: variant, offset: 832, length: 2, content: 無罪, SBCK: 危}
+  - {type: variant, offset: 832, length: 2, content: 無罪, WYG: 危}
+  - {type: variant, offset: 832, length: 2, content: 無罪, krp: 危}
+  - {type: punctuation, offset: 834, content: ，, id: KR3a0002_tls_007-bkkpn160}
+  - {type: xml-element, offset: 834, content: '', id: KR3a0002_tls_007-bkkxmlele33}
+  - {type: xml-element, offset: 834, content: '', id: KR3a0002_tls_007-bkkxmlele34}
+  - {type: 'tls:seg', offset: 834, content: '', id: KR3a0002_tls_007-4a.19}
+  - {type: variant, offset: 835, length: 1, content: 事, SBCK: 人}
+  - {type: variant, offset: 835, length: 1, content: 事, WYG: 人}
+  - {type: variant, offset: 835, length: 1, content: 事, krp: 人}
+  - {type: page-break, offset: 836, content: '', id: KR3a0002_SBCK_007-19a}
+  - {type: variant, offset: 839, length: 1, content: 寶, SBCK: 樞機也君當爲君人也樞機在得賢相人故能當一人}
+  - {type: variant, offset: 839, length: 8, content: 寶而必無後患之術, WYG: 樞機者也樞機在得賢相人君當為君人}
+  - {type: variant, offset: 839, length: 1, content: 寶, krp: 樞機也君當爲君人也樞機在得賢相人故能當一人}
+  - {type: 'tls:seg', offset: 840, content: '', id: KR3a0002_tls_007-4a.20}
+  - {type: variant, offset: 841, length: 0, content: '', SBCK: 天下取失當一人而社稷危不能當一人而能當千人百人者􅀃無之有也之中􅀃論之當也當皆丁浪反無此事能當謂能用人旣能當一人則身有何勞而爲語助也而爲皆垂衣裳而天下定故湯用伊尹文王用吕尚武王用召公成王用周公且卑者五伯王者伯讀爲霸卑言功業卑於齊􅁊公閨門之内懸樂奢泰游抏之脩抏與玩同言齊桓唯懸簨簴也泰與汰同脩也此是於天下不見謂脩之脩飾也天下不謂然九合諸侯一匡天下爲五伯長是亦無它故焉知一政於管仲也是君人者之要守也任賢也要守在知者易爲之興力而功名綦大賢之君也智者知任舍是而孰足爲也之言其餘皆不定爲也舍是任賢之事何足為故古之人有大功名者}
+  - {type: page-break, offset: 841, content: '', id: KR3a0002_SBCK_007-19b}
+  - {type: variant, offset: 841, length: 0, content: '', krp: 天下取失當一人而社稷危不能當一人而能當千人百人者說無之有也之中說論之當也當皆丁浪反無此事能當謂能用人旣能當一人則身有何勞而爲語助也而爲皆垂衣裳而天下定故湯用伊尹文王用吕尚武王用召公成王用周公且卑者五伯王者伯讀爲霸卑言功業卑於齊桓公閨門之内懸樂奢泰游抏之脩抏與玩同言齊桓唯懸簨簴也泰與汰同脩也此是於天下不見謂脩之脩飾也天下不謂然九合諸侯一匡天下爲五伯長是亦無它故焉知一政於管仲也是君人者之要守也任賢也要守在知者易爲之興力而功名綦大賢之君也智者知任舍是而孰足爲也之言其餘皆不定爲也舍是任賢之事何足為故古之人有大功名者}
+  - {type: variant, offset: 842, length: 3, content: 無後患, SBCK: 道是者也此任賢}
+  - {type: variant, offset: 842, length: 3, content: 無後患, krp: 道是者也此任賢}
+  - {type: variant, offset: 846, length: 1, content: 術, SBCK: 事道行也必行喪其國危其身者必反是者}
+  - {type: variant, offset: 846, length: 1, content: 術, krp: 事道行也必行喪其國危其身者必反是者}
+  - {type: punctuation, offset: 848, content: 。, id: KR3a0002_tls_007-bkkpn161}
+  - {type: 'tls:seg', offset: 848, content: '', id: KR3a0002_tls_007-4a.21}
+  - {type: variant, offset: 849, length: 36, content: 知兵者之舉事也滿則慮嗛平則慮險安則慮危曲重其豫猶恐及其𣄸是以百舉而不陷也, SBCK: ''}
+  - {type: variant, offset: 849, length: 0, content: '', WYG: 能當一人而天下取失當一人而社稷危不能當一人而能當千人百人者說無之有也論說之中無此事能當謂能用人之當也當皆丁浪反既能當一人則身有何營而為而為皆助語也垂衣裳而天下定故湯用伊尹文王用吕尚武王用召公成王用周公且卑者五伯卑言功業卑於王者伯讀為霸齊桓公閨門之内懸樂奢泰游抏之修懸簨簴也泰與汰同抏與玩同言齊桓唯此是修也於天下不見謂修天下不謂之修飾也然九合諸侯一匡天下為五伯長是亦無他故焉}
+  - {type: page-break, offset: 849, content: '', id: KR3a0002_WYG_007-16b, image: WYG0695/WYG0695-0188b.png}
+  - {type: variant, offset: 849, length: 36, content: 知兵者之舉事也滿則慮嗛平則慮險安則慮危曲重其豫猶恐及其𣄸是以百舉而不陷也, krp: ''}
+  - {type: variant, offset: 850, length: 1, content: 兵, WYG: 一政於管仲也是君人}
+  - {type: variant, offset: 853, length: 1, content: 舉, WYG: 要守也要守在任賢也知者易為之興力而功名綦大智者知任賢之君也舍是而孰足為也舍是任賢之}
+  - {type: variant, offset: 855, length: 0, content: '', WYG: 何足為之言其餘皆不足為}
+  - {type: punctuation, offset: 856, content: ，, id: KR3a0002_tls_007-bkkpn162}
+  - {type: 'tls:seg', offset: 856, content: '', id: KR3a0002_tls_007-4a.22}
+  - {type: variant, offset: 856, length: 11, content: 滿則慮嗛平則慮險安則慮, WYG: 故古之人有大功名者必道是者也道行也必行此任賢之事喪其國}
+  - {type: punctuation, offset: 860, content: ，, id: KR3a0002_tls_007-bkkpn163}
+  - {type: 'tls:seg', offset: 860, content: '', id: KR3a0002_tls_007-4a.23}
+  - {type: punctuation, offset: 864, content: ，, id: KR3a0002_tls_007-bkkpn164}
+  - {type: 'tls:seg', offset: 864, content: '', id: KR3a0002_tls_007-4a.24}
+  - {type: punctuation, offset: 868, content: ，, id: KR3a0002_tls_007-bkkpn165}
+  - {type: 'tls:seg', offset: 868, content: '', id: KR3a0002_tls_007-4a.25}
+  - {type: variant, offset: 868, length: 2, content: 曲重, WYG: ''}
+  - {type: variant, offset: 871, length: 6, content: 豫猶恐及其𣄸, WYG: 身者必反}
+  - {type: punctuation, offset: 872, content: ，, id: KR3a0002_tls_007-bkkpn166}
+  - {type: 'tls:seg', offset: 872, content: '', id: KR3a0002_tls_007-4a.26}
+  - {type: punctuation, offset: 877, content: ，, id: KR3a0002_tls_007-bkkpn167}
+  - {type: 'tls:seg', offset: 877, content: '', id: KR3a0002_tls_007-4a.27}
+  - {type: variant, offset: 878, length: 6, content: 以百舉而不陷, WYG: 者}
+  - {type: punctuation, offset: 885, content: 。, id: KR3a0002_tls_007-bkkpn168}
+  - {type: xml-element, offset: 885, content: '', id: KR3a0002_tls_007-bkkxmlele35}
+  - {type: xml-element, offset: 885, content: '', id: KR3a0002_tls_007-bkkxmlele36}
+  - {type: 'tls:seg', offset: 885, content: '', id: KR3a0002_tls_007-4a.28}
+  - {type: variant, offset: 885, length: 0, content: '', WYG: 故}
+  - {type: punctuation, offset: 888, content: ：, id: KR3a0002_tls_007-bkkpn169}
+  - {type: 'tls:seg', offset: 888, content: '', id: KR3a0002_tls_007-4a.29}
+  - {type: punctuation, offset: 888, content: 「, id: KR3a0002_tls_007-bkkpn170}
+  - {type: variant, offset: 888, length: 1, content: 巧, SBCK: 知者之知固以多矣有以守少能無察乎音智上知少謂任賢恭已}
+  - {type: page-break, offset: 888, content: '', id: KR3a0002_SBCK_007-20a}
+  - {type: variant, offset: 888, length: 1, content: 巧, WYG: 知者之知固以多矣有以守少能無察乎上知音智下如字有讀為又智下同守少謂任賢恭己}
+  - {type: variant, offset: 888, length: 1, content: 巧, krp: 知者之知固以多矣有以守少能無察乎音智上知少謂任賢恭已}
+  - {type: variant, offset: 890, length: 7, content: 好度必節勇而好, SBCK: 已也下如字有讀爲又下}
+  - {type: variant, offset: 890, length: 10, content: 好度必節勇而好同必勝, WYG: 已也愚者之}
+  - {type: variant, offset: 890, length: 7, content: 好度必節勇而好, krp: 已也下如字有讀爲又下}
+  - {type: punctuation, offset: 892, content: ，, id: KR3a0002_tls_007-bkkpn171}
+  - {type: 'tls:seg', offset: 892, content: '', id: KR3a0002_tls_007-4a.30}
+  - {type: punctuation, offset: 894, content: ；, id: KR3a0002_tls_007-bkkpn172}
+  - {type: 'tls:seg', offset: 894, content: '', id: KR3a0002_tls_007-4a.31}
+  - {type: punctuation, offset: 898, content: ，, id: KR3a0002_tls_007-bkkpn173}
+  - {type: 'tls:seg', offset: 898, content: '', id: KR3a0002_tls_007-4a.32}
+  - {type: variant, offset: 898, length: 2, content: 必勝, SBCK: 守愚者之}
+  - {type: variant, offset: 898, length: 2, content: 必勝, krp: 守愚者之}
+  - {type: punctuation, offset: 900, content: ；, id: KR3a0002_tls_007-bkkpn174}
+  - {type: 'tls:seg', offset: 900, content: '', id: KR3a0002_tls_007-4a.33}
+  - {type: variant, offset: 901, length: 5, content: 而好謙必賢, SBCK: 固以少矣有以守多能無狂乎}
+  - {type: variant, offset: 901, length: 5, content: 而好謙必賢, WYG: 固以少矣有以守多能無狂乎}
+  - {type: variant, offset: 901, length: 5, content: 而好謙必賢, krp: 固以少矣有以守多能無狂乎}
+  - {type: punctuation, offset: 904, content: ，, id: KR3a0002_tls_007-bkkpn175}
+  - {type: 'tls:seg', offset: 904, content: '', id: KR3a0002_tls_007-4a.34}
+  - {type: punctuation, offset: 906, content: 。, id: KR3a0002_tls_007-bkkpn176}
+  - {type: punctuation, offset: 906, content: 」, id: KR3a0002_tls_007-bkkpn177}
+  - {type: 'tls:seg', offset: 906, content: '', id: KR3a0002_tls_007-4a.35}
+  - {type: punctuation, offset: 910, content: 。, id: KR3a0002_tls_007-bkkpn178}
+  - {type: xml-element, offset: 910, content: '', id: KR3a0002_tls_007-bkkxmlele37}
+  - {type: xml-element, offset: 910, content: '', id: KR3a0002_tls_007-bkkxmlele38}
+  - {type: 'tls:seg', offset: 910, content: '', id: KR3a0002_tls_007-4a.36}
+  - {type: variant, offset: 910, length: 1, content: 愚, SBCK: 事}
+  - {type: variant, offset: 910, length: 1, content: 愚, WYG: 守多謂自任主百事}
+  - {type: variant, offset: 910, length: 1, content: 愚, krp: 事}
+  - {type: variant, offset: 912, length: 0, content: '', SBCK: 也事煩則狂守多謂自任主百也亂治國者分已定則主相臣下百吏各謹其所聞不務聽其所不聞無越思謹謂守行各謹其所見不務視其所不見所聞所見誠以齊矣事不侵越也齊謂各當其則雖幽間隱辟百姓莫敢不敬分安制以禮化其上是治國之徴也度不敢踰分徵驗也治國之徵驗在分定間讀為閑辟讀為僻安制謂安於國之制主道治近不治逺道如此人主之治明不治幽治一不治二主能治近則逺者理主能治明則幽者化主能當一則百事正夫兼聽天下日有餘而治不足者如此也是治之極也旣能治近又務治逺旣能治明又務見幽旣能當一又務正百浪}
+  - {type: page-break, offset: 912, content: '', id: KR3a0002_SBCK_007-20b}
+  - {type: variant, offset: 912, length: 0, content: '', WYG: 也事煩則狂亂也治國者分已定則主相臣下百吏各謹其所聞不務聽其所不聞謹謂守行無越思各謹其所見不務視其所不見所聞所見誠以齊矣齊謂各當其事不侵越也則雖幽間隠辟百姓莫敢不敬分安制以禮化其上是治國之徵也間讀為閑辟讀為僻安制謂安於國之制度不敢踰分徵驗也治國之徵驗在分定主道治近不治逺人主之道如此治明不治幽治一不治二主能治近則逺者理主能治明則幽者化主能當一則百事正夫兼聽天下日有餘而治不足者如此也是治之極也既能治近又務治逺既能治明又務見幽既能當一又務正百當丁浪}
+  - {type: page-break, offset: 912, content: '', id: KR3a0002_WYG_007-17a, image: WYG0695/WYG0695-0188c.png}
+  - {type: page-break, offset: 912, content: '', id: KR3a0002_WYG_007-17b, image: WYG0695/WYG0695-0188d.png}
+  - {type: variant, offset: 912, length: 0, content: '', krp: 也事煩則狂守多謂自任主百也亂治國者分已定則主相臣下百吏各謹其所聞不務聽其所不聞無越思謹謂守行各謹其所見不務視其所不見所聞所見誠以齊矣事不侵越也齊謂各當其則雖幽間隱辟百姓莫敢不敬分安制以禮化其上是治國之徴也度不敢踰分徵驗也治國之徵驗在分定間讀為閑辟讀為僻安制謂安於國之制主道治近不治逺道如此人主之治明不治幽治一不治二主能治近則逺者理主能治明則幽者化主能當一則百事正夫兼聽天下日有餘而治不足者如此也是治之極也旣能治近又務治逺旣能治明又務見幽旣能當一又務正百浪}
+  - {type: variant, offset: 913, length: 0, content: '', SBCK: 當丁}
+  - {type: variant, offset: 913, length: 0, content: '', krp: 當丁}
+  - {type: punctuation, offset: 914, content: 。, id: KR3a0002_tls_007-bkkpn179}
+  - {type: 'tls:seg', offset: 914, content: '', id: KR3a0002_tls_007-4a.37}
+  - {type: variant, offset: 914, length: 4, content: 處重擅權, SBCK: 過者也猶不及也辟之是猶立直木而求其影之枉也不能治近又務治逺不能察明又務見幽不能當一又務正百是悖者也惑悖辟之是猶立枉木而求其影之直也故明主好要而闇主好詳人而自治百事是好詳也任一相而委之是好要不委主好要}
+  - {type: page-break, offset: 914, content: '', id: KR3a0002_SBCK_007-21a}
+  - {type: variant, offset: 914, length: 4, content: 處重擅權, WYG: 過者也猶不及也辟之是猶立直木而求其影之枉也不能治近又務治逺不能察明又務見幽不能當一又務正百是悖者也悖惑辟之是猶立枉木而求其影之直也故明主好要而闇主好詳任一相而委之是好要不委人而自治百事是好詳主好要}
+  - {type: variant, offset: 914, length: 4, content: 處重擅權, krp: 過者也猶不及也辟之是猶立直木而求其影之枉也不能治近又務治逺不能察明又務見幽不能當一又務正百是悖者也惑悖辟之是猶立枉木而求其影之直也故明主好要而闇主好詳人而自治百事是好詳也任一相而委之是好要不委主好要}
+  - {type: punctuation, offset: 918, content: ，, id: KR3a0002_tls_007-bkkpn180}
+  - {type: 'tls:seg', offset: 918, content: '', id: KR3a0002_tls_007-4a.38}
+  - {type: variant, offset: 919, length: 0, content: '', SBCK: 百事詳主}
+  - {type: variant, offset: 919, length: 0, content: '', WYG: 百事詳主}
+  - {type: variant, offset: 919, length: 0, content: '', krp: 百事詳主}
+  - {type: variant, offset: 920, length: 1, content: 專, SBCK: 詳則百事荒故荒也力不及君者論一相陳一法明一指以兼覆之兼炤之以觀其盛者也謂紀綱也盛讀爲成觀其成功也論選擇也指指歸也一法一指皆相者論列百官之長要百事之聽也要取百事之治考列置於列位也聽治要一堯反其得失也以飾朝廷臣下百吏之分各當分脩飾使度其功勞論其慶賞歲終奉其成功以效於君當則可不當則廢百官府各正其治受其㑹聽效致也周禮大宰歲終則令王廢置也其政}
+  - {type: page-break, offset: 920, content: '', id: KR3a0002_SBCK_007-21b}
+  - {type: variant, offset: 920, length: 1, content: 專, WYG: 詳則百事荒力不及故荒也君者論一相陳一法明一指以兼覆之兼炤之以觀其盛者也論選擇也指指歸也一法一指皆謂綱紀也盛讀為成觀其成功也相者論列百官之長要百事之聽列置於列位也聽治也要取百事之治考其得失也要一堯反以飾朝廷臣下百吏之分修飾使各當分度其功勞論其慶賞歲終奉其成功以效於君當則可不當則廢效致也周禮太宰歲終則令百官府各正其治受其㑹聽其政}
+  - {type: page-break, offset: 920, content: '', id: KR3a0002_WYG_007-18a, image: WYG0695/WYG0695-0189a.png}
+  - {type: variant, offset: 920, length: 1, content: 專, krp: 詳則百事荒故荒也力不及君者論一相陳一法明一指以兼覆之兼炤之以觀其盛者也謂紀綱也盛讀爲成觀其成功也論選擇也指指歸也一法一指皆相者論列百官之長要百事之聽也要取百事之治考列置於列位也聽治要一堯反其得失也以飾朝廷臣下百吏之分各當分脩飾使度其功勞論其慶賞歲終奉其成功以效於君當則可不當則廢百官府各正其治受其㑹聽效致也周禮大宰歲終則令王廢置也其政}
+  - {type: variant, offset: 923, length: 6, content: 妬賢能抑有功, SBCK: 詔故君人勞於索之}
+  - {type: variant, offset: 923, length: 6, content: 妬賢能抑有功, WYG: 詔王廢置也故君人勞於索之}
+  - {type: variant, offset: 923, length: 6, content: 妬賢能抑有功, krp: 詔故君人勞於索之}
+  - {type: punctuation, offset: 926, content: ，, id: KR3a0002_tls_007-bkkpn181}
+  - {type: 'tls:seg', offset: 926, content: '', id: KR3a0002_tls_007-4a.39}
+  - {type: variant, offset: 930, length: 6, content: 擠有罪志驕盈, SBCK: 休於使之休息也索求也用國者得百姓之力者富得百姓之死者彊得百姓之譽者榮三德者具}
+  - {type: variant, offset: 930, length: 6, content: 擠有罪志驕盈, WYG: 休於使之索求也休息也周國者得百姓之力者富得百姓之死者彊得百姓之譽者榮三得者具}
+  - {type: variant, offset: 930, length: 6, content: 擠有罪志驕盈, krp: 休於使之休息也索求也用國者得百姓之力者富得百姓之死者彊得百姓之譽者榮三德者具}
+  - {type: punctuation, offset: 933, content: ，, id: KR3a0002_tls_007-bkkpn182}
+  - {type: 'tls:seg', offset: 933, content: '', id: KR3a0002_tls_007-4a.40}
+  - {type: variant, offset: 937, length: 71, content: 輕舊怨以吝嗇而不行施道乎上為重招權於下以妨害人雖欲無危得乎哉是以位尊則必危任重則必廢擅寵則必辱可立而待也可炊而傹也是行也則墮之者眾而持之者寡矣, SBCK: ''}
+  - {type: variant, offset: 937, length: 71, content: 輕舊怨以吝嗇而不行施道乎上為重招權於下以妨害人雖欲無危得乎哉是以位尊則必危任重則必廢擅寵則必辱可立而待也可炊而傹也是行也則墮之者眾而持之者寡矣, WYG: ''}
+  - {type: variant, offset: 937, length: 71, content: 輕舊怨以吝嗇而不行施道乎上為重招權於下以妨害人雖欲無危得乎哉是以位尊則必危任重則必廢擅寵則必辱可立而待也可炊而傹也是行也則墮之者眾而持之者寡矣, krp: ''}
+  - {type: punctuation, offset: 940, content: ，, id: KR3a0002_tls_007-bkkpn183}
+  - {type: 'tls:seg', offset: 940, content: '', id: KR3a0002_tls_007-4a.41}
+  - {type: 'tls:seg', offset: 947, content: '', id: KR3a0002_tls_007-4a.42}
+  - {type: punctuation, offset: 950, content: ，, id: KR3a0002_tls_007-bkkpn184}
+  - {type: 'tls:seg', offset: 952, content: '', id: KR3a0002_tls_007-4a.43}
+  - {type: punctuation, offset: 960, content: ，, id: KR3a0002_tls_007-bkkpn185}
+  - {type: 'tls:seg', offset: 960, content: '', id: KR3a0002_tls_007-4a.44}
+  - {type: punctuation, offset: 964, content: ，, id: KR3a0002_tls_007-bkkpn186}
+  - {type: 'tls:seg', offset: 964, content: '', id: KR3a0002_tls_007-4a.45}
+  - {type: punctuation, offset: 967, content: ！, id: KR3a0002_tls_007-bkkpn187}
+  - {type: xml-element, offset: 967, content: '', id: KR3a0002_tls_007-bkkxmlele39}
+  - {type: xml-element, offset: 967, content: '', id: KR3a0002_tls_007-bkkxmlele40}
+  - {type: 'tls:seg', offset: 967, content: '', id: KR3a0002_tls_007-4a.46}
+  - {type: punctuation, offset: 974, content: ，, id: KR3a0002_tls_007-bkkpn188}
+  - {type: 'tls:seg', offset: 974, content: '', id: KR3a0002_tls_007-4a.47}
+  - {type: punctuation, offset: 979, content: ，, id: KR3a0002_tls_007-bkkpn189}
+  - {type: 'tls:seg', offset: 979, content: '', id: KR3a0002_tls_007-4a.48}
+  - {type: punctuation, offset: 984, content: ，, id: KR3a0002_tls_007-bkkpn190}
+  - {type: 'tls:seg', offset: 984, content: '', id: KR3a0002_tls_007-4a.49}
+  - {type: punctuation, offset: 989, content: ，, id: KR3a0002_tls_007-bkkpn191}
+  - {type: 'tls:seg', offset: 989, content: '', id: KR3a0002_tls_007-4a.50}
+  - {type: punctuation, offset: 994, content: 。, id: KR3a0002_tls_007-bkkpn192}
+  - {type: 'tls:seg', offset: 994, content: '', id: KR3a0002_tls_007-4a.51}
+  - {type: punctuation, offset: 997, content: ？, id: KR3a0002_tls_007-bkkpn193}
+  - {type: 'tls:seg', offset: 997, content: '', id: KR3a0002_tls_007-4a.52}
+  - {type: substitution, offset: 1001, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: 'tls:seg', offset: 1002, content: '', id: KR3a0002_tls_007-4a.53}
+  - {type: punctuation, offset: 1008, content: 。, id: KR3a0002_tls_007-bkkpn194}
+  - {type: xml-element, offset: 1008, content: '', id: KR3a0002_tls_007-bkkxmlele41}
+  - {type: xml-element, offset: 1008, content: '', id: KR3a0002_tls_007-bkkxmlele42}
+  - {type: 'tls:seg', offset: 1008, content: '', id: KR3a0002_tls_007-5a.1}
+  - {type: 'tls:seg', offset: 1008, content: '', id: KR3a0002_tls_007-5a.2}
+  - {type: variant, offset: 1010, length: 0, content: '', SBCK: 歸}
+  - {type: variant, offset: 1010, length: 0, content: '', WYG: 歸}
+  - {type: variant, offset: 1010, length: 0, content: '', krp: 歸}
+  - {type: variant, offset: 1011, length: 0, content: '', SBCK: 三德者亡而天下去之天下歸之之謂王天下去之之謂亡湯武者循其道}
+  - {type: variant, offset: 1011, length: 0, content: '', WYG: 三得者亡而天下去之天下歸之之謂王天下去之之謂亡湯武者修其道}
+  - {type: variant, offset: 1011, length: 0, content: '', krp: 三德者亡而天下去之天下歸之之謂王天下去之之謂亡湯武者循其道}
+  - {type: variant, offset: 1012, length: 23, content: 術以事君則必通以為仁則必聖立隆而勿貳也然後恭敬, SBCK: 其義興天下同利除天下同害天下歸之故厚徳音}
+  - {type: page-break, offset: 1012, content: '', id: KR3a0002_SBCK_007-22a}
+  - {type: variant, offset: 1012, length: 23, content: 術以事君則必通以為仁則必聖立隆而勿貳也然後恭敬, WYG: 其義興天下同利除天下同害天下歸之故厚徳音}
+  - {type: variant, offset: 1012, length: 23, content: 術以事君則必通以為仁則必聖立隆而勿貳也然後恭敬, krp: 其義興天下同利除天下同害天下歸之故厚徳音}
+  - {type: punctuation, offset: 1013, content: ：, id: KR3a0002_tls_007-bkkpn195}
+  - {type: 'tls:seg', offset: 1013, content: '', id: KR3a0002_tls_007-5a.3}
+  - {type: punctuation, offset: 1019, content: ，, id: KR3a0002_tls_007-bkkpn196}
+  - {type: 'tls:seg', offset: 1019, content: '', id: KR3a0002_tls_007-5a.4}
+  - {type: punctuation, offset: 1025, content: ，, id: KR3a0002_tls_007-bkkpn197}
+  - {type: 'tls:seg', offset: 1025, content: '', id: KR3a0002_tls_007-5a.5}
+  - {type: substitution, offset: 1029, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
+  - {type: punctuation, offset: 1031, content: 。, id: KR3a0002_tls_007-bkkpn198}
+  - {type: 'tls:seg', offset: 1031, content: '', id: KR3a0002_tls_007-5a.6}
+  - {type: punctuation, offset: 1038, content: ，, id: KR3a0002_tls_007-bkkpn199}
+  - {type: 'tls:seg', offset: 1038, content: '', id: KR3a0002_tls_007-5a.7}
+  - {type: variant, offset: 1038, length: 0, content: '', SBCK: 明禮義以道之致}
+  - {type: variant, offset: 1038, length: 0, content: '', WYG: 明禮義以道之致}
+  - {type: variant, offset: 1038, length: 0, content: '', krp: 明禮義以道之致}
+  - {type: page-break, offset: 1039, content: '', id: KR3a0002_WYG_007-18b, image: WYG0695/WYG0695-0189b.png}
+  - {type: variant, offset: 1041, length: 1, content: 統, SBCK: 愛}
+  - {type: variant, offset: 1041, length: 1, content: 統, WYG: 愛}
+  - {type: variant, offset: 1041, length: 1, content: 統, krp: 愛}
+  - {type: punctuation, offset: 1043, content: ，, id: KR3a0002_tls_007-bkkpn200}
+  - {type: 'tls:seg', offset: 1043, content: '', id: KR3a0002_tls_007-5a.8}
+  - {type: variant, offset: 1043, length: 2, content: 慎謹, SBCK: 賞賢使能}
+  - {type: variant, offset: 1043, length: 2, content: 慎謹, WYG: 賞賢使能}
+  - {type: variant, offset: 1043, length: 2, content: 慎謹, krp: 賞賢使能}
+  - {type: variant, offset: 1046, length: 1, content: 行, SBCK: 次}
+  - {type: variant, offset: 1046, length: 1, content: 行, WYG: 次}
+  - {type: variant, offset: 1046, length: 1, content: 行, krp: 次}
+  - {type: punctuation, offset: 1048, content: ，, id: KR3a0002_tls_007-bkkpn201}
+  - {type: 'tls:seg', offset: 1048, content: '', id: KR3a0002_tls_007-5a.9}
+  - {type: variant, offset: 1048, length: 12, content: 端愨以守之頓窮則從之疾力, SBCK: 為尚賞讀爵服賞慶}
+  - {type: variant, offset: 1048, length: 12, content: 端愨以守之頓窮則從之疾力, WYG: 賞當為尚爵服賞慶}
+  - {type: variant, offset: 1048, length: 12, content: 端愨以守之頓窮則從之疾力, krp: 為尚賞讀爵服賞慶}
+  - {type: punctuation, offset: 1053, content: ，, id: KR3a0002_tls_007-bkkpn202}
+  - {type: 'tls:seg', offset: 1053, content: '', id: KR3a0002_tls_007-5a.10}
+  - {type: punctuation, offset: 1056, content: （, id: KR3a0002_tls_007-bkkpn203}
+  - {type: punctuation, offset: 1058, content: ）, id: KR3a0002_tls_007-bkkpn204}
+  - {type: punctuation, offset: 1064, content: 。, id: KR3a0002_tls_007-bkkpn205}
+  - {type: xml-element, offset: 1064, content: '', id: KR3a0002_tls_007-bkkxmlele43}
+  - {type: xml-element, offset: 1064, content: '', id: KR3a0002_tls_007-bkkxmlele44}
+  - {type: 'tls:seg', offset: 1064, content: '', id: KR3a0002_tls_007-5a.11}
+  - {type: variant, offset: 1064, length: 1, content: 君, SBCK: 時其事經其任以調齊之潢然兼覆之養長之如保赤子大水貎也潢與滉同生民則致寛謂衣食也生民生活民使民則綦理辨政令制度所以接天下之人百姓有非理者如豪末則}
+  - {type: variant, offset: 1064, length: 1, content: 君, WYG: 時其事輕其任以調齊之潢然兼覆之養長之如保赤子潢與滉同大水貎也生民則致寛生民生活民謂衣食也使民則綦理辯政令制度所以接天下之人百姓有非理者如毫末則}
+  - {type: variant, offset: 1064, length: 1, content: 君, krp: 時其事經其任以調齊之潢然兼覆之養長之如保赤子大水貎也潢與滉同生民則致寛謂衣食也生民生活民使民則綦理辨政令制度所以接天下之人百姓有非理者如豪末則}
+  - {type: variant, offset: 1066, length: 0, content: '', SBCK: 孤獨鰥寡必}
+  - {type: variant, offset: 1066, length: 0, content: '', WYG: 孤獨鰥寡必}
+  - {type: variant, offset: 1066, length: 0, content: '', krp: 孤獨鰥寡必}
+  - {type: variant, offset: 1067, length: 0, content: '', SBCK: 加焉是故百姓貴之如帝親之如父母爲之出死斷亡而不愉者無它故焉字剩耳不愉不道德誠明利澤誠厚也亂世不然汙漫突盜以先之盜竊也突陵突觸權謀傾覆以示之俳優侏儒婦女之請謁以悖之可戲弄者悖亂也俳優倡優侏儒短人使愚詔}
+  - {type: page-break, offset: 1067, content: '', id: KR3a0002_SBCK_007-22b}
+  - {type: variant, offset: 1067, length: 0, content: '', WYG: 加焉是故百姓貴之如帝親之如父母為之出死斷亡而不愉者無他故焉不愉不字剩耳道徳誠明利澤誠厚也亂世不然汙漫突盜以先之突凌觸盜竊也權謀傾覆以示之俳優侏儒婦女之請謁以悖之俳優倡優侏儒短人可戲弄者悖亂也使愚詔}
+  - {type: page-break, offset: 1067, content: '', id: KR3a0002_WYG_007-19a, image: WYG0695/WYG0695-0189c.png}
+  - {type: variant, offset: 1067, length: 0, content: '', krp: 加焉是故百姓貴之如帝親之如父母爲之出死斷亡而不愉者無它故焉字剩耳不愉不道德誠明利澤誠厚也亂世不然汙漫突盜以先之盜竊也突陵突觸權謀傾覆以示之俳優侏儒婦女之請謁以悖之可戲弄者悖亂也俳優倡優侏儒短人使愚詔}
+  - {type: punctuation, offset: 1068, content: ，, id: KR3a0002_tls_007-bkkpn206}
+  - {type: 'tls:seg', offset: 1068, content: '', id: KR3a0002_tls_007-5a.12}
+  - {type: variant, offset: 1068, length: 0, content: '', SBCK: 使不肖臨賢生民則致貧隘使民則綦勞苦是故百姓賤之如㑌惡之如􅀑人也禮記曰吾欲暴尫而字書}
+  - {type: variant, offset: 1068, length: 0, content: '', WYG: 使不肖臨賢生民則致貧隘使民則綦勞苦是故百姓賤之如㑌惡之如鬼字書}
+  - {type: variant, offset: 1068, length: 0, content: '', krp: 使不肖臨賢生民則致貧隘使民則綦勞苦是故百姓賤之如㑌惡之如鬼人也禮記曰吾欲暴尫而字書}
+  - {type: variant, offset: 1069, length: 2, content: 怨疾, SBCK: 㑌字蓋當爲尫病賤}
+  - {type: variant, offset: 1069, length: 2, content: 怨疾, WYG: 㑌字葢當為尫病人也禮記曰吾欲暴尫而奚若新序作賤}
+  - {type: variant, offset: 1069, length: 2, content: 怨疾, krp: 㑌字蓋當爲尫病賤}
+  - {type: variant, offset: 1072, length: 4, content: 心功雖甚, SBCK: 如虺豕奚若新序作日欲司間而相與投藉之去遂之籍踐也一作投錯之司間伺其閒隟投擿也卒有宼難之事又望百姓之爲已死不可得也􅀃無以取之焉之中論􅀃也卒千忽反無以此事爲得孔子曰審吾所以適人適人之所以來我也此之謂也與人之道爲其復來報適人往與人也審慎其也我傷國者何也曰以小人尚民而威小人在上尚上也使威也位而作以非所取於民而巧賦之類也若兵甲田是傷國之}
+  - {type: page-break, offset: 1072, content: '', id: KR3a0002_SBCK_007-23a}
+  - {type: variant, offset: 1072, length: 4, content: 心功雖甚, WYG: 如虺豕也日欲司間而相與投籍之去逐之司間伺其間隙投擲也籍踐也一作投錯之卒有宼難之事又望百姓之為已死不可得也說無以取之焉論說之中無以此事為得也卒千忽反孔子曰審吾所以適人適人之所以來我也此之謂也適人往與人也審慎其與人之道為其復來報我也傷國者何也曰以小人尚民而威尚上也使小人在上位而作威也以非所取於民而巧若兵甲田賦之類也是傷國之}
+  - {type: page-break, offset: 1072, content: '', id: KR3a0002_WYG_007-19b, image: WYG0695/WYG0695-0189d.png}
+  - {type: variant, offset: 1072, length: 4, content: 心功雖甚, krp: 如虺豕奚若新序作日欲司間而相與投藉之去遂之籍踐也一作投錯之司間伺其閒隟投擿也卒有宼難之事又望百姓之爲已死不可得也說無以取之焉之中論說也卒千忽反無以此事爲得孔子曰審吾所以適人適人之所以來我也此之謂也與人之道爲其復來報適人往與人也審慎其也我傷國者何也曰以小人尚民而威小人在上尚上也使威也位而作以非所取於民而巧賦之類也若兵甲田是傷國之}
+  - {type: punctuation, offset: 1073, content: ；, id: KR3a0002_tls_007-bkkpn207}
+  - {type: 'tls:seg', offset: 1073, content: '', id: KR3a0002_tls_007-5a.13}
+  - {type: punctuation, offset: 1077, content: ，, id: KR3a0002_tls_007-bkkpn208}
+  - {type: 'tls:seg', offset: 1077, content: '', id: KR3a0002_tls_007-5a.14}
+  - {type: variant, offset: 1077, length: 3, content: 無伐德, SBCK: 災也大國}
+  - {type: variant, offset: 1077, length: 3, content: 無伐德, WYG: 災也大國}
+  - {type: variant, offset: 1077, length: 3, content: 無伐德, krp: 災也大國}
+  - {type: variant, offset: 1081, length: 0, content: '', SBCK: 主也而好見小利是傷國其於聲}
+  - {type: page-break, offset: 1081, content: '', id: KR3a0002_SBCK_007-23b}
+  - {type: variant, offset: 1081, length: 0, content: '', WYG: 主也而好見小利是傷國其於聲}
+  - {type: variant, offset: 1081, length: 0, content: '', krp: 主也而好見小利是傷國其於聲}
+  - {type: punctuation, offset: 1082, content: ；, id: KR3a0002_tls_007-bkkpn209}
+  - {type: 'tls:seg', offset: 1082, content: '', id: KR3a0002_tls_007-5a.15}
+  - {type: variant, offset: 1082, length: 6, content: 省求多功愛敬, SBCK: 臺榭園囿也愈厭而好新是傷國一古反厭足也}
+  - {type: variant, offset: 1082, length: 6, content: 省求多功愛敬, WYG: 臺榭園囿也愈厭而好新是傷國厭足也一古反}
+  - {type: variant, offset: 1082, length: 6, content: 省求多功愛敬, krp: 臺榭園囿也愈厭而好新是傷國一古反厭足也}
+  - {type: punctuation, offset: 1084, content: ，, id: KR3a0002_tls_007-bkkpn210}
+  - {type: punctuation, offset: 1086, content: ，, id: KR3a0002_tls_007-bkkpn211}
+  - {type: 'tls:seg', offset: 1086, content: '', id: KR3a0002_tls_007-5a.16}
+  - {type: variant, offset: 1089, length: 2, content: 倦如, SBCK: 好循正其所以有啖啖常欲人之有是傷國吞之貌啖啖并三邪者在匈中而又好以權謀傾覆之人斷事其外決任事於外事任也謂斷也若}
+  - {type: variant, offset: 1089, length: 2, content: 倦如, WYG: 好循政其所以有啖啖常欲人之有是傷國啖啖并吞之貌三邪者在匈中而又好以權謀傾覆之人斷事其外事任也謂斷决任事於外也若}
+  - {type: variant, offset: 1089, length: 2, content: 倦如, krp: 好循正其所以有啖啖常欲人之有是傷國吞之貌啖啖并三邪者在匈中而又好以權謀傾覆之人斷事其外決任事於外事任也謂斷也若}
+  - {type: punctuation, offset: 1090, content: ：, id: KR3a0002_tls_007-bkkpn212}
+  - {type: 'tls:seg', offset: 1090, content: '', id: KR3a0002_tls_007-5a.17}
+  - {type: punctuation, offset: 1092, content: ，, id: KR3a0002_tls_007-bkkpn213}
+  - {type: variant, offset: 1093, length: 2, content: 常無, SBCK: 權輕名辱社稷必危是傷國者也大國之主也}
+  - {type: variant, offset: 1093, length: 2, content: 常無, WYG: 權輕名辱社稷必危是傷國者也大國之主也}
+  - {type: variant, offset: 1093, length: 2, content: 常無, krp: 權輕名辱社稷必危是傷國者也大國之主也}
+  - {type: variant, offset: 1096, length: 1, content: 順, SBCK: 隆本行不敬舊法而好詐故變也故事若是則夫朝廷羣臣亦從而成俗於不隆禮義而好傾覆也義爲成俗以不隆禮朝廷羣臣之俗若是則夫衆庶百姓亦從而成俗於不隆禮義而好貪利}
+  - {type: page-break, offset: 1096, content: '', id: KR3a0002_SBCK_007-24a}
+  - {type: variant, offset: 1096, length: 1, content: 順, WYG: 隆本行不敬舊法而好詐故故事變也若是則夫朝廷羣臣亦從而成俗不隆禮義而好傾覆也以不隆義禮為成俗朝廷羣臣之俗若是則夫衆庶百姓亦從而成俗於不隆禮義而好貪利}
+  - {type: page-break, offset: 1096, content: '', id: KR3a0002_WYG_007-20a, image: WYG0695/WYG0695-0190a.png}
+  - {type: variant, offset: 1096, length: 1, content: 順, krp: 隆本行不敬舊法而好詐故變也故事若是則夫朝廷羣臣亦從而成俗於不隆禮義而好傾覆也義爲成俗以不隆禮朝廷羣臣之俗若是則夫衆庶百姓亦從而成俗於不隆禮義而好貪利}
+  - {type: punctuation, offset: 1098, content: 。, id: KR3a0002_tls_007-bkkpn214}
+  - {type: 'tls:seg', offset: 1098, content: '', id: KR3a0002_tls_007-5a.18}
+  - {type: variant, offset: 1098, length: 2, content: 以事, SBCK: ''}
+  - {type: variant, offset: 1098, length: 2, content: 以事, WYG: ''}
+  - {type: variant, offset: 1098, length: 2, content: 以事, krp: ''}
+  - {type: variant, offset: 1101, length: 0, content: '', SBCK: 臣上下之俗莫不若是}
+  - {type: variant, offset: 1101, length: 0, content: '', WYG: 臣上下之俗莫不若是}
+  - {type: variant, offset: 1101, length: 0, content: '', krp: 臣上下之俗莫不若是}
+  - {type: variant, offset: 1102, length: 0, content: '', SBCK: 地雖廣權}
+  - {type: variant, offset: 1102, length: 0, content: '', WYG: 地雖廣權}
+  - {type: variant, offset: 1102, length: 0, content: '', krp: 地雖廣權}
+  - {type: variant, offset: 1103, length: 0, content: '', SBCK: 輕人雖衆兵必弱刑罰雖繁令不下}
+  - {type: variant, offset: 1103, length: 0, content: '', WYG: 輕人雖衆兵必弱刑罰雖繁令不下}
+  - {type: variant, offset: 1103, length: 0, content: '', krp: 輕人雖衆兵必弱刑罰雖繁令不下}
+  - {type: punctuation, offset: 1104, content: ，, id: KR3a0002_tls_007-bkkpn215}
+  - {type: 'tls:seg', offset: 1104, content: '', id: KR3a0002_tls_007-5a.19}
+  - {type: variant, offset: 1104, length: 6, content: 以為仁則必聖, SBCK: ''}
+  - {type: variant, offset: 1104, length: 6, content: 以為仁則必聖, WYG: ''}
+  - {type: variant, offset: 1104, length: 6, content: 以為仁則必聖, krp: ''}
+  - {type: punctuation, offset: 1110, content: ，, id: KR3a0002_tls_007-bkkpn216}
+  - {type: 'tls:seg', offset: 1110, content: '', id: KR3a0002_tls_007-5a.20}
+  - {type: variant, offset: 1114, length: 2, content: 天下, SBCK: 危國是傷國者也儒者爲}
+  - {type: variant, offset: 1114, length: 2, content: 天下, WYG: 危國是傷國者也儒者為}
+  - {type: variant, offset: 1114, length: 2, content: 天下, krp: 危國是傷國者也儒者爲}
+  - {type: variant, offset: 1117, length: 4, content: 行術少事, SBCK: 不然必將曲辨使歸於理也辨理也委曲朝廷必將隆禮義而審貴賤若是則士大夫莫不敬節死制者矣制職分節忠義百官則將齊其制度重其官秩若是則百吏莫不畏法而遵繩矣齊一其制度使有守也厚秩禄也其制馭百官必將使不貪也重其秩禄關市幾而不征質律禁止而不偏人不偏聽也周禮小宰聽賣買以質劑鄭司農云質劑平市質律質劑也可以為法故言質律也禁止而不偏謂禁止姦曰劑皆今之劵書也左氏傳曰趙盾爲政董逋逃由質要或價今之月平是也鄭康成云兩書一札同而别之}
+  - {type: page-break, offset: 1117, content: '', id: KR3a0002_SBCK_007-24b}
+  - {type: variant, offset: 1117, length: 5, content: 行術少事長, WYG: 不然必將曲辯辯理也委曲使歸於理也朝廷必將隆禮義而審貴}
+  - {type: variant, offset: 1117, length: 4, content: 行術少事, krp: 不然必將曲辨使歸於理也辨理也委曲朝廷必將隆禮義而審貴賤若是則士大夫莫不敬節死制者矣制職分節忠義百官則將齊其制度重其官秩若是則百吏莫不畏法而遵繩矣齊一其制度使有守也厚秩禄也其制馭百官必將使不貪也重其秩禄關市幾而不征質律禁止而不偏人不偏聽也周禮小宰聽賣買以質劑鄭司農云質劑平市質律質劑也可以為法故言質律也禁止而不偏謂禁止姦曰劑皆今之劵書也左氏傳曰趙盾爲政董逋逃由質要或價今之月平是也鄭康成云兩書一札同而别之}
+  - {type: punctuation, offset: 1119, content: 。, id: KR3a0002_tls_007-bkkpn217}
+  - {type: xml-element, offset: 1119, content: '', id: KR3a0002_tls_007-bkkxmlele45}
+  - {type: xml-element, offset: 1119, content: '', id: KR3a0002_tls_007-bkkxmlele46}
+  - {type: 'tls:seg', offset: 1119, content: '', id: KR3a0002_tls_007-6a.1}
+  - {type: 'tls:seg', offset: 1119, content: '', id: KR3a0002_tls_007-6a.2}
+  - {type: punctuation, offset: 1122, content: ，, id: KR3a0002_tls_007-bkkpn218}
+  - {type: 'tls:seg', offset: 1122, content: '', id: KR3a0002_tls_007-6a.3}
+  - {type: variant, offset: 1122, length: 3, content: 賤事貴, SBCK: 曰質短正也曰質如是則商賈莫}
+  - {type: variant, offset: 1122, length: 3, content: 賤事貴, krp: 曰質短正也曰質如是則商賈莫}
+  - {type: variant, offset: 1123, length: 2, content: 事貴, WYG: 若是則士大夫莫}
+  - {type: punctuation, offset: 1125, content: ，, id: KR3a0002_tls_007-bkkpn219}
+  - {type: 'tls:seg', offset: 1125, content: '', id: KR3a0002_tls_007-6a.4}
+  - {type: variant, offset: 1126, length: 3, content: 肖事賢, SBCK: 敦愨而無詐矣百工將時斬伐佻其期日而利其巧任如}
+  - {type: variant, offset: 1126, length: 3, content: 肖事賢, WYG: 敬節死制者矣節中義制職分百官則將齊其制度重其官秩若}
+  - {type: variant, offset: 1126, length: 3, content: 肖事賢, krp: 敦愨而無詐矣百工將時斬伐佻其期日而利其巧任如}
+  - {type: punctuation, offset: 1129, content: ，, id: KR3a0002_tls_007-bkkpn220}
+  - {type: 'tls:seg', offset: 1129, content: '', id: KR3a0002_tls_007-6a.5}
+  - {type: variant, offset: 1130, length: 2, content: 天下, SBCK: 則百工莫不忠信而不楛矣斬陽木仲夏斬隂木時斬伐即周禮仲冬百工自利矣楛謂器惡不牢固也晏子春秋曰景公}
+  - {type: variant, offset: 1130, length: 5, content: 天下之通義, WYG: 則百吏莫不畏法而遵繩矣秩禄}
+  - {type: variant, offset: 1130, length: 2, content: 天下, krp: 則百工莫不忠信而不楛矣斬陽木仲夏斬隂木時斬伐即周禮仲冬百工自利矣楛謂器惡不牢固也晏子春秋曰景公}
+  - {type: variant, offset: 1133, length: 0, content: '', SBCK: 時晏是也佻與傜同緩也謂不迫促也巧任巧者之任不迫促則日而不趨三年臺成而民振欲上恱乎君游民足乎食彼佻子請發粟公不許當爲路寢之臺令史重其績逺其涂佻其同也亦與此縣鄙將輕田野之稅省刀布之斂罕舉力役無奪農時如是則農夫莫不朴力而寡能矣不務他能也但質朴而力作士大夫務節死制然而兵勁爲然後然而當百吏畏法循繩然後國常不亂商賈敦愨無詐則商旅安貨}
+  - {type: page-break, offset: 1133, content: '', id: KR3a0002_SBCK_007-25a}
+  - {type: variant, offset: 1133, length: 0, content: '', krp: 時晏是也佻與傜同緩也謂不迫促也巧任巧者之任不迫促則日而不趨三年臺成而民振欲上恱乎君游民足乎食彼佻子請發粟公不許當爲路寢之臺令史重其績逺其涂佻其同也亦與此縣鄙將輕田野之稅省刀布之斂罕舉力役無奪農時如是則農夫莫不朴力而寡能矣不務他能也但質朴而力作士大夫務節死制然而兵勁爲然後然而當百吏畏法循繩然後國常不亂商賈敦愨無詐則商旅安貨}
+  - {type: variant, offset: 1134, length: 10, content: 義也有人也埶不在人上, SBCK: 財}
+  - {type: variant, offset: 1134, length: 10, content: 義也有人也埶不在人上, krp: 財}
+  - {type: punctuation, offset: 1136, content: 。, id: KR3a0002_tls_007-bkkpn221}
+  - {type: 'tls:seg', offset: 1136, content: '', id: KR3a0002_tls_007-6a.6}
+  - {type: variant, offset: 1136, length: 0, content: '', WYG: 其制馭百官必將齊一其制度使}
+  - {type: variant, offset: 1137, length: 1, content: 人, WYG: 守}
+  - {type: punctuation, offset: 1139, content: ，, id: KR3a0002_tls_007-bkkpn222}
+  - {type: 'tls:seg', offset: 1139, content: '', id: KR3a0002_tls_007-6a.7}
+  - {type: variant, offset: 1139, length: 1, content: 埶, WYG: 厚重其秩禄使}
+  - {type: substitution, offset: 1139, original: 埶, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3237}}
+  - {type: variant, offset: 1141, length: 3, content: 在人上, WYG: 貪也關市幾}
+  - {type: 'tls:seg', offset: 1144, content: '', id: KR3a0002_tls_007-6a.8}
+  - {type: variant, offset: 1145, length: 23, content: 羞為人下是姦人之心也志不免乎姦心行不免乎姦道而, SBCK: 國}
+  - {type: variant, offset: 1145, length: 1, content: 羞, WYG: 不征質律禁止而不偏質律質劑也可以}
+  - {type: variant, offset: 1145, length: 23, content: 羞為人下是姦人之心也志不免乎姦心行不免乎姦道而, krp: 國}
+  - {type: variant, offset: 1147, length: 3, content: 人下是, WYG: 法故言質律也禁止而不偏謂禁止}
+  - {type: punctuation, offset: 1149, content: ，, id: KR3a0002_tls_007-bkkpn223}
+  - {type: 'tls:seg', offset: 1149, content: '', id: KR3a0002_tls_007-6a.9}
+  - {type: variant, offset: 1152, length: 0, content: '', WYG: 不偏聽也周禮小宰聽賣買以質劑鄭司農云質劑平市價今}
+  - {type: page-break, offset: 1152, content: '', id: KR3a0002_WYG_007-20b, image: WYG0695/WYG0695-0190b.png}
+  - {type: variant, offset: 1153, length: 1, content: 心, WYG: 月平是}
+  - {type: punctuation, offset: 1155, content: 。, id: KR3a0002_tls_007-bkkpn224}
+  - {type: 'tls:seg', offset: 1155, content: '', id: KR3a0002_tls_007-6a.10}
+  - {type: variant, offset: 1155, length: 1, content: 志, WYG: 鄭康成云兩書一札同而别之長曰質短曰劑皆今之劵書也左氏傳曰趙盾為政董逋逃由質晏或曰質正也如是則商賈莫}
+  - {type: variant, offset: 1157, length: 1, content: 免, WYG: 敦慤而無詐矣百工將時斬伐佻其期日而利其巧任如是則百工莫不忠信而不楛矣時斬伐即周禮仲冬月斬陽木仲夏月斬陰木是也佻與徭同緩也謂不廹促也巧任巧者之任不廹促則百工自利矣楛謂器用不牢固也晏子春秋曰景公之時晏子請發粟公不許為路寢之臺令史重其續逺其凃佻其日而不趨三年臺成而民振欲上恱}
+  - {type: variant, offset: 1159, length: 2, content: 姦心, WYG: 君遊民足乎食彼佻亦與此同也縣鄙將輕田野之稅省刀布之歛罕舉力役無奪農時如是則農夫莫不朴力而寡能矣但質朴而力作不務他能也士大夫務節死制然而兵勁然而當為然後百吏畏法循繩然後國常不亂商賈敦慤無詐則商旅安貨通財而國求給矣所求之物皆給足也百工忠信而不楛則器用巧便而財不匱矣農夫朴力而寡能則上不失天時下不失地利中得人和而百事不廢是之謂政令}
+  - {type: page-break, offset: 1159, content: '', id: KR3a0002_WYG_007-21a, image: WYG0695/WYG0695-0190c.png}
+  - {type: punctuation, offset: 1161, content: ，, id: KR3a0002_tls_007-bkkpn225}
+  - {type: 'tls:seg', offset: 1161, content: '', id: KR3a0002_tls_007-6a.11}
+  - {type: variant, offset: 1162, length: 0, content: '', WYG: 風俗美以守則固以征則彊居則有名動則有功此儒之所謂曲辯也荀子卷七欽定四庫全書荀子卷八唐楊倞註君道篇卷第十二有亂君無亂國有治人無治法羿之法非亡也而羿}
+  - {type: page-break, offset: 1162, content: '', id: KR3a0002_WYG_007-21b, image: WYG0695/WYG0695-0190d.png}
+  - {type: page-break, offset: 1162, content: '', id: KR3a0002_WYG_008-1a, image: WYG0695/WYG0695-0191a.png}
+  - {type: variant, offset: 1163, length: 4, content: 免乎姦道, WYG: 世中禹之法猶存}
+  - {type: punctuation, offset: 1167, content: ，, id: KR3a0002_tls_007-bkkpn226}
+  - {type: 'tls:seg', offset: 1167, content: '', id: KR3a0002_tls_007-6a.12}
+  - {type: variant, offset: 1168, length: 1, content: 求, WYG: 夏不世王故法不能獨立類不能自行得其人則存失其人則亡法者治之端也君子者法之原也故}
+  - {type: variant, offset: 1169, length: 20, content: 有君子聖人之名辟之是猶伏而咶天救經而引其, SBCK: 給矣皆給}
+  - {type: variant, offset: 1169, length: 20, content: 有君子聖人之名辟之是猶伏而咶天救經而引其, krp: 給矣皆給}
+  - {type: variant, offset: 1172, length: 1, content: 聖, WYG: 則法雖省足以徧矣無君子則法雖具失先後之施矣不能應事之變足以亂矣不知法之義而正法之數者雖博傳臨事必亂故明主急得其}
+  - {type: page-break, offset: 1172, content: '', id: KR3a0002_WYG_008-1b, image: WYG0695/WYG0695-0191b.png}
+  - {type: variant, offset: 1174, length: 0, content: '', WYG: 而闇主急得其勢急得其人則身佚而國治功大而名美上可以王下可以霸不急得其人而急得其勢則身勞而國亂功廢而名辱社稷必危故君人者勞於索}
+  - {type: variant, offset: 1175, length: 2, content: 名辟, WYG: 而休於使}
+  - {type: punctuation, offset: 1176, content: ，, id: KR3a0002_tls_007-bkkpn227}
+  - {type: xml-element, offset: 1176, content: '', id: KR3a0002_tls_007-bkkxmlele47}
+  - {type: xml-element, offset: 1176, content: '', id: KR3a0002_tls_007-bkkxmlele48}
+  - {type: 'tls:seg', offset: 1176, content: '', id: KR3a0002_tls_007-6a.13}
+  - {type: 'tls:seg', offset: 1178, content: '', id: KR3a0002_tls_007-6a.14}
+  - {type: variant, offset: 1178, length: 0, content: '', WYG: 書曰惟文王敬忌一人以懌此之謂也合符節别契劵者所以為信也上好權謀則臣下百吏誕詐之人乗}
+  - {type: variant, offset: 1179, length: 2, content: 猶伏, WYG: ''}
+  - {type: variant, offset: 1182, length: 4, content: 咶天救經, WYG: 後欺探籌投鉤者所以為公也上好曲私則臣下百吏乗是}
+  - {type: punctuation, offset: 1184, content: ，, id: KR3a0002_tls_007-bkkpn228}
+  - {type: 'tls:seg', offset: 1184, content: '', id: KR3a0002_tls_007-6a.15}
+  - {type: variant, offset: 1187, length: 1, content: 引, WYG: 後偏衡石稱縣者所以為平也上好傾覆則臣下百吏乘是而後險斗斛敦槩者所以為嘖也上好貪利則臣下百吏乗是而後鄙豐取刻與以無度取於民故械數者治之流也非治之源也君子者治之源也官人守數君子養源源清則流清源濁則流濁故上好禮義尚賢使能無貪利之心則下亦將綦辭讓致忠信而謹於臣子矣如是則雖在小民不待合符節别契劵而信不待探籌投鉤而公不待衡石稱縣而平不待斗斛敦槩而嘖故賞不用而民勸罰不用而民服有司不勞而事治政令不煩而俗美百姓莫敢不順上之法象上之志而勸上之事而安樂之矣故籍斂忘費事業忘勞宼難忘死城郭不待飾而固兵刄不待陵而勁敵國不待服而詘四海之民不待令而一夫是之謂王乎詩曰王猷允塞徐方既來此之謂也請問為人君曰以禮分施均徧而不偏請問為人臣曰以禮待君忠順而不懈請問為人父曰寛惠而有禮請問為人子曰敬愛而致文請問為人兄曰慈愛而見友請問為人弟曰敬詘而不苟請問為人夫曰致功而不流致臨而有辨請問為人妻曰夫有禮則柔從聽侍夫無禮則恐懼而自竦也此道也偏立而亂俱立而治}
+  - {type: page-break, offset: 1187, content: '', id: KR3a0002_WYG_008-2a, image: WYG0695/WYG0695-0191c.png}
+  - {type: page-break, offset: 1187, content: '', id: KR3a0002_WYG_008-2b, image: WYG0695/WYG0695-0191d.png}
+  - {type: page-break, offset: 1187, content: '', id: KR3a0002_WYG_008-3a, image: WYG0695/WYG0695-0192a.png}
+  - {type: variant, offset: 1190, length: 0, content: '', WYG: 以稽矣請問兼能之柰何曰審之禮}
+  - {type: punctuation, offset: 1191, content: ，, id: KR3a0002_tls_007-bkkpn229}
+  - {type: 'tls:seg', offset: 1191, content: '', id: KR3a0002_tls_007-6a.16}
+  - {type: variant, offset: 1191, length: 2, content: 說必, SBCK: 所求之物百工忠信而}
+  - {type: variant, offset: 1191, length: 2, content: 說必, WYG: 古者先王審禮以方皇周浹於天下動無}
+  - {type: variant, offset: 1191, length: 2, content: 說必, krp: 所求之物百工忠信而}
+  - {type: variant, offset: 1194, length: 0, content: '', SBCK: 楛則器用巧便而財不匱矣農夫朴力而寡能則上不失天時下不失地利中得人和而百事不廢是之謂政令}
+  - {type: page-break, offset: 1194, content: '', id: KR3a0002_SBCK_007-25b}
+  - {type: variant, offset: 1194, length: 7, content: 行矣俞務而俞遠, WYG: 當也}
+  - {type: variant, offset: 1194, length: 0, content: '', krp: 楛則器用巧便而財不匱矣農夫朴力而寡能則上不失天時下不失地利中得人和而百事不廢是之謂政令}
+  - {type: variant, offset: 1195, length: 8, content: 矣俞務而俞遠故君, SBCK: 風俗美以守則固以征則彊居則有名動則有功此儒之所謂曲辨也荀}
+  - {type: variant, offset: 1195, length: 8, content: 矣俞務而俞遠故君, krp: 風俗美以守則固以征則彊居則有名動則有功此儒之所謂曲辨也荀}
+  - {type: punctuation, offset: 1196, content: ，, id: KR3a0002_tls_007-bkkpn230}
+  - {type: 'tls:seg', offset: 1196, content: '', id: KR3a0002_tls_007-6a.17}
+  - {type: punctuation, offset: 1201, content: 。, id: KR3a0002_tls_007-bkkpn231}
+  - {type: 'tls:seg', offset: 1201, content: '', id: KR3a0002_tls_007-6a.18}
+  - {type: variant, offset: 1204, length: 9, content: 時詘則詘時伸則伸也, SBCK: 卷第七}
+  - {type: variant, offset: 1204, length: 2, content: 時詘, WYG: 恭而不難敬而不鞏貧窮而不約富貴而不驕並遇變應而不窮審之禮也故君子之於禮敬而安之其於事也徑而不失其於人也寡怨寛裕而無阿其所為身也謹修勑而不危其應變故也齊給便㨗而不惑其於天地萬物也不務說其所以然而致善用其材其於百官之事伎藝之人也不與之爭能而致善用其功其侍上也忠順而不懈其使下也均徧而不偏其交遊也縁義而有類其居鄉里也容而不亂是故窮}
+  - {type: page-break, offset: 1204, content: '', id: KR3a0002_WYG_008-3b, image: WYG0695/WYG0695-0192b.png}
+  - {type: variant, offset: 1204, length: 9, content: 時詘則詘時伸則伸也, krp: 卷第七}
+  - {type: variant, offset: 1207, length: 3, content: 詘時伸, WYG: 必有名達}
+  - {type: punctuation, offset: 1208, content: ，, id: KR3a0002_tls_007-bkkpn232}
+  - {type: 'tls:seg', offset: 1208, content: '', id: KR3a0002_tls_007-6a.19}
+  - {type: variant, offset: 1211, length: 1, content: 伸, WYG: 必有功仁厚兼覆天下而不閔明達用天地理萬變而不疑血氣和平志意廣大行義塞於天地之間仁知之極}
+  - {type: punctuation, offset: 1213, content: 。, id: KR3a0002_tls_007-bkkpn233}
+  - {type: xml-element, offset: 1213, content: '', id: KR3a0002_tls_007-bkkxmlele49}
+  - {type: xml-element, offset: 1213, content: '', id: KR3a0002_tls_007-bkkxmlele50}
+  - {type: variant, offset: 1213, length: 0, content: '', WYG: 夫是之謂聖人審之禮也請問為國曰聞修身未甞聞為國也君者儀也儀正而景正君者槃也槃圓}
+  - {type: page-break, offset: 1213, content: '', id: KR3a0002_WYG_008-4a, image: WYG0695/WYG0695-0192c.png}
+  back: []
+hash: sha256:58de0e0c2821c67c6ac3e235dae6b9ca301ad1c1ee9df8f28abf1fe24ea2622e

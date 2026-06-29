@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0002/WYG/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荀
+  hash: sha256:b412b96774bf0e3cc22e54bae74d9bff260e1489e00cfae203f9c761e5462b41
+metadata:
+  title: 荀子
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 03:47:11.454103'
+  source:
+    repository: kanripo
+    path: KR3a0002/KR3a0002_021.txt
+hash: sha256:c52c21a0f6ca78472d1599d86cd2c5f626cd804bf6ed642adb4c8621b88a0648
