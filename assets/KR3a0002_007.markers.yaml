@@ -216,7 +216,6 @@ markers:
   - {type: variant, offset: 340, length: 2, content: 脩鬭, SBCK: 不妄耗費謹嚴畜積􅇱戰}
   - {type: variant, offset: 340, length: 3, content: 脩鬭備, WYG: 謹嚴畜積不妄耗費修戰僃齺然上下相信}
   - {type: variant, offset: 340, length: 2, content: 脩鬭, krp: 不妄耗費謹嚴畜積}
-  - {type: substitution, offset: 340, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
   - {type: punctuation, offset: 343, content: ，, id: KR3a0002_tls_007-bkkpn67}
   - {type: 'tls:seg', offset: 343, content: '', id: KR3a0002_tls_007-2a.15}
   - {type: variant, offset: 343, length: 0, content: '', SBCK: 齺然上下相信}
@@ -488,7 +487,6 @@ markers:
   - {type: variant, offset: 545, length: 0, content: '', WYG: 侈離之徳則必滅侈奢侈離乖離皆謂不遵法度名聲若日月功積如天地天下之人應之如影嚮是又人情之所同欲也而王者兼而有是者也故人之情口好味而臭味莫美焉耳好聲而聲樂莫大焉目好色而文章致繁婦女莫衆焉形體好佚而安重間靜莫愉焉間隙也或讀為閑愉樂也心好利而穀禄莫厚焉合天下之所同願兼而有之睪牢天下而制之若制子孫睪牢未詳睪或作畢言盡牢籠天下也新序作宰牢戰國䇿燕太子丹謂荆軻曰秦有貪功之心非盡天下之地牢海内之王}
   - {type: page-break, offset: 545, content: '', id: KR3a0002_WYG_007-13a, image: WYG0695/WYG0695-0186c.png}
   - {type: variant, offset: 546, length: 1, content: 埶, WYG: 意不厭或曰睪讀如以薅荼蓼之薅牢與漢書立㛐轇羮同皆修理斡運之意也人苟不狂惑戇陋者其誰能睹是而不樂也哉欲是之主並肩而存能建是之士不世絶千歲而不合何也曰人主不公人臣不忠也人主則外賢而偏舉人臣則爭職而妬賢}
-  - {type: substitution, offset: 546, original: 埶, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3237}}
   - {type: punctuation, offset: 547, content: ，, id: KR3a0002_tls_007-bkkpn98}
   - {type: 'tls:seg', offset: 547, content: '', id: KR3a0002_tls_007-2a.48}
   - {type: variant, offset: 551, length: 1, content: 危, SBCK: 不合之故}
@@ -530,7 +528,6 @@ markers:
   - {type: 'tls:seg', offset: 594, content: '', id: KR3a0002_tls_007-3a.11}
   - {type: punctuation, offset: 600, content: ；, id: KR3a0002_tls_007-bkkpn108}
   - {type: 'tls:seg', offset: 600, content: '', id: KR3a0002_tls_007-3a.12}
-  - {type: substitution, offset: 601, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
   - {type: punctuation, offset: 604, content: ，, id: KR3a0002_tls_007-bkkpn109}
   - {type: 'tls:seg', offset: 604, content: '', id: KR3a0002_tls_007-3a.13}
   - {type: punctuation, offset: 610, content: ；, id: KR3a0002_tls_007-bkkpn110}
@@ -576,7 +573,6 @@ markers:
   - {type: 'tls:seg', offset: 698, content: '', id: KR3a0002_tls_007-3a.30}
   - {type: punctuation, offset: 708, content: 。, id: KR3a0002_tls_007-bkkpn127}
   - {type: 'tls:seg', offset: 708, content: '', id: KR3a0002_tls_007-3a.31}
-  - {type: substitution, offset: 715, original: 埶, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3237}}
   - {type: punctuation, offset: 716, content: ，, id: KR3a0002_tls_007-bkkpn128}
   - {type: 'tls:seg', offset: 716, content: '', id: KR3a0002_tls_007-3a.32}
   - {type: punctuation, offset: 722, content: ；, id: KR3a0002_tls_007-bkkpn129}
@@ -818,7 +814,6 @@ markers:
   - {type: 'tls:seg', offset: 994, content: '', id: KR3a0002_tls_007-4a.51}
   - {type: punctuation, offset: 997, content: ？, id: KR3a0002_tls_007-bkkpn193}
   - {type: 'tls:seg', offset: 997, content: '', id: KR3a0002_tls_007-4a.52}
-  - {type: substitution, offset: 1001, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: 'tls:seg', offset: 1002, content: '', id: KR3a0002_tls_007-4a.53}
   - {type: punctuation, offset: 1008, content: 。, id: KR3a0002_tls_007-bkkpn194}
   - {type: xml-element, offset: 1008, content: '', id: KR3a0002_tls_007-bkkxmlele41}
@@ -841,7 +836,6 @@ markers:
   - {type: 'tls:seg', offset: 1019, content: '', id: KR3a0002_tls_007-5a.4}
   - {type: punctuation, offset: 1025, content: ，, id: KR3a0002_tls_007-bkkpn197}
   - {type: 'tls:seg', offset: 1025, content: '', id: KR3a0002_tls_007-5a.5}
-  - {type: substitution, offset: 1029, original: 貳, replacement: 二, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3868}}
   - {type: punctuation, offset: 1031, content: 。, id: KR3a0002_tls_007-bkkpn198}
   - {type: 'tls:seg', offset: 1031, content: '', id: KR3a0002_tls_007-5a.6}
   - {type: punctuation, offset: 1038, content: ，, id: KR3a0002_tls_007-bkkpn199}
@@ -991,7 +985,6 @@ markers:
   - {type: punctuation, offset: 1139, content: ，, id: KR3a0002_tls_007-bkkpn222}
   - {type: 'tls:seg', offset: 1139, content: '', id: KR3a0002_tls_007-6a.7}
   - {type: variant, offset: 1139, length: 1, content: 埶, WYG: 厚重其秩禄使}
-  - {type: substitution, offset: 1139, original: 埶, replacement: 藝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3237}}
   - {type: variant, offset: 1141, length: 3, content: 在人上, WYG: 貪也關市幾}
   - {type: 'tls:seg', offset: 1144, content: '', id: KR3a0002_tls_007-6a.8}
   - {type: variant, offset: 1145, length: 23, content: 羞為人下是姦人之心也志不免乎姦心行不免乎姦道而, SBCK: 國}
@@ -1068,4 +1061,4 @@ markers:
   - {type: variant, offset: 1213, length: 0, content: '', WYG: 夫是之謂聖人審之禮也請問為國曰聞修身未甞聞為國也君者儀也儀正而景正君者槃也槃圓}
   - {type: page-break, offset: 1213, content: '', id: KR3a0002_WYG_008-4a, image: WYG0695/WYG0695-0192c.png}
   back: []
-hash: sha256:58de0e0c2821c67c6ac3e235dae6b9ca301ad1c1ee9df8f28abf1fe24ea2622e
+hash: sha256:a889f9981d09dff4e85b93bd26d9e7e4c426aeef981e961851afefa039266614
