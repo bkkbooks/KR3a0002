@@ -79,6 +79,7 @@ markers:
   - {type: variant, offset: 48, length: 8, content: 巧敏佞說善取寵乎, WYG: 社至於諸侯道及士大夫道通也言社自諸侯通及士大夫也適士皆得祭門及行史記道作士大夫也或曰道行神也亦作㗖司馬貞曰㗖音含苞也言士大夫皆得苞立社倞謂是萹通道誤為蹈傳寫又誤以蹈為蹈耳所以别尊者事尊卑者事卑宜大者巨宜小者小故有天下者事十世十當為七穀梁傳作天子七廟有一國者事五世有五乗之地者事三世古者十里為成成出革車一乗五乗之地謂大夫有采地者得立三廟也有三乗之地者事二世祭法所謂適士立二廟也持手而食者不得立宗廟持其手而食謂農工所以表積厚積厚者流澤廣積薄者流澤狹也積與績同功業也穀梁傳僖公十五年震夷伯之廟夷伯魯大夫因以此見天子至于士皆有廟也天子廟七諸侯五大夫三士二故徳厚者流光徳薄者流卑是以貴始徳之本也大饗尚𤣥尊俎生魚先大羮貴食飲之本也大饗祫祭先王也尚}
   - {type: page-break, offset: 48, content: '', id: KR3a0002_WYG_013-4a, image: WYG0695/WYG0695-0235a.png}
   - {type: variant, offset: 48, length: 9, content: 巧敏佞說善取寵乎上, krp: 社止於諸侯道及士大夫神也祭法大夫適士皆得祭門及行史記道作道通也言社自諸侯通及士大夫也或曰道行立社倞謂當}
+  - {type: substitution, offset: 51, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 52, content: ，, id: KR3a0002_tls_013-bkkpn12}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3a0002_tls_013-1a.13}
   - {type: punctuation, offset: 57, content: ，, id: KR3a0002_tls_013-bkkpn13}
@@ -110,6 +111,7 @@ markers:
   - {type: variant, offset: 74, length: 9, content: 䘏公道通義朋黨比周, WYG: 醮也成事之俎不嘗也三臭之不食也一也醮盡也謂祭禮必告利成利成之時其爵不卒奠于筵前也史記作不卒成事謂尸既飽禮成不嘗其爼儀禮尸又三飯士佐食受尸牢肺正脊加于肵臭謂歆其氣謂食畢也許又反皆謂禮畢無文飾復歸于朴亦象太古時史記作三侑之不食司馬貞云禮祭必立侑}
   - {type: page-break, offset: 74, content: '', id: KR3a0002_WYG_013-5a, image: WYG0695/WYG0695-0235c.png}
   - {type: variant, offset: 74, length: 9, content: 䘏公道通義朋黨比周, krp: 醮也成事之俎不甞也三臭之不食也一也前也史記作不啐成事謂尸既飽禮成不甞其爼儀禮醮盡也謂祭祀畢告利成利成之時其爵不卒奠子筵氣謂食畢也許又反皆謂禮畢無文飾復歸於朴亦象尸又三飯上佐食受尸牢肺正脊加于肵是臭謂歆其}
+  - {type: substitution, offset: 74, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: punctuation, offset: 79, content: ，, id: KR3a0002_tls_013-bkkpn17}
   - {type: 'tls:seg', offset: 79, content: '', id: KR3a0002_tls_013-1a.18}
   - {type: punctuation, offset: 83, content: ，, id: KR3a0002_tls_013-bkkpn18}
@@ -222,6 +224,7 @@ markers:
   - {type: variant, offset: 182, length: 4, content: 彊用篡臣, SBCK: 安不從}
   - {type: variant, offset: 182, length: 4, content: 彊用篡臣, WYG: 平之至規矩}
   - {type: variant, offset: 182, length: 4, content: 彊用篡臣, krp: 安不從}
+  - {type: substitution, offset: 182, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 183, content: ，, id: KR3a0002_tls_013-bkkpn39}
   - {type: 'tls:seg', offset: 183, content: '', id: KR3a0002_tls_013-1a.40}
   - {type: variant, offset: 187, length: 4, content: 危用態臣, WYG: 方圓之至禮}
@@ -351,8 +354,10 @@ markers:
   - {type: 'tls:seg', offset: 339, content: '', id: KR3a0002_tls_013-2a.5}
   - {type: punctuation, offset: 348, content: ；, id: KR3a0002_tls_013-bkkpn75}
   - {type: 'tls:seg', offset: 348, content: '', id: KR3a0002_tls_013-2a.6}
+  - {type: substitution, offset: 349, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: punctuation, offset: 354, content: ，, id: KR3a0002_tls_013-bkkpn76}
   - {type: 'tls:seg', offset: 354, content: '', id: KR3a0002_tls_013-2a.7}
+  - {type: substitution, offset: 355, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: punctuation, offset: 360, content: ，, id: KR3a0002_tls_013-bkkpn77}
   - {type: 'tls:seg', offset: 360, content: '', id: KR3a0002_tls_013-2a.8}
   - {type: punctuation, offset: 364, content: 、, id: KR3a0002_tls_013-bkkpn78}
@@ -399,6 +404,7 @@ markers:
   - {type: 'tls:seg', offset: 430, content: '', id: KR3a0002_tls_013-2a.21}
   - {type: punctuation, offset: 436, content: ，, id: KR3a0002_tls_013-bkkpn92}
   - {type: 'tls:seg', offset: 436, content: '', id: KR3a0002_tls_013-2a.22}
+  - {type: substitution, offset: 444, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 448, content: ，, id: KR3a0002_tls_013-bkkpn93}
   - {type: 'tls:seg', offset: 448, content: '', id: KR3a0002_tls_013-2a.23}
   - {type: punctuation, offset: 452, content: ，, id: KR3a0002_tls_013-bkkpn94}
@@ -456,6 +462,7 @@ markers:
   - {type: variant, offset: 537, length: 9, content: 而闇主惑之以為己賊, SBCK: 者由隆禮}
   - {type: variant, offset: 537, length: 72, content: 而闇主惑之以為己賊也故明君之所賞闇君之所罰也闇君之所賞明君之所殺也伊尹箕子可謂諫矣比干子胥可謂爭矣平原君之於趙也可謂輔矣信陵君之於魏也可謂拂矣傳, WYG: 詩}
   - {type: variant, offset: 537, length: 9, content: 而闇主惑之以為己賊, krp: 者由隆禮}
+  - {type: substitution, offset: 538, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 542, content: ，, id: KR3a0002_tls_013-bkkpn114}
   - {type: punctuation, offset: 547, content: 。, id: KR3a0002_tls_013-bkkpn115}
   - {type: 'tls:seg', offset: 547, content: '', id: KR3a0002_tls_013-2a.41}
@@ -467,8 +474,10 @@ markers:
   - {type: variant, offset: 550, length: 59, content: 之所賞闇君之所罰也闇君之所賞明君之所殺也伊尹箕子可謂諫矣比干子胥可謂爭矣平原君之於趙也可謂輔矣信陵君之於魏也可謂拂矣傳, krp: 詩}
   - {type: punctuation, offset: 553, content: ，, id: KR3a0002_tls_013-bkkpn116}
   - {type: 'tls:seg', offset: 553, content: '', id: KR3a0002_tls_013-2a.42}
+  - {type: substitution, offset: 553, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 559, content: ；, id: KR3a0002_tls_013-bkkpn117}
   - {type: 'tls:seg', offset: 559, content: '', id: KR3a0002_tls_013-2a.43}
+  - {type: substitution, offset: 559, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 564, content: ，, id: KR3a0002_tls_013-bkkpn118}
   - {type: 'tls:seg', offset: 564, content: '', id: KR3a0002_tls_013-2a.44}
   - {type: punctuation, offset: 570, content: 。, id: KR3a0002_tls_013-bkkpn119}
@@ -572,10 +581,12 @@ markers:
   - {type: variant, offset: 668, length: 30, content: 闇主好獨明主尚賢使能而饗其盛闇主妬賢畏能而滅其功罰其忠賞其賊, SBCK: 止}
   - {type: variant, offset: 668, length: 30, content: 闇主好獨明主尚賢使能而饗其盛闇主妬賢畏能而滅其功罰其忠賞其賊, WYG: 止}
   - {type: variant, offset: 668, length: 30, content: 闇主好獨明主尚賢使能而饗其盛闇主妬賢畏能而滅其功罰其忠賞其賊, krp: 止}
+  - {type: substitution, offset: 668, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 672, content: ，, id: KR3a0002_tls_013-bkkpn148}
   - {type: 'tls:seg', offset: 672, content: '', id: KR3a0002_tls_013-3a.11}
   - {type: punctuation, offset: 682, content: ，, id: KR3a0002_tls_013-bkkpn149}
   - {type: 'tls:seg', offset: 682, content: '', id: KR3a0002_tls_013-3a.12}
+  - {type: substitution, offset: 682, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 692, content: 。, id: KR3a0002_tls_013-bkkpn150}
   - {type: 'tls:seg', offset: 692, content: '', id: KR3a0002_tls_013-3a.13}
   - {type: punctuation, offset: 695, content: ，, id: KR3a0002_tls_013-bkkpn151}
@@ -588,6 +599,7 @@ markers:
   - {type: page-break, offset: 703, content: '', id: KR3a0002_SBCK_013-13b}
   - {type: variant, offset: 703, length: 3, content: 闇桀紂, WYG: 辱此蓋論墨子薄葬是以至辱之道奉君父也禮者謹於吉凶不相厭者也厭掩也烏甲反謂不使相侵掩也或曰不使相厭惡非也紸纊聽息之時則夫忠臣孝子亦知其閔已紸讀為注注纊即屬纊也言此時知其必至於憂閔也或曰纊當為黊黊古化反以為黊字非也然而殯歛之具未有求也}
   - {type: variant, offset: 703, length: 3, content: 闇桀紂, krp: 辱至辱之道奉君父也此蓋論墨子薄葬是以禮者謹於吉凶不相厭者也掩也或曰不使相厭惡非也厭掩也烏甲反謂不使相侵紸纊聽息之時則夫忠臣孝子亦知其閔已屬纊也言此時知紸讀爲注注纊即絓絓古化反以爲黊字非也其必至於憂閔也或曰紸當爲然而殯歛之具未有求也相厭也所謂不垂涕恐懼然而幸生之心未巳持生之事未輟也卒矣然後作具之具之作之故雖備家必踰日然後能殯三日而成服足也備豐然後告遠者出矣備物者作矣故殯久不過七十日速不損五十日三月者也損減也此皆據士喪禮首尾是何也曰遠者可以至矣百求可以得矣百事可以成矣其忠至矣其節大矣其文備矣凡附於身者必誠必信勿之有悔焉耳三月而葬凡附於棺忠誠也節人子之節也文器用儀制也子思曰喪三日而殯之有悔焉耳者必誠必信勿然後月朝卜日月夕卜宅然後葬也大夫之禮也士則筮宅士喪禮先筮宅後卜日此之月月朝月初也月夕月末也先卜日知其期然後卜宅此卜宅未詳也朝卜日月夕當是時也其義止誰得行之其義行誰得止之者抑情不肖者企及聖人爲之節制使賢故三月之葬殯其䫉以生設飾死者也殆非直留死者以安生也器用飾死者三月乃能備也䫉象也言其象以生之所設是致隆思慕之義也卒禮之凡常道凡謂變而飾每加飾謂殯歛動而遠游云飯禮記子客位祖於庭葬於墓所以即遠也於牖下小歛於戸内大歛於阼殯於久而平如平常也久則哀殺故死之爲道也不飾則惡惡則不哀尒則翫翫戲狎也尒與邇同翫則厭厭則忘忘則不敬一朝而喪其嚴親而所以送葬之者不哀不敬則嫌於禽獸矣君子恥之故變而飾}
+  - {type: substitution, offset: 703, original: 闇, replacement: 暗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17591}}
   - {type: punctuation, offset: 704, content: ，, id: KR3a0002_tls_013-bkkpn153}
   - {type: 'tls:seg', offset: 704, content: '', id: KR3a0002_tls_013-3a.16}
   - {type: punctuation, offset: 705, content: 、, id: KR3a0002_tls_013-bkkpn154}
@@ -729,6 +741,7 @@ markers:
   - {type: xml-element, offset: 912, content: '', id: KR3a0002_tls_013-bkkxmlele51}
   - {type: xml-element, offset: 912, content: '', id: KR3a0002_tls_013-bkkxmlele52}
   - {type: 'tls:seg', offset: 912, content: '', id: KR3a0002_tls_013-5a.21}
+  - {type: substitution, offset: 915, original: 樸, replacement: 朴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20163}}
   - {type: punctuation, offset: 917, content: ，, id: KR3a0002_tls_013-bkkpn204}
   - {type: 'tls:seg', offset: 917, content: '', id: KR3a0002_tls_013-5a.22}
   - {type: punctuation, offset: 921, content: ，, id: KR3a0002_tls_013-bkkpn205}
@@ -834,8 +847,10 @@ markers:
   - {type: xml-element, offset: 1099, content: '', id: KR3a0002_tls_013-bkkxmlele60}
   - {type: 'tls:seg', offset: 1099, content: '', id: KR3a0002_tls_013-7a.12}
   - {type: variant, offset: 1100, length: 94, content: 卹君之榮辱不卹國之臧否偷合苟容以之持祿養交而已耳國賊也若周公之於成王也可謂大忠矣若管仲之於桓公可謂次忠矣若子胥之於夫差可謂下忠矣若曹觸龍之於紂者可謂國賊矣仁者必敬人凡人非賢則案不肖也人賢而, WYG: 哀}
+  - {type: substitution, offset: 1100, original: 卹, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17021}}
   - {type: punctuation, offset: 1105, content: ，, id: KR3a0002_tls_013-bkkpn251}
   - {type: 'tls:seg', offset: 1105, content: '', id: KR3a0002_tls_013-7a.13}
+  - {type: substitution, offset: 1106, original: 卹, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17021}}
   - {type: punctuation, offset: 1111, content: ，, id: KR3a0002_tls_013-bkkpn252}
   - {type: 'tls:seg', offset: 1111, content: '', id: KR3a0002_tls_013-7a.14}
   - {type: punctuation, offset: 1115, content: 、, id: KR3a0002_tls_013-bkkpn253}
@@ -950,6 +965,7 @@ markers:
   - {type: 'tls:seg', offset: 1291, content: '', id: KR3a0002_tls_013-8a.24}
   - {type: variant, offset: 1292, length: 6, content: 肖者則䟽而敬, SBCK: 至於窕冶冶妖美也窕讀爲姚姚其立麤衰也不至於瘠棄飾亦不使羸瘠自棄立麤衰以爲居喪}
   - {type: variant, offset: 1292, length: 6, content: 肖者則䟽而敬, krp: 至於窕冶冶妖美也窕讀爲姚姚其立麤衰也不至於瘠棄飾亦不使羸瘠自棄立麤衰以爲居喪}
+  - {type: substitution, offset: 1295, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
   - {type: punctuation, offset: 1299, content: 。, id: KR3a0002_tls_013-bkkpn292}
   - {type: xml-element, offset: 1299, content: '', id: KR3a0002_tls_013-bkkxmlele67}
   - {type: xml-element, offset: 1299, content: '', id: KR3a0002_tls_013-bkkxmlele68}
@@ -1203,6 +1219,7 @@ markers:
   - {type: 'tls:seg', offset: 1508, content: '', id: KR3a0002_tls_013-10a.20}
   - {type: punctuation, offset: 1512, content: ，, id: KR3a0002_tls_013-bkkpn347}
   - {type: 'tls:seg', offset: 1512, content: '', id: KR3a0002_tls_013-10a.21}
+  - {type: substitution, offset: 1513, original: 䘏, replacement: 恤, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17022}}
   - {type: punctuation, offset: 1516, content: ，, id: KR3a0002_tls_013-bkkpn348}
   - {type: 'tls:seg', offset: 1516, content: '', id: KR3a0002_tls_013-10a.22}
   - {type: punctuation, offset: 1520, content: ，, id: KR3a0002_tls_013-bkkpn349}
@@ -1244,6 +1261,7 @@ markers:
   - {type: page-break, offset: 1552, content: '', id: KR3a0002_SBCK_013-26b}
   - {type: variant, offset: 1552, length: 16, content: 同而壹詩曰受小球大球為下國綴旒此, WYG: 醮也主人有尊如或觴}
   - {type: variant, offset: 1552, length: 19, content: 同而壹詩曰受小球大球為下國綴旒此之謂也, krp: 見鬼神有類乎無荀子卷第十三}
+  - {type: substitution, offset: 1554, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20157}}
   - {type: punctuation, offset: 1555, content: 。, id: KR3a0002_tls_013-bkkpn361}
   - {type: punctuation, offset: 1555, content: 」, id: KR3a0002_tls_013-bkkpn362}
   - {type: 'tls:seg', offset: 1555, content: '', id: KR3a0002_tls_013-10a.31}
@@ -1266,4 +1284,4 @@ markers:
   - {type: page-break, offset: 1571, content: '', id: KR3a0002_WYG_013-23b, image: WYG0695/WYG0695-0244d.png}
   - {type: page-break, offset: 1571, content: '', id: KR3a0002_WYG_014-1a, image: WYG0695/WYG0695-0245a.png}
   back: []
-hash: sha256:3dd545535161cce25498d29b129c13d7491254a71dbec1b654f9a89b9b4dab98
+hash: sha256:2394446af1f0388521980933b6f6786a99a4fd91d59afe548e7393ad2f4a59fe

@@ -51,6 +51,7 @@ markers:
   - {type: page-break, offset: 28, content: '', id: KR3a0002_SBCK_014-2b}
   - {type: variant, offset: 28, length: 4, content: 殘賊加累, WYG: 從入所以揖讓則莫不從服故樂者天下}
   - {type: variant, offset: 28, length: 4, content: 殘賊加累, krp: 從入所以揖讓則莫不從服故樂者天下}
+  - {type: substitution, offset: 31, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: variant, offset: 33, length: 2, content: 譖君, SBCK: 大齊也中和之紀也人情之所必不免也是先王立樂之術也而墨}
   - {type: variant, offset: 33, length: 2, content: 譖君, WYG: 大齊也中和之紀也人情之所必不免也是先王立樂之術也而墨}
   - {type: variant, offset: 33, length: 2, content: 譖君, krp: 大齊也中和之紀也人情之所必不免也是先王立樂之術也而墨}
@@ -84,6 +85,7 @@ markers:
   - {type: 'tls:seg', offset: 58, content: '', id: KR3a0002_tls_014-1a.15}
   - {type: punctuation, offset: 61, content: 、, id: KR3a0002_tls_014-bkkpn14}
   - {type: 'tls:seg', offset: 61, content: '', id: KR3a0002_tls_014-1a.16}
+  - {type: substitution, offset: 62, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 63, content: 、, id: KR3a0002_tls_014-bkkpn15}
   - {type: 'tls:seg', offset: 63, content: '', id: KR3a0002_tls_014-1a.17}
   - {type: punctuation, offset: 65, content: 、, id: KR3a0002_tls_014-bkkpn16}
@@ -91,6 +93,7 @@ markers:
   - {type: punctuation, offset: 67, content: 、, id: KR3a0002_tls_014-bkkpn17}
   - {type: 'tls:seg', offset: 67, content: '', id: KR3a0002_tls_014-1a.19}
   - {type: punctuation, offset: 69, content: 、, id: KR3a0002_tls_014-bkkpn18}
+  - {type: substitution, offset: 70, original: 愬, replacement: 訴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16594}}
   - {type: punctuation, offset: 71, content: 、, id: KR3a0002_tls_014-bkkpn19}
   - {type: 'tls:seg', offset: 71, content: '', id: KR3a0002_tls_014-1a.20}
   - {type: variant, offset: 72, length: 3, content: 官而衡, SBCK: 安其處樂其郷以}
@@ -127,6 +130,7 @@ markers:
   - {type: page-break, offset: 106, content: '', id: KR3a0002_WYG_014-4a, image: WYG0695/WYG0695-0247a.png}
   - {type: punctuation, offset: 107, content: 、, id: KR3a0002_tls_014-bkkpn26}
   - {type: 'tls:seg', offset: 107, content: '', id: KR3a0002_tls_014-1a.27}
+  - {type: substitution, offset: 108, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 109, content: 、, id: KR3a0002_tls_014-bkkpn27}
   - {type: 'tls:seg', offset: 109, content: '', id: KR3a0002_tls_014-1a.28}
   - {type: punctuation, offset: 111, content: 、, id: KR3a0002_tls_014-bkkpn28}
@@ -134,6 +138,7 @@ markers:
   - {type: punctuation, offset: 113, content: 、, id: KR3a0002_tls_014-bkkpn29}
   - {type: 'tls:seg', offset: 113, content: '', id: KR3a0002_tls_014-1a.30}
   - {type: punctuation, offset: 115, content: 、, id: KR3a0002_tls_014-bkkpn30}
+  - {type: substitution, offset: 116, original: 愬, replacement: 訴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16594}}
   - {type: 'tls:seg', offset: 117, content: '', id: KR3a0002_tls_014-1a.31}
   - {type: variant, offset: 119, length: 1, content: 試, WYG: 正}
   - {type: page-break, offset: 120, content: '', id: KR3a0002_WYG_014-4b, image: WYG0695/WYG0695-0247b.png}
@@ -142,6 +147,7 @@ markers:
   - {type: variant, offset: 121, length: 12, content: 忠言忠說忠事忠謀忠譽忠愬, WYG: 愚者學之危其身也君子明樂乃其德也亂世善惡不此聽也於乎哀哉不得成也弟子免學無所營也聲樂之象鼓大麗鐘統實磬廉制竽笙簫和筦籥發猛塤箎翁博瑟易良琴婦好歌清盡舞意天道兼鼔其樂之君耶故鼔似天鐘似地磬似水竽簫筦籥似星辰日月鞉柷拊􅀢控􅀈似萬物曷以知舞之意曰目不自見耳不自聞也然而治俯仰詘信進退遲速}
   - {type: punctuation, offset: 123, content: 、, id: KR3a0002_tls_014-bkkpn32}
   - {type: 'tls:seg', offset: 123, content: '', id: KR3a0002_tls_014-1a.33}
+  - {type: substitution, offset: 124, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 125, content: 、, id: KR3a0002_tls_014-bkkpn33}
   - {type: 'tls:seg', offset: 125, content: '', id: KR3a0002_tls_014-1a.34}
   - {type: punctuation, offset: 127, content: 、, id: KR3a0002_tls_014-bkkpn34}
@@ -149,6 +155,7 @@ markers:
   - {type: punctuation, offset: 129, content: 、, id: KR3a0002_tls_014-bkkpn35}
   - {type: 'tls:seg', offset: 129, content: '', id: KR3a0002_tls_014-1a.36}
   - {type: punctuation, offset: 131, content: 、, id: KR3a0002_tls_014-bkkpn36}
+  - {type: substitution, offset: 132, original: 愬, replacement: 訴, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16594}}
   - {type: variant, offset: 135, length: 0, content: '', WYG: 廉制盡筋骨之力以要鐘鼓俯㑹之節而靡有悖逆者衆積䜄䜄乎吾觀於鄉而知王道之易易也主人親速賔及介而衆賔皆從之至于門外主人拜賔及介而衆賔皆入貴賤之義别矣三揖至于階三讓以賔升拜至獻酬辭讓之節繁及介省矣至于衆賔升受坐祭立飲不酢而隆殺之義辨矣工入升歌三終主人獻之笙入三終主人獻之間歌三終合樂三終工告樂偹遂出二人揚觶乃立司正焉知其能和樂而不流也賔酬主人主人酬介介酬衆賔少長以齒終於沃者焉知其能弟長而無遺也降說屨升坐脩爵無數飲酒之節朝不廢朝莫不廢夕賔出主人拜送節文終遂焉知其能安燕而不亂也貴賤}
   - {type: page-break, offset: 135, content: '', id: KR3a0002_WYG_014-5a, image: WYG0695/WYG0695-0247c.png}
   - {type: page-break, offset: 135, content: '', id: KR3a0002_WYG_014-5b, image: WYG0695/WYG0695-0247d.png}
@@ -208,6 +215,7 @@ markers:
   - {type: variant, offset: 191, length: 0, content: '', krp: 所樂也而可以善民心其感人深其移風易俗}
   - {type: variant, offset: 192, length: 13, content: 禮及身而行脩義及國而政明能, SBCK: 先王導之}
   - {type: variant, offset: 192, length: 13, content: 禮及身而行脩義及國而政明能, krp: 先王導之}
+  - {type: substitution, offset: 197, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 198, content: ，, id: KR3a0002_tls_014-bkkpn48}
   - {type: 'tls:seg', offset: 198, content: '', id: KR3a0002_tls_014-2a.7}
   - {type: variant, offset: 202, length: 18, content: 政明能以禮挾而貴名白天下願令行禁止王, WYG: 罪申生申生晋獻公之太子奚齊之兄為驪姬所譛獻公殺之春秋穀梁傳曰晉里克弑其君之子奚齊其君之子云}
@@ -396,6 +404,7 @@ markers:
   - {type: variant, offset: 413, length: 16, content: 得眾動天美意延年誠信如神夸誕逐魂, SBCK: 賔酬主}
   - {type: variant, offset: 413, length: 18, content: 得眾動天美意延年誠信如神夸誕逐魂人主, WYG: 此不蔽}
   - {type: variant, offset: 413, length: 16, content: 得眾動天美意延年誠信如神夸誕逐魂, krp: 賔酬主}
+  - {type: substitution, offset: 414, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 417, content: 。, id: KR3a0002_tls_014-bkkpn99}
   - {type: 'tls:seg', offset: 417, content: '', id: KR3a0002_tls_014-4a.3}
   - {type: punctuation, offset: 421, content: 。, id: KR3a0002_tls_014-bkkpn100}
@@ -470,6 +479,7 @@ markers:
   - {type: xml-element, offset: 479, content: '', id: KR3a0002_tls_014-bkkxmlele19}
   - {type: xml-element, offset: 479, content: '', id: KR3a0002_tls_014-bkkxmlele20}
   - {type: 'tls:seg', offset: 479, content: '', id: KR3a0002_tls_014-5a.13}
+  - {type: substitution, offset: 480, original: 燿, replacement: 耀, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17821}}
   - {type: 'tls:seg', offset: 483, content: '', id: KR3a0002_tls_014-5a.14}
   - {type: punctuation, offset: 488, content: 、, id: KR3a0002_tls_014-bkkpn114}
   - {type: 'tls:seg', offset: 488, content: '', id: KR3a0002_tls_014-5a.15}
@@ -626,6 +636,7 @@ markers:
   - {type: 'tls:seg', offset: 741, content: '', id: KR3a0002_tls_014-9a.6}
   - {type: punctuation, offset: 745, content: ；, id: KR3a0002_tls_014-bkkpn173}
   - {type: 'tls:seg', offset: 745, content: '', id: KR3a0002_tls_014-9a.7}
+  - {type: substitution, offset: 746, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: variant, offset: 749, length: 1, content: 陵, WYG: 知法待賢而後舉也申子蔽於勢而}
   - {type: variant, offset: 751, length: 2, content: 犯可, WYG: 知知申子名不害河南京縣人韓昭侯相也其説但賢得權勢}
   - {type: punctuation, offset: 752, content: ，, id: KR3a0002_tls_014-bkkpn174}
@@ -687,4 +698,4 @@ markers:
   - {type: xml-element, offset: 844, content: '', id: KR3a0002_tls_014-bkkxmlele36}
   - {type: page-break, offset: 844, content: '', id: KR3a0002_SBCK_014-8a}
   back: []
-hash: sha256:a35ddcb76cb79dd4f61fc98a3d32f05890c1bc2d705242c3e2639ba8e113c635
+hash: sha256:96229aa3fea19cd054bea4b2071bd3c8c5976c67e262f5222dd25a1e37b61ad9
