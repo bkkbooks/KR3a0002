@@ -69,6 +69,7 @@ markers:
   - {type: variant, offset: 188, length: 1, content: 昔, WYG: 古}
   - {type: punctuation, offset: 190, content: (, id: KR3a0002_krp_000-bkkpn1}
   - {type: variant, offset: 190, length: 0, content: '', WYG: 音}
+  - {type: voice, offset: 190, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 191, content: /, id: KR3a0002_krp_000-bkkpn2}
   - {type: variant, offset: 191, length: 1, content: 音, WYG: ''}
   - {type: punctuation, offset: 192, content: ), id: KR3a0002_krp_000-bkkpn3}
@@ -519,4 +520,4 @@ markers:
 
       ', id: KR3a0002_krp_000-bkkkrnewl60}
   back: []
-hash: sha256:0973804ad947892557ae9d8d1fea2452d34232377951e38a60ebb6b8d3c64dac
+hash: sha256:d26d503aabea1db9edfa18a74651bf9195fa174c77ace35e56653ebeea8f03ea
